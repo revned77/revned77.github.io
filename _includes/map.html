@@ -1,0 +1,7 @@
+<div>{% assign map = site.data.custom.maps.[include.map] %}{% assign metadata = site.data.metadata.[include.map] %}
+{{ map.name }}
+<br>
+<a href="{{ map.path }}"><img src="{{ metadata.thumbnail }}" alt="{{ map.name }}"></a>
+<br>
+<br>
+</div>

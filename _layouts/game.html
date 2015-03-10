@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>{% assign game = site.data.custom.games.[page.game] %}
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ game.title }}</title>
+  {% include analytics.html %}
+</head>
+<body>
+<h1>{{ game.title }}</h1>
+{{ content }}
+</body>
+</html>
