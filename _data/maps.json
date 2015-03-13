@@ -1,0 +1,2327 @@
+{
+  "cv": {
+    "game": "cv",
+    "name": "Dracula's Castle",
+    "path": "/maps/Castlevania/Dracula%27s%20Castle.png"
+  },
+  "cv-dos-abyss": {
+    "game": "cv-dos",
+    "name": "The Abyss (In-Game Map)",
+    "path": "/maps/Castlevania%20-%20Dawn%20of%20Sorrow/The%20Abyss%20%28In-Game%20Map%29.png"
+  },
+  "cv-dos-castle": {
+    "game": "cv-dos",
+    "name": "Castle (In-Game Map)",
+    "path": "/maps/Castlevania%20-%20Dawn%20of%20Sorrow/Castle%20%28In-Game%20Map%29.png"
+  },
+  "cv-ooe-maps": {
+    "game": "cv-ooe",
+    "name": "In-Game Maps",
+    "path": "/maps/Castlevania%20-%20Order%20of%20Ecclesia/In-Game%20Maps.png"
+  },
+  "cv-por-maps": {
+    "game": "cv-por",
+    "name": "In-Game Maps",
+    "path": "/maps/Castlevania%20-%20Portrait%20of%20Ruin/In-Game%20Maps.png"
+  },
+  "cv-sotn-abandoned": {
+    "game": "cv-sotn",
+    "name": "Abandoned Mine",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Abandoned%20Mine.png"
+  },
+  "cv-sotn-alchemy": {
+    "game": "cv-sotn",
+    "name": "Alchemy Laboratory",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Alchemy%20Laboratory.png"
+  },
+  "cv-sotn-anti-chapel": {
+    "game": "cv-sotn",
+    "name": "Anti-Chapel",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Anti-Chapel.png"
+  },
+  "cv-sotn-black-marble": {
+    "game": "cv-sotn",
+    "name": "Black Marble Gallery",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Black%20Marble%20Gallery.png"
+  },
+  "cv-sotn-bloodlines": {
+    "game": "cv-sotn",
+    "name": "Final Stage - \"Bloodlines\"",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Final%20Stage%20-%20%22Bloodlines%22.png"
+  },
+  "cv-sotn-castle": {
+    "game": "cv-sotn",
+    "name": "Dracula's Castle",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Dracula%27s%20Castle.png"
+  },
+  "cv-sotn-catacombs": {
+    "game": "cv-sotn",
+    "name": "Catacombs",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Catacombs.png"
+  },
+  "cv-sotn-cave": {
+    "game": "cv-sotn",
+    "name": "Cave",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Cave.png"
+  },
+  "cv-sotn-caverns": {
+    "game": "cv-sotn",
+    "name": "Underground Caverns",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Underground%20Caverns.png"
+  },
+  "cv-sotn-clock": {
+    "game": "cv-sotn",
+    "name": "Clock Tower",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Clock%20Tower.png"
+  },
+  "cv-sotn-colosseum": {
+    "game": "cv-sotn",
+    "name": "Colosseum",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Colosseum.png"
+  },
+  "cv-sotn-cursed": {
+    "game": "cv-sotn",
+    "name": "Cursed Prison",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Cursed%20Prison.png"
+  },
+  "cv-sotn-cursed-fixed": {
+    "game": "cv-sotn",
+    "name": "Cursed Prison (corrected aspect ratio)",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Cursed%20Prison%20%28corrected%20aspect%20ratio%29.png"
+  },
+  "cv-sotn-death-wing": {
+    "game": "cv-sotn",
+    "name": "Death Wing's Lair",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Death%20Wing%27s%20Lair.png"
+  },
+  "cv-sotn-entrance": {
+    "game": "cv-sotn",
+    "name": "Entrance",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Entrance.png"
+  },
+  "cv-sotn-floating": {
+    "game": "cv-sotn",
+    "name": "Floating Catacombs",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Floating%20Catacombs.png"
+  },
+  "cv-sotn-forbidden": {
+    "game": "cv-sotn",
+    "name": "Forbidden Library",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Forbidden%20Library.png"
+  },
+  "cv-sotn-forest": {
+    "game": "cv-sotn",
+    "name": "Forest",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Forest.png"
+  },
+  "cv-sotn-full": {
+    "game": "cv-sotn",
+    "name": "Full Map",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Full%20Map.png"
+  },
+  "cv-sotn-garden": {
+    "game": "cv-sotn",
+    "name": "Underground Garden",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Underground%20Garden.png"
+  },
+  "cv-sotn-hell-garden": {
+    "game": "cv-sotn",
+    "name": "Hell Garden",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Hell%20Garden.png"
+  },
+  "cv-sotn-inverted": {
+    "game": "cv-sotn",
+    "name": "Inverted Castle",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Inverted%20Castle.png"
+  },
+  "cv-sotn-keep": {
+    "game": "cv-sotn",
+    "name": "Castle Keep",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Castle%20Keep.png"
+  },
+  "cv-sotn-library": {
+    "game": "cv-sotn",
+    "name": "Long Library",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Long%20Library.png"
+  },
+  "cv-sotn-marble": {
+    "game": "cv-sotn",
+    "name": "Marble Gallery",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Marble%20Gallery.png"
+  },
+  "cv-sotn-necromancy": {
+    "game": "cv-sotn",
+    "name": "Necromancy Laboratory",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Necromancy%20Laboratory.png"
+  },
+  "cv-sotn-nightmare": {
+    "game": "cv-sotn",
+    "name": "Nightmare",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Nightmare.png"
+  },
+  "cv-sotn-olrox": {
+    "game": "cv-sotn",
+    "name": "Olrox's Quarters",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Olrox%27s%20Quarters.png"
+  },
+  "cv-sotn-outer-clear": {
+    "game": "cv-sotn",
+    "name": "Outer Wall (Clear)",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Outer%20Wall%20%28Clear%29.png"
+  },
+  "cv-sotn-outer-fog": {
+    "game": "cv-sotn",
+    "name": "Outer Wall (Fog)",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Outer%20Wall%20%28Fog%29.png"
+  },
+  "cv-sotn-outer-heavy": {
+    "game": "cv-sotn",
+    "name": "Outer Wall (Heavy Rain)",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Outer%20Wall%20%28Heavy%20Rain%29.png"
+  },
+  "cv-sotn-outer-light": {
+    "game": "cv-sotn",
+    "name": "Outer Wall (Light Rain)",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Outer%20Wall%20%28Light%20Rain%29.png"
+  },
+  "cv-sotn-reverse-caverns": {
+    "game": "cv-sotn",
+    "name": "Reverse Caverns",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Reverse%20Caverns.png"
+  },
+  "cv-sotn-reverse-clock": {
+    "game": "cv-sotn",
+    "name": "Reverse Clock Tower",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Reverse%20Clock%20Tower.png"
+  },
+  "cv-sotn-reverse-colosseum": {
+    "game": "cv-sotn",
+    "name": "Reverse Colosseum",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Reverse%20Colosseum.png"
+  },
+  "cv-sotn-reverse-entrance": {
+    "game": "cv-sotn",
+    "name": "Reverse Entrance",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Reverse%20Entrance.png"
+  },
+  "cv-sotn-reverse-keep": {
+    "game": "cv-sotn",
+    "name": "Reverse Keep",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Reverse%20Keep.png"
+  },
+  "cv-sotn-reverse-outer-clear": {
+    "game": "cv-sotn",
+    "name": "Reverse Outer Wall (Clear)",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Reverse%20Outer%20Wall%20%28Clear%29.png"
+  },
+  "cv-sotn-reverse-outer-fog": {
+    "game": "cv-sotn",
+    "name": "Reverse Outer Wall (Fog)",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Reverse%20Outer%20Wall%20%28Fog%29.png"
+  },
+  "cv-sotn-reverse-outer-heavy": {
+    "game": "cv-sotn",
+    "name": "Reverse Outer Wall (Heavy Rain)",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Reverse%20Outer%20Wall%20%28Heavy%20Rain%29.png"
+  },
+  "cv-sotn-reverse-outer-light": {
+    "game": "cv-sotn",
+    "name": "Reverse Outer Wall (Light Rain)",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Reverse%20Outer%20Wall%20%28Light%20Rain%29.png"
+  },
+  "cv-sotn-royal": {
+    "game": "cv-sotn",
+    "name": "Royal Chapel",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Royal%20Chapel.png"
+  },
+  "cv-sotn-soul": {
+    "game": "cv-sotn",
+    "name": "Soul Prison",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Soul%20Prison.png"
+  },
+  "cv-sotn-soul-fixed": {
+    "game": "cv-sotn",
+    "name": "Soul Prison (corrected aspect ratio)",
+    "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Soul%20Prison%20%28corrected%20aspect%20ratio%29.png"
+  },
+  "cv3-1": {
+    "game": "cv3",
+    "name": "Level 1 - Warakiya Village",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%201%20-%20Warakiya%20Village.png"
+  },
+  "cv3-10": {
+    "game": "cv3",
+    "name": "Level 10 - The Castle Keep",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%2010%20-%20The%20Castle%20Keep.png"
+  },
+  "cv3-2": {
+    "game": "cv3",
+    "name": "Level 2 - The Clock Tower of Untimely Death",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%202%20-%20The%20Clock%20Tower%20of%20Untimely%20Death.png"
+  },
+  "cv3-3-1": {
+    "game": "cv3",
+    "name": "Level 3 - The Mad Forest - Part 1",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%203%20-%20The%20Mad%20Forest%20-%20Part%201.png"
+  },
+  "cv3-3-2": {
+    "game": "cv3",
+    "name": "Level 3 - The Mad Forest - Part 2",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%203%20-%20The%20Mad%20Forest%20-%20Part%202.png"
+  },
+  "cv3-4-marsh": {
+    "game": "cv3",
+    "name": "Level 4 - The Murky Marsh of Morbid Morons",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%204%20-%20The%20Murky%20Marsh%20of%20Morbid%20Morons.png"
+  },
+  "cv3-4-ship": {
+    "game": "cv3",
+    "name": "Level 4 - The Haunted Ship of Fools",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%204%20-%20The%20Haunted%20Ship%20of%20Fools.png"
+  },
+  "cv3-5-cave-1": {
+    "game": "cv3",
+    "name": "Level 5 - Alucard's Cave - Part 1",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%205%20-%20Alucard%27s%20Cave%20-%20Part%201.png"
+  },
+  "cv3-5-cave-2": {
+    "game": "cv3",
+    "name": "Level 5 - Alucard's Cave - Part 2",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%205%20-%20Alucard%27s%20Cave%20-%20Part%202.png"
+  },
+  "cv3-5-tower": {
+    "game": "cv3",
+    "name": "Level 5 - The Tower of Terror",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%205%20-%20The%20Tower%20of%20Terror.png"
+  },
+  "cv3-6-catacombs": {
+    "game": "cv3",
+    "name": "Level 6 - The Underground Catacombs",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%206%20-%20The%20Underground%20Catacombs.png"
+  },
+  "cv3-6-causeway": {
+    "game": "cv3",
+    "name": "Level 6 - The Causeway",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%206%20-%20The%20Causeway.png"
+  },
+  "cv3-6-sunken": {
+    "game": "cv3",
+    "name": "Level 6 - The Sunken City of Poltergeists",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%206%20-%20The%20Sunken%20City%20of%20Poltergeists.png"
+  },
+  "cv3-7-cliffside": {
+    "game": "cv3",
+    "name": "Level 7 - The Cliffside Entrance",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%207%20-%20The%20Cliffside%20Entrance.png"
+  },
+  "cv3-7-courtyard": {
+    "game": "cv3",
+    "name": "Level 7 - The Castle Courtyard",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%207%20-%20The%20Castle%20Courtyard.png"
+  },
+  "cv3-8": {
+    "game": "cv3",
+    "name": "Level 8 - The Main Hall",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%208%20-%20The%20Main%20Hall.png"
+  },
+  "cv3-9": {
+    "game": "cv3",
+    "name": "Level 9 - The Inner Halls",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%209%20-%20The%20Inner%20Halls.png"
+  },
+  "gccx2-gqs-world": {
+    "game": "gccx2-gqs",
+    "name": "World",
+    "path": "/maps/Game%20Center%20CX%20-%20Arino%20no%20Ch%C5%8Dsenj%C5%8D%202/Guadia%20Quest%20Saga/World.png"
+  },
+  "kid-dracula-1": {
+    "game": "kid-dracula",
+    "name": "Level 1",
+    "path": "/maps/Akumaj%C5%8D%20Special%20-%20Boku%20Dracula-kun/Level%201.png"
+  },
+  "kid-dracula-2": {
+    "game": "kid-dracula",
+    "name": "Level 2",
+    "path": "/maps/Akumaj%C5%8D%20Special%20-%20Boku%20Dracula-kun/Level%202.png"
+  },
+  "kid-dracula-3": {
+    "game": "kid-dracula",
+    "name": "Level 3",
+    "path": "/maps/Akumaj%C5%8D%20Special%20-%20Boku%20Dracula-kun/Level%203.png"
+  },
+  "kid-dracula-4": {
+    "game": "kid-dracula",
+    "name": "Level 4",
+    "path": "/maps/Akumaj%C5%8D%20Special%20-%20Boku%20Dracula-kun/Level%204.png"
+  },
+  "kid-dracula-5": {
+    "game": "kid-dracula",
+    "name": "Level 5",
+    "path": "/maps/Akumaj%C5%8D%20Special%20-%20Boku%20Dracula-kun/Level%205.png"
+  },
+  "kid-dracula-6": {
+    "game": "kid-dracula",
+    "name": "Level 6",
+    "path": "/maps/Akumaj%C5%8D%20Special%20-%20Boku%20Dracula-kun/Level%206.png"
+  },
+  "kid-dracula-7": {
+    "game": "kid-dracula",
+    "name": "Level 7",
+    "path": "/maps/Akumaj%C5%8D%20Special%20-%20Boku%20Dracula-kun/Level%207.png"
+  },
+  "kid-dracula-8": {
+    "game": "kid-dracula",
+    "name": "Level 8",
+    "path": "/maps/Akumaj%C5%8D%20Special%20-%20Boku%20Dracula-kun/Level%208.png"
+  },
+  "kid-dracula-9": {
+    "game": "kid-dracula",
+    "name": "Level 9",
+    "path": "/maps/Akumaj%C5%8D%20Special%20-%20Boku%20Dracula-kun/Level%209.png"
+  },
+  "lemmings-fun-01": {
+    "game": "lemmings",
+    "name": "Fun - 01",
+    "path": "/maps/Lemmings/Fun%20-%2001.png"
+  },
+  "lemmings-fun-02": {
+    "game": "lemmings",
+    "name": "Fun - 02",
+    "path": "/maps/Lemmings/Fun%20-%2002.png"
+  },
+  "lemmings-fun-03": {
+    "game": "lemmings",
+    "name": "Fun - 03",
+    "path": "/maps/Lemmings/Fun%20-%2003.png"
+  },
+  "lemmings-fun-04": {
+    "game": "lemmings",
+    "name": "Fun - 04",
+    "path": "/maps/Lemmings/Fun%20-%2004.png"
+  },
+  "lemmings-fun-05": {
+    "game": "lemmings",
+    "name": "Fun - 05",
+    "path": "/maps/Lemmings/Fun%20-%2005.png"
+  },
+  "lemmings-fun-06": {
+    "game": "lemmings",
+    "name": "Fun - 06",
+    "path": "/maps/Lemmings/Fun%20-%2006.png"
+  },
+  "lemmings-fun-07": {
+    "game": "lemmings",
+    "name": "Fun - 07",
+    "path": "/maps/Lemmings/Fun%20-%2007.png"
+  },
+  "lemmings-fun-08": {
+    "game": "lemmings",
+    "name": "Fun - 08",
+    "path": "/maps/Lemmings/Fun%20-%2008.png"
+  },
+  "lemmings-fun-09": {
+    "game": "lemmings",
+    "name": "Fun - 09",
+    "path": "/maps/Lemmings/Fun%20-%2009.png"
+  },
+  "lemmings-fun-10": {
+    "game": "lemmings",
+    "name": "Fun - 10",
+    "path": "/maps/Lemmings/Fun%20-%2010.png"
+  },
+  "lemmings-fun-11": {
+    "game": "lemmings",
+    "name": "Fun - 11",
+    "path": "/maps/Lemmings/Fun%20-%2011.png"
+  },
+  "lemmings-fun-12": {
+    "game": "lemmings",
+    "name": "Fun - 12",
+    "path": "/maps/Lemmings/Fun%20-%2012.png"
+  },
+  "lemmings-fun-13": {
+    "game": "lemmings",
+    "name": "Fun - 13",
+    "path": "/maps/Lemmings/Fun%20-%2013.png"
+  },
+  "lemmings-fun-14": {
+    "game": "lemmings",
+    "name": "Fun - 14",
+    "path": "/maps/Lemmings/Fun%20-%2014.png"
+  },
+  "lemmings-fun-15": {
+    "game": "lemmings",
+    "name": "Fun - 15",
+    "path": "/maps/Lemmings/Fun%20-%2015.png"
+  },
+  "lemmings-fun-16": {
+    "game": "lemmings",
+    "name": "Fun - 16",
+    "path": "/maps/Lemmings/Fun%20-%2016.png"
+  },
+  "lemmings-fun-17": {
+    "game": "lemmings",
+    "name": "Fun - 17",
+    "path": "/maps/Lemmings/Fun%20-%2017.png"
+  },
+  "lemmings-fun-18": {
+    "game": "lemmings",
+    "name": "Fun - 18",
+    "path": "/maps/Lemmings/Fun%20-%2018.png"
+  },
+  "lemmings-fun-19": {
+    "game": "lemmings",
+    "name": "Fun - 19",
+    "path": "/maps/Lemmings/Fun%20-%2019.png"
+  },
+  "lemmings-fun-20": {
+    "game": "lemmings",
+    "name": "Fun - 20",
+    "path": "/maps/Lemmings/Fun%20-%2020.png"
+  },
+  "lemmings-fun-21": {
+    "game": "lemmings",
+    "name": "Fun - 21",
+    "path": "/maps/Lemmings/Fun%20-%2021.png"
+  },
+  "lemmings-fun-22": {
+    "game": "lemmings",
+    "name": "Fun - 22",
+    "path": "/maps/Lemmings/Fun%20-%2022.png"
+  },
+  "lemmings-fun-23": {
+    "game": "lemmings",
+    "name": "Fun - 23",
+    "path": "/maps/Lemmings/Fun%20-%2023.png"
+  },
+  "lemmings-fun-24": {
+    "game": "lemmings",
+    "name": "Fun - 24",
+    "path": "/maps/Lemmings/Fun%20-%2024.png"
+  },
+  "lemmings-fun-25": {
+    "game": "lemmings",
+    "name": "Fun - 25",
+    "path": "/maps/Lemmings/Fun%20-%2025.png"
+  },
+  "lemmings-fun-26": {
+    "game": "lemmings",
+    "name": "Fun - 26",
+    "path": "/maps/Lemmings/Fun%20-%2026.png"
+  },
+  "lemmings-fun-27": {
+    "game": "lemmings",
+    "name": "Fun - 27",
+    "path": "/maps/Lemmings/Fun%20-%2027.png"
+  },
+  "lemmings-fun-28": {
+    "game": "lemmings",
+    "name": "Fun - 28",
+    "path": "/maps/Lemmings/Fun%20-%2028.png"
+  },
+  "lemmings-fun-29": {
+    "game": "lemmings",
+    "name": "Fun - 29",
+    "path": "/maps/Lemmings/Fun%20-%2029.png"
+  },
+  "lemmings-fun-30": {
+    "game": "lemmings",
+    "name": "Fun - 30",
+    "path": "/maps/Lemmings/Fun%20-%2030.png"
+  },
+  "lemmings-mayhem-01": {
+    "game": "lemmings",
+    "name": "Mayhem - 01",
+    "path": "/maps/Lemmings/Mayhem%20-%2001.png"
+  },
+  "lemmings-mayhem-02": {
+    "game": "lemmings",
+    "name": "Mayhem - 02",
+    "path": "/maps/Lemmings/Mayhem%20-%2002.png"
+  },
+  "lemmings-mayhem-03": {
+    "game": "lemmings",
+    "name": "Mayhem - 03",
+    "path": "/maps/Lemmings/Mayhem%20-%2003.png"
+  },
+  "lemmings-mayhem-04": {
+    "game": "lemmings",
+    "name": "Mayhem - 04",
+    "path": "/maps/Lemmings/Mayhem%20-%2004.png"
+  },
+  "lemmings-mayhem-05": {
+    "game": "lemmings",
+    "name": "Mayhem - 05",
+    "path": "/maps/Lemmings/Mayhem%20-%2005.png"
+  },
+  "lemmings-mayhem-06": {
+    "game": "lemmings",
+    "name": "Mayhem - 06",
+    "path": "/maps/Lemmings/Mayhem%20-%2006.png"
+  },
+  "lemmings-mayhem-07": {
+    "game": "lemmings",
+    "name": "Mayhem - 07",
+    "path": "/maps/Lemmings/Mayhem%20-%2007.png"
+  },
+  "lemmings-mayhem-08": {
+    "game": "lemmings",
+    "name": "Mayhem - 08",
+    "path": "/maps/Lemmings/Mayhem%20-%2008.png"
+  },
+  "lemmings-mayhem-09": {
+    "game": "lemmings",
+    "name": "Mayhem - 09",
+    "path": "/maps/Lemmings/Mayhem%20-%2009.png"
+  },
+  "lemmings-mayhem-10": {
+    "game": "lemmings",
+    "name": "Mayhem - 10",
+    "path": "/maps/Lemmings/Mayhem%20-%2010.png"
+  },
+  "lemmings-mayhem-11": {
+    "game": "lemmings",
+    "name": "Mayhem - 11",
+    "path": "/maps/Lemmings/Mayhem%20-%2011.png"
+  },
+  "lemmings-mayhem-12": {
+    "game": "lemmings",
+    "name": "Mayhem - 12",
+    "path": "/maps/Lemmings/Mayhem%20-%2012.png"
+  },
+  "lemmings-mayhem-13": {
+    "game": "lemmings",
+    "name": "Mayhem - 13",
+    "path": "/maps/Lemmings/Mayhem%20-%2013.png"
+  },
+  "lemmings-mayhem-14": {
+    "game": "lemmings",
+    "name": "Mayhem - 14",
+    "path": "/maps/Lemmings/Mayhem%20-%2014.png"
+  },
+  "lemmings-mayhem-15": {
+    "game": "lemmings",
+    "name": "Mayhem - 15",
+    "path": "/maps/Lemmings/Mayhem%20-%2015.png"
+  },
+  "lemmings-mayhem-16": {
+    "game": "lemmings",
+    "name": "Mayhem - 16",
+    "path": "/maps/Lemmings/Mayhem%20-%2016.png"
+  },
+  "lemmings-mayhem-17": {
+    "game": "lemmings",
+    "name": "Mayhem - 17",
+    "path": "/maps/Lemmings/Mayhem%20-%2017.png"
+  },
+  "lemmings-mayhem-18": {
+    "game": "lemmings",
+    "name": "Mayhem - 18",
+    "path": "/maps/Lemmings/Mayhem%20-%2018.png"
+  },
+  "lemmings-mayhem-19": {
+    "game": "lemmings",
+    "name": "Mayhem - 19",
+    "path": "/maps/Lemmings/Mayhem%20-%2019.png"
+  },
+  "lemmings-mayhem-20": {
+    "game": "lemmings",
+    "name": "Mayhem - 20",
+    "path": "/maps/Lemmings/Mayhem%20-%2020.png"
+  },
+  "lemmings-mayhem-21": {
+    "game": "lemmings",
+    "name": "Mayhem - 21",
+    "path": "/maps/Lemmings/Mayhem%20-%2021.png"
+  },
+  "lemmings-mayhem-22": {
+    "game": "lemmings",
+    "name": "Mayhem - 22",
+    "path": "/maps/Lemmings/Mayhem%20-%2022.png"
+  },
+  "lemmings-mayhem-23": {
+    "game": "lemmings",
+    "name": "Mayhem - 23",
+    "path": "/maps/Lemmings/Mayhem%20-%2023.png"
+  },
+  "lemmings-mayhem-24": {
+    "game": "lemmings",
+    "name": "Mayhem - 24",
+    "path": "/maps/Lemmings/Mayhem%20-%2024.png"
+  },
+  "lemmings-mayhem-25": {
+    "game": "lemmings",
+    "name": "Mayhem - 25",
+    "path": "/maps/Lemmings/Mayhem%20-%2025.png"
+  },
+  "lemmings-mayhem-26": {
+    "game": "lemmings",
+    "name": "Mayhem - 26",
+    "path": "/maps/Lemmings/Mayhem%20-%2026.png"
+  },
+  "lemmings-mayhem-27": {
+    "game": "lemmings",
+    "name": "Mayhem - 27",
+    "path": "/maps/Lemmings/Mayhem%20-%2027.png"
+  },
+  "lemmings-mayhem-28": {
+    "game": "lemmings",
+    "name": "Mayhem - 28",
+    "path": "/maps/Lemmings/Mayhem%20-%2028.png"
+  },
+  "lemmings-mayhem-29": {
+    "game": "lemmings",
+    "name": "Mayhem - 29",
+    "path": "/maps/Lemmings/Mayhem%20-%2029.png"
+  },
+  "lemmings-mayhem-30": {
+    "game": "lemmings",
+    "name": "Mayhem - 30",
+    "path": "/maps/Lemmings/Mayhem%20-%2030.png"
+  },
+  "lemmings-taxing-01": {
+    "game": "lemmings",
+    "name": "Taxing - 01",
+    "path": "/maps/Lemmings/Taxing%20-%2001.png"
+  },
+  "lemmings-taxing-02": {
+    "game": "lemmings",
+    "name": "Taxing - 02",
+    "path": "/maps/Lemmings/Taxing%20-%2002.png"
+  },
+  "lemmings-taxing-03": {
+    "game": "lemmings",
+    "name": "Taxing - 03",
+    "path": "/maps/Lemmings/Taxing%20-%2003.png"
+  },
+  "lemmings-taxing-04": {
+    "game": "lemmings",
+    "name": "Taxing - 04",
+    "path": "/maps/Lemmings/Taxing%20-%2004.png"
+  },
+  "lemmings-taxing-05": {
+    "game": "lemmings",
+    "name": "Taxing - 05",
+    "path": "/maps/Lemmings/Taxing%20-%2005.png"
+  },
+  "lemmings-taxing-06": {
+    "game": "lemmings",
+    "name": "Taxing - 06",
+    "path": "/maps/Lemmings/Taxing%20-%2006.png"
+  },
+  "lemmings-taxing-07": {
+    "game": "lemmings",
+    "name": "Taxing - 07",
+    "path": "/maps/Lemmings/Taxing%20-%2007.png"
+  },
+  "lemmings-taxing-08": {
+    "game": "lemmings",
+    "name": "Taxing - 08",
+    "path": "/maps/Lemmings/Taxing%20-%2008.png"
+  },
+  "lemmings-taxing-09": {
+    "game": "lemmings",
+    "name": "Taxing - 09",
+    "path": "/maps/Lemmings/Taxing%20-%2009.png"
+  },
+  "lemmings-taxing-10": {
+    "game": "lemmings",
+    "name": "Taxing - 10",
+    "path": "/maps/Lemmings/Taxing%20-%2010.png"
+  },
+  "lemmings-taxing-11": {
+    "game": "lemmings",
+    "name": "Taxing - 11",
+    "path": "/maps/Lemmings/Taxing%20-%2011.png"
+  },
+  "lemmings-taxing-12": {
+    "game": "lemmings",
+    "name": "Taxing - 12",
+    "path": "/maps/Lemmings/Taxing%20-%2012.png"
+  },
+  "lemmings-taxing-13": {
+    "game": "lemmings",
+    "name": "Taxing - 13",
+    "path": "/maps/Lemmings/Taxing%20-%2013.png"
+  },
+  "lemmings-taxing-14": {
+    "game": "lemmings",
+    "name": "Taxing - 14",
+    "path": "/maps/Lemmings/Taxing%20-%2014.png"
+  },
+  "lemmings-taxing-15": {
+    "game": "lemmings",
+    "name": "Taxing - 15",
+    "path": "/maps/Lemmings/Taxing%20-%2015.png"
+  },
+  "lemmings-taxing-16": {
+    "game": "lemmings",
+    "name": "Taxing - 16",
+    "path": "/maps/Lemmings/Taxing%20-%2016.png"
+  },
+  "lemmings-taxing-17": {
+    "game": "lemmings",
+    "name": "Taxing - 17",
+    "path": "/maps/Lemmings/Taxing%20-%2017.png"
+  },
+  "lemmings-taxing-18": {
+    "game": "lemmings",
+    "name": "Taxing - 18",
+    "path": "/maps/Lemmings/Taxing%20-%2018.png"
+  },
+  "lemmings-taxing-19": {
+    "game": "lemmings",
+    "name": "Taxing - 19",
+    "path": "/maps/Lemmings/Taxing%20-%2019.png"
+  },
+  "lemmings-taxing-20": {
+    "game": "lemmings",
+    "name": "Taxing - 20",
+    "path": "/maps/Lemmings/Taxing%20-%2020.png"
+  },
+  "lemmings-taxing-21": {
+    "game": "lemmings",
+    "name": "Taxing - 21",
+    "path": "/maps/Lemmings/Taxing%20-%2021.png"
+  },
+  "lemmings-taxing-22": {
+    "game": "lemmings",
+    "name": "Taxing - 22",
+    "path": "/maps/Lemmings/Taxing%20-%2022.png"
+  },
+  "lemmings-taxing-23": {
+    "game": "lemmings",
+    "name": "Taxing - 23",
+    "path": "/maps/Lemmings/Taxing%20-%2023.png"
+  },
+  "lemmings-taxing-24": {
+    "game": "lemmings",
+    "name": "Taxing - 24",
+    "path": "/maps/Lemmings/Taxing%20-%2024.png"
+  },
+  "lemmings-taxing-25": {
+    "game": "lemmings",
+    "name": "Taxing - 25",
+    "path": "/maps/Lemmings/Taxing%20-%2025.png"
+  },
+  "lemmings-taxing-26": {
+    "game": "lemmings",
+    "name": "Taxing - 26",
+    "path": "/maps/Lemmings/Taxing%20-%2026.png"
+  },
+  "lemmings-taxing-27": {
+    "game": "lemmings",
+    "name": "Taxing - 27",
+    "path": "/maps/Lemmings/Taxing%20-%2027.png"
+  },
+  "lemmings-taxing-28": {
+    "game": "lemmings",
+    "name": "Taxing - 28",
+    "path": "/maps/Lemmings/Taxing%20-%2028.png"
+  },
+  "lemmings-taxing-29": {
+    "game": "lemmings",
+    "name": "Taxing - 29",
+    "path": "/maps/Lemmings/Taxing%20-%2029.png"
+  },
+  "lemmings-taxing-30": {
+    "game": "lemmings",
+    "name": "Taxing - 30",
+    "path": "/maps/Lemmings/Taxing%20-%2030.png"
+  },
+  "lemmings-tricky-01": {
+    "game": "lemmings",
+    "name": "Tricky - 01",
+    "path": "/maps/Lemmings/Tricky%20-%2001.png"
+  },
+  "lemmings-tricky-02": {
+    "game": "lemmings",
+    "name": "Tricky - 02",
+    "path": "/maps/Lemmings/Tricky%20-%2002.png"
+  },
+  "lemmings-tricky-03": {
+    "game": "lemmings",
+    "name": "Tricky - 03",
+    "path": "/maps/Lemmings/Tricky%20-%2003.png"
+  },
+  "lemmings-tricky-04": {
+    "game": "lemmings",
+    "name": "Tricky - 04",
+    "path": "/maps/Lemmings/Tricky%20-%2004.png"
+  },
+  "lemmings-tricky-05": {
+    "game": "lemmings",
+    "name": "Tricky - 05",
+    "path": "/maps/Lemmings/Tricky%20-%2005.png"
+  },
+  "lemmings-tricky-06": {
+    "game": "lemmings",
+    "name": "Tricky - 06",
+    "path": "/maps/Lemmings/Tricky%20-%2006.png"
+  },
+  "lemmings-tricky-07": {
+    "game": "lemmings",
+    "name": "Tricky - 07",
+    "path": "/maps/Lemmings/Tricky%20-%2007.png"
+  },
+  "lemmings-tricky-08": {
+    "game": "lemmings",
+    "name": "Tricky - 08",
+    "path": "/maps/Lemmings/Tricky%20-%2008.png"
+  },
+  "lemmings-tricky-09": {
+    "game": "lemmings",
+    "name": "Tricky - 09",
+    "path": "/maps/Lemmings/Tricky%20-%2009.png"
+  },
+  "lemmings-tricky-10": {
+    "game": "lemmings",
+    "name": "Tricky - 10",
+    "path": "/maps/Lemmings/Tricky%20-%2010.png"
+  },
+  "lemmings-tricky-11": {
+    "game": "lemmings",
+    "name": "Tricky - 11",
+    "path": "/maps/Lemmings/Tricky%20-%2011.png"
+  },
+  "lemmings-tricky-12": {
+    "game": "lemmings",
+    "name": "Tricky - 12",
+    "path": "/maps/Lemmings/Tricky%20-%2012.png"
+  },
+  "lemmings-tricky-13": {
+    "game": "lemmings",
+    "name": "Tricky - 13",
+    "path": "/maps/Lemmings/Tricky%20-%2013.png"
+  },
+  "lemmings-tricky-14": {
+    "game": "lemmings",
+    "name": "Tricky - 14",
+    "path": "/maps/Lemmings/Tricky%20-%2014.png"
+  },
+  "lemmings-tricky-15": {
+    "game": "lemmings",
+    "name": "Tricky - 15",
+    "path": "/maps/Lemmings/Tricky%20-%2015.png"
+  },
+  "lemmings-tricky-16": {
+    "game": "lemmings",
+    "name": "Tricky - 16",
+    "path": "/maps/Lemmings/Tricky%20-%2016.png"
+  },
+  "lemmings-tricky-17": {
+    "game": "lemmings",
+    "name": "Tricky - 17",
+    "path": "/maps/Lemmings/Tricky%20-%2017.png"
+  },
+  "lemmings-tricky-18": {
+    "game": "lemmings",
+    "name": "Tricky - 18",
+    "path": "/maps/Lemmings/Tricky%20-%2018.png"
+  },
+  "lemmings-tricky-19": {
+    "game": "lemmings",
+    "name": "Tricky - 19",
+    "path": "/maps/Lemmings/Tricky%20-%2019.png"
+  },
+  "lemmings-tricky-20": {
+    "game": "lemmings",
+    "name": "Tricky - 20",
+    "path": "/maps/Lemmings/Tricky%20-%2020.png"
+  },
+  "lemmings-tricky-21": {
+    "game": "lemmings",
+    "name": "Tricky - 21",
+    "path": "/maps/Lemmings/Tricky%20-%2021.png"
+  },
+  "lemmings-tricky-22": {
+    "game": "lemmings",
+    "name": "Tricky - 22",
+    "path": "/maps/Lemmings/Tricky%20-%2022.png"
+  },
+  "lemmings-tricky-23": {
+    "game": "lemmings",
+    "name": "Tricky - 23",
+    "path": "/maps/Lemmings/Tricky%20-%2023.png"
+  },
+  "lemmings-tricky-24": {
+    "game": "lemmings",
+    "name": "Tricky - 24",
+    "path": "/maps/Lemmings/Tricky%20-%2024.png"
+  },
+  "lemmings-tricky-25": {
+    "game": "lemmings",
+    "name": "Tricky - 25",
+    "path": "/maps/Lemmings/Tricky%20-%2025.png"
+  },
+  "lemmings-tricky-26": {
+    "game": "lemmings",
+    "name": "Tricky - 26",
+    "path": "/maps/Lemmings/Tricky%20-%2026.png"
+  },
+  "lemmings-tricky-27": {
+    "game": "lemmings",
+    "name": "Tricky - 27",
+    "path": "/maps/Lemmings/Tricky%20-%2027.png"
+  },
+  "lemmings-tricky-28": {
+    "game": "lemmings",
+    "name": "Tricky - 28",
+    "path": "/maps/Lemmings/Tricky%20-%2028.png"
+  },
+  "lemmings-tricky-29": {
+    "game": "lemmings",
+    "name": "Tricky - 29",
+    "path": "/maps/Lemmings/Tricky%20-%2029.png"
+  },
+  "lemmings-tricky-30": {
+    "game": "lemmings",
+    "name": "Tricky - 30",
+    "path": "/maps/Lemmings/Tricky%20-%2030.png"
+  },
+  "loz-la-angler": {
+    "game": "loz-la",
+    "name": "Angler's Tunnel",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening/Angler%27s%20Tunnel.png"
+  },
+  "loz-la-bottle": {
+    "game": "loz-la",
+    "name": "Bottle Grotto",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening/Bottle%20Grotto.png"
+  },
+  "loz-la-catfish": {
+    "game": "loz-la",
+    "name": "Catfish's Maw",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening/Catfish%27s%20Maw.png"
+  },
+  "loz-la-eagle": {
+    "game": "loz-la",
+    "name": "Eagle's Tower",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening/Eagle%27s%20Tower.png"
+  },
+  "loz-la-face": {
+    "game": "loz-la",
+    "name": "Face Shrine",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening/Face%20Shrine.png"
+  },
+  "loz-la-key": {
+    "game": "loz-la",
+    "name": "Key Cavern",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening/Key%20Cavern.png"
+  },
+  "loz-la-koholint": {
+    "game": "loz-la",
+    "name": "Koholint Island",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening/Koholint%20Island.png"
+  },
+  "loz-la-tail": {
+    "game": "loz-la",
+    "name": "Tail Cave",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening/Tail%20Cave.png"
+  },
+  "loz-la-turtle": {
+    "game": "loz-la",
+    "name": "Turtle Rock",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening/Turtle%20Rock.png"
+  },
+  "loz-ladx-angler": {
+    "game": "loz-ladx",
+    "name": "Angler's Tunnel",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening%20DX/Angler%27s%20Tunnel.png"
+  },
+  "loz-ladx-bottle": {
+    "game": "loz-ladx",
+    "name": "Bottle Grotto",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening%20DX/Bottle%20Grotto.png"
+  },
+  "loz-ladx-catfish": {
+    "game": "loz-ladx",
+    "name": "Catfish's Maw",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening%20DX/Catfish%27s%20Maw.png"
+  },
+  "loz-ladx-color": {
+    "game": "loz-ladx",
+    "name": "Color Dungeon",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening%20DX/Color%20Dungeon.png"
+  },
+  "loz-ladx-eagle": {
+    "game": "loz-ladx",
+    "name": "Eagle's Tower",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening%20DX/Eagle%27s%20Tower.png"
+  },
+  "loz-ladx-face": {
+    "game": "loz-ladx",
+    "name": "Face Shrine",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening%20DX/Face%20Shrine.png"
+  },
+  "loz-ladx-key": {
+    "game": "loz-ladx",
+    "name": "Key Cavern",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening%20DX/Key%20Cavern.png"
+  },
+  "loz-ladx-koholint": {
+    "game": "loz-ladx",
+    "name": "Koholint Island",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening%20DX/Koholint%20Island.png"
+  },
+  "loz-ladx-tail": {
+    "game": "loz-ladx",
+    "name": "Tail Cave",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening%20DX/Tail%20Cave.png"
+  },
+  "loz-ladx-turtle": {
+    "game": "loz-ladx",
+    "name": "Turtle Rock",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Link%27s%20Awakening%20DX/Turtle%20Rock.png"
+  },
+  "loz-ooa-ancient": {
+    "game": "loz-ooa",
+    "name": "Ancient Tomb",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Ancient%20Tomb.png"
+  },
+  "loz-ooa-animals": {
+    "game": "loz-ooa",
+    "name": "Animal Companion Regions",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Animal%20Companion%20Regions.png"
+  },
+  "loz-ooa-crown": {
+    "game": "loz-ooa",
+    "name": "Crown Dungeon",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Crown%20Dungeon.png"
+  },
+  "loz-ooa-hero": {
+    "game": "loz-ooa",
+    "name": "Hero's Cave",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Hero%27s%20Cave.png"
+  },
+  "loz-ooa-jabu": {
+    "game": "loz-ooa",
+    "name": "Jabu-Jabu's Belly",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Jabu-Jabu%27s%20Belly.png"
+  },
+  "loz-ooa-maku-past": {
+    "game": "loz-ooa",
+    "name": "Maku Path (Past)",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Maku%20Path%20%28Past%29.png"
+  },
+  "loz-ooa-maku-present": {
+    "game": "loz-ooa",
+    "name": "Maku Path (Present)",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Maku%20Path%20%28Present%29.png"
+  },
+  "loz-ooa-mermaid-past": {
+    "game": "loz-ooa",
+    "name": "Mermaid's Cave (Past)",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Mermaid%27s%20Cave%20%28Past%29.png"
+  },
+  "loz-ooa-mermaid-present": {
+    "game": "loz-ooa",
+    "name": "Mermaid's Cave (Present)",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Mermaid%27s%20Cave%20%28Present%29.png"
+  },
+  "loz-ooa-moonlit": {
+    "game": "loz-ooa",
+    "name": "Moonlit Grotto",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Moonlit%20Grotto.png"
+  },
+  "loz-ooa-past": {
+    "game": "loz-ooa",
+    "name": "Labrynna (Past)",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Labrynna%20%28Past%29.png"
+  },
+  "loz-ooa-past-in-game": {
+    "game": "loz-ooa",
+    "name": "Labrynna (Past) (In-Game Map)",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Labrynna%20%28Past%29%20%28In-Game%20Map%29.png"
+  },
+  "loz-ooa-present": {
+    "game": "loz-ooa",
+    "name": "Labrynna (Present)",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Labrynna%20%28Present%29.png"
+  },
+  "loz-ooa-present-in-game": {
+    "game": "loz-ooa",
+    "name": "Labrynna (Present) (In-Game Map)",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Labrynna%20%28Present%29%20%28In-Game%20Map%29.png"
+  },
+  "loz-ooa-rescue": {
+    "game": "loz-ooa",
+    "name": "Black Tower - Princess Zelda's Rescue",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Black%20Tower%20-%20Princess%20Zelda%27s%20Rescue.png"
+  },
+  "loz-ooa-rites": {
+    "game": "loz-ooa",
+    "name": "Room of Rites",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Room%20of%20Rites.png"
+  },
+  "loz-ooa-skull": {
+    "game": "loz-ooa",
+    "name": "Skull Dungeon",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Skull%20Dungeon.png"
+  },
+  "loz-ooa-spirit": {
+    "game": "loz-ooa",
+    "name": "Spirit's Grave",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Spirit%27s%20Grave.png"
+  },
+  "loz-ooa-symmetry": {
+    "game": "loz-ooa",
+    "name": "Symmetry City",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Symmetry%20City.png"
+  },
+  "loz-ooa-turret": {
+    "game": "loz-ooa",
+    "name": "Black Tower - Turret",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Black%20Tower%20-%20Turret.png"
+  },
+  "loz-ooa-underwater-past": {
+    "game": "loz-ooa",
+    "name": "Underwater (Past)",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Underwater%20%28Past%29.png"
+  },
+  "loz-ooa-underwater-present": {
+    "game": "loz-ooa",
+    "name": "Underwater (Present)",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Underwater%20%28Present%29.png"
+  },
+  "loz-ooa-wing": {
+    "game": "loz-ooa",
+    "name": "Wing Dungeon",
+    "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Wing%20Dungeon.png"
+  },
+  "mk64-battle": {
+    "game": "mk64",
+    "name": "Battle Mode",
+    "path": "/maps/Mario%20Kart%2064/Battle%20Mode.png"
+  },
+  "mk64-flower": {
+    "game": "mk64",
+    "name": "Flower Cup",
+    "path": "/maps/Mario%20Kart%2064/Flower%20Cup.png"
+  },
+  "mk64-mushroom": {
+    "game": "mk64",
+    "name": "Mushroom Cup",
+    "path": "/maps/Mario%20Kart%2064/Mushroom%20Cup.png"
+  },
+  "mk64-special": {
+    "game": "mk64",
+    "name": "Special Cup",
+    "path": "/maps/Mario%20Kart%2064/Special%20Cup.png"
+  },
+  "mk64-star": {
+    "game": "mk64",
+    "name": "Star Cup",
+    "path": "/maps/Mario%20Kart%2064/Star%20Cup.png"
+  },
+  "mkds-maps": {
+    "game": "mkds",
+    "name": "Grand Prix (In-Game Maps)",
+    "path": "/maps/Mario%20Kart%20DS/Grand%20Prix%20%28In-Game%20Maps%29.png"
+  },
+  "mm-bomb": {
+    "game": "mm",
+    "name": "Bomb Man",
+    "path": "/maps/Mega%20Man/Bomb%20Man.png"
+  },
+  "mm-cut": {
+    "game": "mm",
+    "name": "Cut Man",
+    "path": "/maps/Mega%20Man/Cut%20Man.png"
+  },
+  "mm-elec": {
+    "game": "mm",
+    "name": "Elec Man",
+    "path": "/maps/Mega%20Man/Elec%20Man.png"
+  },
+  "mm-fire": {
+    "game": "mm",
+    "name": "Fire Man",
+    "path": "/maps/Mega%20Man/Fire%20Man.png"
+  },
+  "mm-guts": {
+    "game": "mm",
+    "name": "Guts Man",
+    "path": "/maps/Mega%20Man/Guts%20Man.png"
+  },
+  "mm-ice": {
+    "game": "mm",
+    "name": "Ice Man",
+    "path": "/maps/Mega%20Man/Ice%20Man.png"
+  },
+  "mm-wily1": {
+    "game": "mm",
+    "name": "Dr. Wily - Level 1",
+    "path": "/maps/Mega%20Man/Dr.%20Wily%20-%20Level%201.png"
+  },
+  "mm-wily2": {
+    "game": "mm",
+    "name": "Dr. Wily - Level 2",
+    "path": "/maps/Mega%20Man/Dr.%20Wily%20-%20Level%202.png"
+  },
+  "mm-wily3": {
+    "game": "mm",
+    "name": "Dr. Wily - Level 3",
+    "path": "/maps/Mega%20Man/Dr.%20Wily%20-%20Level%203.png"
+  },
+  "mm-wily4": {
+    "game": "mm",
+    "name": "Dr. Wily - Level 4",
+    "path": "/maps/Mega%20Man/Dr.%20Wily%20-%20Level%204.png"
+  },
+  "mm10-blade": {
+    "game": "mm10",
+    "name": "Blade Man",
+    "path": "/maps/Mega%20Man%2010/Blade%20Man.png"
+  },
+  "mm10-chill": {
+    "game": "mm10",
+    "name": "Chill Man",
+    "path": "/maps/Mega%20Man%2010/Chill%20Man.png"
+  },
+  "mm10-commando": {
+    "game": "mm10",
+    "name": "Commando Man",
+    "path": "/maps/Mega%20Man%2010/Commando%20Man.png"
+  },
+  "mm10-endless": {
+    "game": "mm10",
+    "name": "Endless Attack",
+    "path": "/maps/Mega%20Man%2010/Endless%20Attack.png"
+  },
+  "mm10-nitro": {
+    "game": "mm10",
+    "name": "Nitro Man",
+    "path": "/maps/Mega%20Man%2010/Nitro%20Man.png"
+  },
+  "mm10-pump": {
+    "game": "mm10",
+    "name": "Pump Man",
+    "path": "/maps/Mega%20Man%2010/Pump%20Man.png"
+  },
+  "mm10-sheep": {
+    "game": "mm10",
+    "name": "Sheep Man",
+    "path": "/maps/Mega%20Man%2010/Sheep%20Man.png"
+  },
+  "mm10-solar": {
+    "game": "mm10",
+    "name": "Solar Man",
+    "path": "/maps/Mega%20Man%2010/Solar%20Man.png"
+  },
+  "mm10-special1": {
+    "game": "mm10",
+    "name": "Special Stage 1",
+    "path": "/maps/Mega%20Man%2010/Special%20Stage%201.png"
+  },
+  "mm10-special2": {
+    "game": "mm10",
+    "name": "Special Stage 2",
+    "path": "/maps/Mega%20Man%2010/Special%20Stage%202.png"
+  },
+  "mm10-special3": {
+    "game": "mm10",
+    "name": "Special Stage 3",
+    "path": "/maps/Mega%20Man%2010/Special%20Stage%203.png"
+  },
+  "mm10-strike": {
+    "game": "mm10",
+    "name": "Strike Man",
+    "path": "/maps/Mega%20Man%2010/Strike%20Man.png"
+  },
+  "mm10-wily1": {
+    "game": "mm10",
+    "name": "Wily Castle 1",
+    "path": "/maps/Mega%20Man%2010/Wily%20Castle%201.png"
+  },
+  "mm10-wily2": {
+    "game": "mm10",
+    "name": "Wily Castle 2",
+    "path": "/maps/Mega%20Man%2010/Wily%20Castle%202.png"
+  },
+  "mm10-wily3": {
+    "game": "mm10",
+    "name": "Wily Castle 3",
+    "path": "/maps/Mega%20Man%2010/Wily%20Castle%203.png"
+  },
+  "mm10-wily4": {
+    "game": "mm10",
+    "name": "Wily Castle 4",
+    "path": "/maps/Mega%20Man%2010/Wily%20Castle%204.png"
+  },
+  "mm10-wily5": {
+    "game": "mm10",
+    "name": "Wily Castle 5",
+    "path": "/maps/Mega%20Man%2010/Wily%20Castle%205.png"
+  },
+  "mm2-air": {
+    "game": "mm2",
+    "name": "Air Man",
+    "path": "/maps/Mega%20Man%20II/Air%20Man.png"
+  },
+  "mm2-bubble": {
+    "game": "mm2",
+    "name": "Bubble Man",
+    "path": "/maps/Mega%20Man%20II/Bubble%20Man.png"
+  },
+  "mm2-crash": {
+    "game": "mm2",
+    "name": "Crash Man",
+    "path": "/maps/Mega%20Man%20II/Crash%20Man.png"
+  },
+  "mm2-flash": {
+    "game": "mm2",
+    "name": "Flash Man",
+    "path": "/maps/Mega%20Man%20II/Flash%20Man.png"
+  },
+  "mm2-heat": {
+    "game": "mm2",
+    "name": "Heat Man",
+    "path": "/maps/Mega%20Man%20II/Heat%20Man.png"
+  },
+  "mm2-metal": {
+    "game": "mm2",
+    "name": "Metal Man",
+    "path": "/maps/Mega%20Man%20II/Metal%20Man.png"
+  },
+  "mm2-quick": {
+    "game": "mm2",
+    "name": "Quick Man",
+    "path": "/maps/Mega%20Man%20II/Quick%20Man.png"
+  },
+  "mm2-wily1": {
+    "game": "mm2",
+    "name": "Dr. Wily - Level 1",
+    "path": "/maps/Mega%20Man%20II/Dr.%20Wily%20-%20Level%201.png"
+  },
+  "mm2-wily2": {
+    "game": "mm2",
+    "name": "Dr. Wily - Level 2",
+    "path": "/maps/Mega%20Man%20II/Dr.%20Wily%20-%20Level%202.png"
+  },
+  "mm2-wily3": {
+    "game": "mm2",
+    "name": "Dr. Wily - Level 3",
+    "path": "/maps/Mega%20Man%20II/Dr.%20Wily%20-%20Level%203.png"
+  },
+  "mm2-wily4": {
+    "game": "mm2",
+    "name": "Dr. Wily - Level 4",
+    "path": "/maps/Mega%20Man%20II/Dr.%20Wily%20-%20Level%204.png"
+  },
+  "mm2-wily5": {
+    "game": "mm2",
+    "name": "Dr. Wily - Level 5",
+    "path": "/maps/Mega%20Man%20II/Dr.%20Wily%20-%20Level%205.png"
+  },
+  "mm2-wily6": {
+    "game": "mm2",
+    "name": "Dr. Wily - Level 6",
+    "path": "/maps/Mega%20Man%20II/Dr.%20Wily%20-%20Level%206.png"
+  },
+  "mm2-wood": {
+    "game": "mm2",
+    "name": "Wood Man",
+    "path": "/maps/Mega%20Man%20II/Wood%20Man.png"
+  },
+  "mm3-break": {
+    "game": "mm3",
+    "name": "Break Man",
+    "path": "/maps/Mega%20Man%20III/Break%20Man.png"
+  },
+  "mm3-gemini": {
+    "game": "mm3",
+    "name": "Gemini Man",
+    "path": "/maps/Mega%20Man%20III/Gemini%20Man.png"
+  },
+  "mm3-gemini-revisited": {
+    "game": "mm3",
+    "name": "Doc Robot - Gemini Man Revisited",
+    "path": "/maps/Mega%20Man%20III/Doc%20Robot%20-%20Gemini%20Man%20Revisited.png"
+  },
+  "mm3-hard": {
+    "game": "mm3",
+    "name": "Hard Man",
+    "path": "/maps/Mega%20Man%20III/Hard%20Man.png"
+  },
+  "mm3-magnet": {
+    "game": "mm3",
+    "name": "Magnet Man",
+    "path": "/maps/Mega%20Man%20III/Magnet%20Man.png"
+  },
+  "mm3-needle": {
+    "game": "mm3",
+    "name": "Needle Man",
+    "path": "/maps/Mega%20Man%20III/Needle%20Man.png"
+  },
+  "mm3-needle-revisited": {
+    "game": "mm3",
+    "name": "Doc Robot - Needle Man Revisited",
+    "path": "/maps/Mega%20Man%20III/Doc%20Robot%20-%20Needle%20Man%20Revisited.png"
+  },
+  "mm3-shadow": {
+    "game": "mm3",
+    "name": "Shadow Man",
+    "path": "/maps/Mega%20Man%20III/Shadow%20Man.png"
+  },
+  "mm3-shadow-revisited": {
+    "game": "mm3",
+    "name": "Doc Robot - Shadow Man Revisited",
+    "path": "/maps/Mega%20Man%20III/Doc%20Robot%20-%20Shadow%20Man%20Revisited.png"
+  },
+  "mm3-snake": {
+    "game": "mm3",
+    "name": "Snake Man",
+    "path": "/maps/Mega%20Man%20III/Snake%20Man.png"
+  },
+  "mm3-spark": {
+    "game": "mm3",
+    "name": "Spark Man",
+    "path": "/maps/Mega%20Man%20III/Spark%20Man.png"
+  },
+  "mm3-spark-revisited": {
+    "game": "mm3",
+    "name": "Doc Robot - Spark Man Revisited",
+    "path": "/maps/Mega%20Man%20III/Doc%20Robot%20-%20Spark%20Man%20Revisited.png"
+  },
+  "mm3-top": {
+    "game": "mm3",
+    "name": "Top Man",
+    "path": "/maps/Mega%20Man%20III/Top%20Man.png"
+  },
+  "mm3-wily1": {
+    "game": "mm3",
+    "name": "Wiley's Castle - Level 1",
+    "path": "/maps/Mega%20Man%20III/Wiley%27s%20Castle%20-%20Level%201.png"
+  },
+  "mm3-wily2": {
+    "game": "mm3",
+    "name": "Wiley's Castle - Level 2",
+    "path": "/maps/Mega%20Man%20III/Wiley%27s%20Castle%20-%20Level%202.png"
+  },
+  "mm3-wily3": {
+    "game": "mm3",
+    "name": "Wiley's Castle - Level 3",
+    "path": "/maps/Mega%20Man%20III/Wiley%27s%20Castle%20-%20Level%203.png"
+  },
+  "mm3-wily4": {
+    "game": "mm3",
+    "name": "Wiley's Castle - Level 4",
+    "path": "/maps/Mega%20Man%20III/Wiley%27s%20Castle%20-%20Level%204.png"
+  },
+  "mm3-wily5": {
+    "game": "mm3",
+    "name": "Wiley's Castle - Level 5",
+    "path": "/maps/Mega%20Man%20III/Wiley%27s%20Castle%20-%20Level%205.png"
+  },
+  "mm3-wily6": {
+    "game": "mm3",
+    "name": "Wiley's Castle - Level 6",
+    "path": "/maps/Mega%20Man%20III/Wiley%27s%20Castle%20-%20Level%206.png"
+  },
+  "mm3gb-drill": {
+    "game": "mm3gb",
+    "name": "Drill Man",
+    "path": "/maps/Mega%20Man%20III%20%28GB%29/Drill%20Man.png"
+  },
+  "mm3gb-dust": {
+    "game": "mm3gb",
+    "name": "Dust Man",
+    "path": "/maps/Mega%20Man%20III%20%28GB%29/Dust%20Man.png"
+  },
+  "mm3gb-gemini": {
+    "game": "mm3gb",
+    "name": "Gemini Man",
+    "path": "/maps/Mega%20Man%20III%20%28GB%29/Gemini%20Man.png"
+  },
+  "mm3gb-shadow": {
+    "game": "mm3gb",
+    "name": "Shadow Man",
+    "path": "/maps/Mega%20Man%20III%20%28GB%29/Shadow%20Man.png"
+  },
+  "mm3gb-skull": {
+    "game": "mm3gb",
+    "name": "Skull Man",
+    "path": "/maps/Mega%20Man%20III%20%28GB%29/Skull%20Man.png"
+  },
+  "mm3gb-snake": {
+    "game": "mm3gb",
+    "name": "Snake Man",
+    "path": "/maps/Mega%20Man%20III%20%28GB%29/Snake%20Man.png"
+  },
+  "mm3gb-spark": {
+    "game": "mm3gb",
+    "name": "Spark Man",
+    "path": "/maps/Mega%20Man%20III%20%28GB%29/Spark%20Man.png"
+  },
+  "mm3gb-suzy": {
+    "game": "mm3gb",
+    "name": "Dr Wily - Giant Suzy",
+    "path": "/maps/Mega%20Man%20III%20%28GB%29/Dr%20Wily%20-%20Giant%20Suzy.png"
+  },
+  "mm4-bright": {
+    "game": "mm4",
+    "name": "Bright Man",
+    "path": "/maps/Mega%20Man%20IV/Bright%20Man.png"
+  },
+  "mm4-cossack1": {
+    "game": "mm4",
+    "name": "Dr. Cossack's Citadel: Level 1",
+    "path": "/maps/Mega%20Man%20IV/Dr.%20Cossack%27s%20Citadel%20-%20Level%201.png"
+  },
+  "mm4-cossack2": {
+    "game": "mm4",
+    "name": "Dr. Cossack's Citadel: Level 2",
+    "path": "/maps/Mega%20Man%20IV/Dr.%20Cossack%27s%20Citadel%20-%20Level%202.png"
+  },
+  "mm4-cossack3": {
+    "game": "mm4",
+    "name": "Dr. Cossack's Citadel: Level 3",
+    "path": "/maps/Mega%20Man%20IV/Dr.%20Cossack%27s%20Citadel%20-%20Level%203.png"
+  },
+  "mm4-cossack4": {
+    "game": "mm4",
+    "name": "Dr. Cossack's Citadel - Level 4",
+    "path": "/maps/Mega%20Man%20IV/Dr.%20Cossack%27s%20Citadel%20-%20Level%204.png"
+  },
+  "mm4-dive": {
+    "game": "mm4",
+    "name": "Dive Man",
+    "path": "/maps/Mega%20Man%20IV/Dive%20Man.png"
+  },
+  "mm4-drill": {
+    "game": "mm4",
+    "name": "Drill Man",
+    "path": "/maps/Mega%20Man%20IV/Drill%20Man.png"
+  },
+  "mm4-dust": {
+    "game": "mm4",
+    "name": "Dust Man",
+    "path": "/maps/Mega%20Man%20IV/Dust%20Man.png"
+  },
+  "mm4-pharaoh": {
+    "game": "mm4",
+    "name": "Pharaoh Man",
+    "path": "/maps/Mega%20Man%20IV/Pharaoh%20Man.png"
+  },
+  "mm4-ring": {
+    "game": "mm4",
+    "name": "Ring Man",
+    "path": "/maps/Mega%20Man%20IV/Ring%20Man.png"
+  },
+  "mm4-skull": {
+    "game": "mm4",
+    "name": "Skull Man",
+    "path": "/maps/Mega%20Man%20IV/Skull%20Man.png"
+  },
+  "mm4-toad": {
+    "game": "mm4",
+    "name": "Toad Man",
+    "path": "/maps/Mega%20Man%20IV/Toad%20Man.png"
+  },
+  "mm4-wily1": {
+    "game": "mm4",
+    "name": "Wily's Castle - Level 1",
+    "path": "/maps/Mega%20Man%20IV/Wily%27s%20Castle%20-%20Level%201.png"
+  },
+  "mm4-wily2": {
+    "game": "mm4",
+    "name": "Wily's Castle - Level 2",
+    "path": "/maps/Mega%20Man%20IV/Wily%27s%20Castle%20-%20Level%202.png"
+  },
+  "mm4-wily3": {
+    "game": "mm4",
+    "name": "Wily's Castle - Level 3",
+    "path": "/maps/Mega%20Man%20IV/Wily%27s%20Castle%20-%20Level%203.png"
+  },
+  "mm4-wily4": {
+    "game": "mm4",
+    "name": "Wily's Castle - Level 4",
+    "path": "/maps/Mega%20Man%20IV/Wily%27s%20Castle%20-%20Level%204.png"
+  },
+  "mm5-311": {
+    "game": "mm5",
+    "name": "Proto Man's Fortress: Level 4",
+    "path": "/maps/Mega%20Man%20V/Proto%20Man%27s%20Fortress%20-%20Level%204.png"
+  },
+  "mm5-charge": {
+    "game": "mm5",
+    "name": "Charge Man",
+    "path": "/maps/Mega%20Man%20V/Charge%20Man.png"
+  },
+  "mm5-crystal": {
+    "game": "mm5",
+    "name": "Crystal Man",
+    "path": "/maps/Mega%20Man%20V/Crystal%20Man.png"
+  },
+  "mm5-gravity": {
+    "game": "mm5",
+    "name": "Gravity Man",
+    "path": "/maps/Mega%20Man%20V/Gravity%20Man.png"
+  },
+  "mm5-gyro": {
+    "game": "mm5",
+    "name": "Gyro Man",
+    "path": "/maps/Mega%20Man%20V/Gyro%20Man.png"
+  },
+  "mm5-napalm": {
+    "game": "mm5",
+    "name": "Napalm Man",
+    "path": "/maps/Mega%20Man%20V/Napalm%20Man.png"
+  },
+  "mm5-proto1": {
+    "game": "mm5",
+    "name": "Proto Man's Fortress: Level 1",
+    "path": "/maps/Mega%20Man%20V/Proto%20Man%27s%20Fortress%20-%20Level%201.png"
+  },
+  "mm5-proto2": {
+    "game": "mm5",
+    "name": "Proto Man's Fortress: Level 2",
+    "path": "/maps/Mega%20Man%20V/Proto%20Man%27s%20Fortress%20-%20Level%202.png"
+  },
+  "mm5-proto3": {
+    "game": "mm5",
+    "name": "Proto Man's Fortress: Level 3",
+    "path": "/maps/Mega%20Man%20V/Proto%20Man%27s%20Fortress%20-%20Level%203.png"
+  },
+  "mm5-star": {
+    "game": "mm5",
+    "name": "Star Man",
+    "path": "/maps/Mega%20Man%20V/Star%20Man.png"
+  },
+  "mm5-stone": {
+    "game": "mm5",
+    "name": "Stone Man",
+    "path": "/maps/Mega%20Man%20V/Stone%20Man.png"
+  },
+  "mm5-wave": {
+    "game": "mm5",
+    "name": "Wave Man",
+    "path": "/maps/Mega%20Man%20V/Wave%20Man.png"
+  },
+  "mm5-wily1": {
+    "game": "mm5",
+    "name": "Wily's Castle: Level 1",
+    "path": "/maps/Mega%20Man%20V/Wily%27s%20Castle%20-%20Level%201.png"
+  },
+  "mm5-wily2": {
+    "game": "mm5",
+    "name": "Wily's Castle: Level 2",
+    "path": "/maps/Mega%20Man%20V/Wily%27s%20Castle%20-%20Level%202.png"
+  },
+  "mm5-wily3": {
+    "game": "mm5",
+    "name": "Wily's Castle: Level 3",
+    "path": "/maps/Mega%20Man%20V/Wily%27s%20Castle%20-%20Level%203.png"
+  },
+  "mm5-wily4": {
+    "game": "mm5",
+    "name": "Wily's Castle: Level 4",
+    "path": "/maps/Mega%20Man%20V/Wily%27s%20Castle%20-%20Level%204.png"
+  },
+  "mm6-blizzard": {
+    "game": "mm6",
+    "name": "Blizzard Man",
+    "path": "/maps/Mega%20Man%20VI/Blizzard%20Man.png"
+  },
+  "mm6-centaur": {
+    "game": "mm6",
+    "name": "Centaur Man",
+    "path": "/maps/Mega%20Man%20VI/Centaur%20Man.png"
+  },
+  "mm6-flame": {
+    "game": "mm6",
+    "name": "Flame Man",
+    "path": "/maps/Mega%20Man%20VI/Flame%20Man.png"
+  },
+  "mm6-knight": {
+    "game": "mm6",
+    "name": "Knight Man",
+    "path": "/maps/Mega%20Man%20VI/Knight%20Man.png"
+  },
+  "mm6-plant": {
+    "game": "mm6",
+    "name": "Plant Man",
+    "path": "/maps/Mega%20Man%20VI/Plant%20Man.png"
+  },
+  "mm6-tomahawk": {
+    "game": "mm6",
+    "name": "Tomahawk Man",
+    "path": "/maps/Mega%20Man%20VI/Tomahawk%20Man.png"
+  },
+  "mm6-wily1": {
+    "game": "mm6",
+    "name": "Wily's Castle - Level 1",
+    "path": "/maps/Mega%20Man%20VI/Wily%27s%20Castle%20-%20Level%201.png"
+  },
+  "mm6-wily2": {
+    "game": "mm6",
+    "name": "Wily's Castle - Level 2",
+    "path": "/maps/Mega%20Man%20VI/Wily%27s%20Castle%20-%20Level%202.png"
+  },
+  "mm6-wily3": {
+    "game": "mm6",
+    "name": "Wily's Castle - Level 3",
+    "path": "/maps/Mega%20Man%20VI/Wily%27s%20Castle%20-%20Level%203.png"
+  },
+  "mm6-wily4": {
+    "game": "mm6",
+    "name": "Wily's Castle - Level 4",
+    "path": "/maps/Mega%20Man%20VI/Wily%27s%20Castle%20-%20Level%204.png"
+  },
+  "mm6-wind": {
+    "game": "mm6",
+    "name": "Wind Man",
+    "path": "/maps/Mega%20Man%20VI/Wind%20Man.png"
+  },
+  "mm6-x1": {
+    "game": "mm6",
+    "name": "Mr. X1",
+    "path": "/maps/Mega%20Man%20VI/Mr.%20X1.png"
+  },
+  "mm6-x2": {
+    "game": "mm6",
+    "name": "Mr. X2",
+    "path": "/maps/Mega%20Man%20VI/Mr.%20X2.png"
+  },
+  "mm6-x3": {
+    "game": "mm6",
+    "name": "Mr. X3",
+    "path": "/maps/Mega%20Man%20VI/Mr.%20X3.png"
+  },
+  "mm6-x4": {
+    "game": "mm6",
+    "name": "Mr. X4",
+    "path": "/maps/Mega%20Man%20VI/Mr.%20X4.png"
+  },
+  "mm6-yamato": {
+    "game": "mm6",
+    "name": "Yamato Man",
+    "path": "/maps/Mega%20Man%20VI/Yamato%20Man.png"
+  },
+  "mm9-concrete": {
+    "game": "mm9",
+    "name": "Concrete Man",
+    "path": "/maps/Mega%20Man%209/Concrete%20Man.png"
+  },
+  "mm9-endless": {
+    "game": "mm9",
+    "name": "Endless Attack",
+    "path": "/maps/Mega%20Man%209/Endless%20Attack.png"
+  },
+  "mm9-galaxy": {
+    "game": "mm9",
+    "name": "Galaxy Man",
+    "path": "/maps/Mega%20Man%209/Galaxy%20Man.png"
+  },
+  "mm9-hornet": {
+    "game": "mm9",
+    "name": "Hornet Man",
+    "path": "/maps/Mega%20Man%209/Hornet%20Man.png"
+  },
+  "mm9-jewel": {
+    "game": "mm9",
+    "name": "Jewel Man",
+    "path": "/maps/Mega%20Man%209/Jewel%20Man.png"
+  },
+  "mm9-magma": {
+    "game": "mm9",
+    "name": "Magma Man",
+    "path": "/maps/Mega%20Man%209/Magma%20Man.png"
+  },
+  "mm9-plug": {
+    "game": "mm9",
+    "name": "Plug Man",
+    "path": "/maps/Mega%20Man%209/Plug%20Man.png"
+  },
+  "mm9-special": {
+    "game": "mm9",
+    "name": "Special Stage",
+    "path": "/maps/Mega%20Man%209/Special%20Stage.png"
+  },
+  "mm9-splash": {
+    "game": "mm9",
+    "name": "Splash Woman",
+    "path": "/maps/Mega%20Man%209/Splash%20Woman.png"
+  },
+  "mm9-tornado": {
+    "game": "mm9",
+    "name": "Tornado Man",
+    "path": "/maps/Mega%20Man%209/Tornado%20Man.png"
+  },
+  "mm9-wily1": {
+    "game": "mm9",
+    "name": "Wily Castle 1",
+    "path": "/maps/Mega%20Man%209/Wily%20Castle%201.png"
+  },
+  "mm9-wily2": {
+    "game": "mm9",
+    "name": "Wily Castle 2",
+    "path": "/maps/Mega%20Man%209/Wily%20Castle%202.png"
+  },
+  "mm9-wily3": {
+    "game": "mm9",
+    "name": "Wily Castle 3",
+    "path": "/maps/Mega%20Man%209/Wily%20Castle%203.png"
+  },
+  "mm9-wily4": {
+    "game": "mm9",
+    "name": "Wily Castle 4",
+    "path": "/maps/Mega%20Man%209/Wily%20Castle%204.png"
+  },
+  "mmx2-deepsea": {
+    "game": "mmx2",
+    "name": "Deep Sea Base",
+    "path": "/maps/Mega%20Man%20X2/Deep%20Sea%20Base.png"
+  },
+  "mmx2-intro": {
+    "game": "mmx2",
+    "name": "Introduction Stage",
+    "path": "/maps/Mega%20Man%20X2/Introduction%20Stage.png"
+  },
+  "mmx2-junkyard": {
+    "game": "mmx2",
+    "name": "Robot Junkyard",
+    "path": "/maps/Mega%20Man%20X2/Robot%20Junkyard.png"
+  },
+  "mmx2-volcanic": {
+    "game": "mmx2",
+    "name": "Volcanic Zone",
+    "path": "/maps/Mega%20Man%20X2/Volcanic%20Zone.png"
+  },
+  "mmz2-intro": {
+    "game": "mmz2",
+    "name": "Intro Mission",
+    "path": "/maps/Mega%20Man%20Zero%202/Intro%20Mission.png"
+  },
+  "nes-open-japan": {
+    "game": "nes-open",
+    "name": "Japan Course",
+    "path": "/maps/NES%20Open%20Tournament%20Golf/Japan%20Course.png"
+  },
+  "nes-open-uk": {
+    "game": "nes-open",
+    "name": "U.K. Course",
+    "path": "/maps/NES%20Open%20Tournament%20Golf/U.K.%20Course.png"
+  },
+  "nes-open-us": {
+    "game": "nes-open",
+    "name": "U.S. Course",
+    "path": "/maps/NES%20Open%20Tournament%20Golf/U.S.%20Course.png"
+  },
+  "rgc-gq-world": {
+    "game": "rgc-gq",
+    "name": "World",
+    "path": "/maps/Retro%20Game%20Challenge/Guadia%20Quest/World.png"
+  },
+  "rolando-1-1": {
+    "game": "rolando",
+    "name": "1-1 - Honeycup Meadows - Hello Rolando",
+    "path": "/maps/Rolando/1-1%20-%20Honeycup%20Meadows%20-%20Hello%20Rolando.png"
+  },
+  "rolando-1-2": {
+    "game": "rolando",
+    "name": "1-2 - Honeycup Meadows - A Fistful of Rolandos",
+    "path": "/maps/Rolando/1-2%20-%20Honeycup%20Meadows%20-%20A%20Fistful%20of%20Rolandos.png"
+  },
+  "rolando-1-3": {
+    "game": "rolando",
+    "name": "1-3 - Honeycup Meadows - Push and Shove",
+    "path": "/maps/Rolando/1-3%20-%20Honeycup%20Meadows%20-%20Push%20and%20Shove.png"
+  },
+  "rolando-1-4": {
+    "game": "rolando",
+    "name": "1-4 - Honeycup Meadows - Hail to the King",
+    "path": "/maps/Rolando/1-4%20-%20Honeycup%20Meadows%20-%20Hail%20to%20the%20King.png"
+  },
+  "rolando-1-5": {
+    "game": "rolando",
+    "name": "1-5 - Honeycup Meadows - Along came the Prince",
+    "path": "/maps/Rolando/1-5%20-%20Honeycup%20Meadows%20-%20Along%20came%20the%20Prince.png"
+  },
+  "rolando-1-6": {
+    "game": "rolando",
+    "name": "1-6 - Honeycup Meadows - Twisty Cavern",
+    "path": "/maps/Rolando/1-6%20-%20Honeycup%20Meadows%20-%20Twisty%20Cavern.png"
+  },
+  "rolando-1-7": {
+    "game": "rolando",
+    "name": "1-7 - Honeycup Meadows - The Great Forest",
+    "path": "/maps/Rolando/1-7%20-%20Honeycup%20Meadows%20-%20The%20Great%20Forest.png"
+  },
+  "rolando-1-8": {
+    "game": "rolando",
+    "name": "1-8 - Honeycup Meadows - Mount Rollmore",
+    "path": "/maps/Rolando/1-8%20-%20Honeycup%20Meadows%20-%20Mount%20Rollmore.png"
+  },
+  "rolando-1-9": {
+    "game": "rolando",
+    "name": "1-9 - Honeycup Meadows - Altitude Adventure",
+    "path": "/maps/Rolando/1-9%20-%20Honeycup%20Meadows%20-%20Altitude%20Adventure.png"
+  },
+  "rolando-2-1": {
+    "game": "rolando",
+    "name": "2-1 - Fire Canyon - Fire Canyon",
+    "path": "/maps/Rolando/2-1%20-%20Fire%20Canyon%20-%20Fire%20Canyon.png"
+  },
+  "rolando-2-2": {
+    "game": "rolando",
+    "name": "2-2 - Fire Canyon - The Lost Plateau",
+    "path": "/maps/Rolando/2-2%20-%20Fire%20Canyon%20-%20The%20Lost%20Plateau.png"
+  },
+  "rolando-2-3": {
+    "game": "rolando",
+    "name": "2-3 - Fire Canyon - The Rescue Party",
+    "path": "/maps/Rolando/2-3%20-%20Fire%20Canyon%20-%20The%20Rescue%20Party.png"
+  },
+  "rolando-2-4": {
+    "game": "rolando",
+    "name": "2-4 - Fire Canyon - Royal Bridge Building",
+    "path": "/maps/Rolando/2-4%20-%20Fire%20Canyon%20-%20Royal%20Bridge%20Building.png"
+  },
+  "rolando-2-5": {
+    "game": "rolando",
+    "name": "2-5 - Fire Canyon - Rock n Revolver",
+    "path": "/maps/Rolando/2-5%20-%20Fire%20Canyon%20-%20Rock%20n%20Revolver.png"
+  },
+  "rolando-2-6": {
+    "game": "rolando",
+    "name": "2-6 - Fire Canyon - A Lonely Prince",
+    "path": "/maps/Rolando/2-6%20-%20Fire%20Canyon%20-%20A%20Lonely%20Prince.png"
+  },
+  "rolando-2-7": {
+    "game": "rolando",
+    "name": "2-7 - Fire Canyon - Orinoco Mine",
+    "path": "/maps/Rolando/2-7%20-%20Fire%20Canyon%20-%20Orinoco%20Mine.png"
+  },
+  "rolando-2-8": {
+    "game": "rolando",
+    "name": "2-8 - Fire Canyon - Pachinko Panic",
+    "path": "/maps/Rolando/2-8%20-%20Fire%20Canyon%20-%20Pachinko%20Panic.png"
+  },
+  "rolando-2-9": {
+    "game": "rolando",
+    "name": "2-9 - Fire Canyon - Catapult Chasm",
+    "path": "/maps/Rolando/2-9%20-%20Fire%20Canyon%20-%20Catapult%20Chasm.png"
+  },
+  "rolando-3-1": {
+    "game": "rolando",
+    "name": "3-1 - Rolando Central - Rolando Central",
+    "path": "/maps/Rolando/3-1%20-%20Rolando%20Central%20-%20Rolando%20Central.png"
+  },
+  "rolando-3-2": {
+    "game": "rolando",
+    "name": "3-2 - Rolando Central - Central Suburbia",
+    "path": "/maps/Rolando/3-2%20-%20Rolando%20Central%20-%20Central%20Suburbia.png"
+  },
+  "rolando-3-3": {
+    "game": "rolando",
+    "name": "3-3 - Rolando Central - The Princely Path",
+    "path": "/maps/Rolando/3-3%20-%20Rolando%20Central%20-%20The%20Princely%20Path.png"
+  },
+  "rolando-3-4": {
+    "game": "rolando",
+    "name": "3-4 - Rolando Central - Uptown Top Rolling",
+    "path": "/maps/Rolando/3-4%20-%20Rolando%20Central%20-%20Uptown%20Top%20Rolling.png"
+  },
+  "rolando-3-5": {
+    "game": "rolando",
+    "name": "3-5 - Rolando Central - Spin City",
+    "path": "/maps/Rolando/3-5%20-%20Rolando%20Central%20-%20Spin%20City.png"
+  },
+  "rolando-3-6": {
+    "game": "rolando",
+    "name": "3-6 - Rolando Central - Spikey's Quest",
+    "path": "/maps/Rolando/3-6%20-%20Rolando%20Central%20-%20Spikey%27s%20Quest.png"
+  },
+  "rolando-3-7": {
+    "game": "rolando",
+    "name": "3-7 - Rolando Central - Under Construction",
+    "path": "/maps/Rolando/3-7%20-%20Rolando%20Central%20-%20Under%20Construction.png"
+  },
+  "rolando-3-8": {
+    "game": "rolando",
+    "name": "3-8 - Rolando Central - Fireworks Factory",
+    "path": "/maps/Rolando/3-8%20-%20Rolando%20Central%20-%20Fireworks%20Factory.png"
+  },
+  "rolando-3-9": {
+    "game": "rolando",
+    "name": "3-9 - Rolando Central - Rolando Resistance",
+    "path": "/maps/Rolando/3-9%20-%20Rolando%20Central%20-%20Rolando%20Resistance.png"
+  },
+  "rolando-4-1": {
+    "game": "rolando",
+    "name": "4-1 - Shadow Valley - Shadow Valley",
+    "path": "/maps/Rolando/4-1%20-%20Shadow%20Valley%20-%20Shadow%20Valley.png"
+  },
+  "rolando-4-2": {
+    "game": "rolando",
+    "name": "4-2 - Shadow Valley - Luminous Lock",
+    "path": "/maps/Rolando/4-2%20-%20Shadow%20Valley%20-%20Luminous%20Lock.png"
+  },
+  "rolando-4-3": {
+    "game": "rolando",
+    "name": "4-3 - Shadow Valley - The Great Escape",
+    "path": "/maps/Rolando/4-3%20-%20Shadow%20Valley%20-%20The%20Great%20Escape.png"
+  },
+  "rolando-4-4": {
+    "game": "rolando",
+    "name": "4-4 - Shadow Valley - The Prince Prisoner",
+    "path": "/maps/Rolando/4-4%20-%20Shadow%20Valley%20-%20The%20Prince%20Prisoner.png"
+  },
+  "rolando-4-5": {
+    "game": "rolando",
+    "name": "4-5 - Shadow Valley - Jail Break",
+    "path": "/maps/Rolando/4-5%20-%20Shadow%20Valley%20-%20Jail%20Break.png"
+  },
+  "rolando-4-6": {
+    "game": "rolando",
+    "name": "4-6 - Shadow Valley - Rolling Royalty",
+    "path": "/maps/Rolando/4-6%20-%20Shadow%20Valley%20-%20Rolling%20Royalty.png"
+  },
+  "rolando-4-7": {
+    "game": "rolando",
+    "name": "4-7 - Shadow Valley - Twin Keeps",
+    "path": "/maps/Rolando/4-7%20-%20Shadow%20Valley%20-%20Twin%20Keeps.png"
+  },
+  "rolando-4-8": {
+    "game": "rolando",
+    "name": "4-8 - Shadow Valley - Shadow Fortress",
+    "path": "/maps/Rolando/4-8%20-%20Shadow%20Valley%20-%20Shadow%20Fortress.png"
+  },
+  "rolando-4-9": {
+    "game": "rolando",
+    "name": "4-9 - Shadow Valley - The Dark Abyss",
+    "path": "/maps/Rolando/4-9%20-%20Shadow%20Valley%20-%20The%20Dark%20Abyss.png"
+  },
+  "rolando-5-1": {
+    "game": "rolando",
+    "name": "Level 1: The Hidden Hills",
+    "path": "/maps/Rolando/5-1%20-%20Secret%20Levels%20-%20The%20Hidden%20Hills.png"
+  },
+  "rolando-5-10": {
+    "game": "rolando",
+    "name": "Level 10: Windy Wasteland",
+    "path": "/maps/Rolando/5-10%20-%20Secret%20Levels%20-%20Windy%20Wasteland.png"
+  },
+  "rolando-5-11": {
+    "game": "rolando",
+    "name": "Level 11: Treacherous Transit",
+    "path": "/maps/Rolando/5-11%20-%20Secret%20Levels%20-%20Treacherous%20Transit.png"
+  },
+  "rolando-5-12": {
+    "game": "rolando",
+    "name": "Level 12: City Center",
+    "path": "/maps/Rolando/5-12%20-%20Secret%20Levels%20-%20City%20Center.png"
+  },
+  "rolando-5-13": {
+    "game": "rolando",
+    "name": "Level 13: Industrial Alley",
+    "path": "/maps/Rolando/5-13%20-%20Secret%20Levels%20-%20Industrial%20Alley.png"
+  },
+  "rolando-5-14": {
+    "game": "rolando",
+    "name": "Level 14: Bustling Borough",
+    "path": "/maps/Rolando/5-14%20-%20Secret%20Levels%20-%20Bustling%20Borough.png"
+  },
+  "rolando-5-15": {
+    "game": "rolando",
+    "name": "Level 15: Royal Excursion",
+    "path": "/maps/Rolando/5-15%20-%20Secret%20Levels%20-%20Royal%20Excursion.png"
+  },
+  "rolando-5-16": {
+    "game": "rolando",
+    "name": "Level 16: Courageous Queen",
+    "path": "/maps/Rolando/5-16%20-%20Secret%20Levels%20-%20Courageous%20Queen.png"
+  },
+  "rolando-5-17": {
+    "game": "rolando",
+    "name": "Level 17: Dungeon Escape",
+    "path": "/maps/Rolando/5-17%20-%20Secret%20Levels%20-%20Dungeon%20Escape.png"
+  },
+  "rolando-5-18": {
+    "game": "rolando",
+    "name": "Level 18: King's Liberation",
+    "path": "/maps/Rolando/5-18%20-%20Secret%20Levels%20-%20King%27s%20Liberation.png"
+  },
+  "rolando-5-19": {
+    "game": "rolando",
+    "name": "Level 19: Last Spikey Rolling",
+    "path": "/maps/Rolando/5-19%20-%20Secret%20Levels%20-%20Last%20Spikey%20Rolling.png"
+  },
+  "rolando-5-2": {
+    "game": "rolando",
+    "name": "Level 2: Lost Tar Pits",
+    "path": "/maps/Rolando/5-2%20-%20Secret%20Levels%20-%20Lost%20Tar%20Pits.png"
+  },
+  "rolando-5-20": {
+    "game": "rolando",
+    "name": "Level 20: Deathly Shadows",
+    "path": "/maps/Rolando/5-20%20-%20Secret%20Levels%20-%20Deathly%20Shadows.png"
+  },
+  "rolando-5-3": {
+    "game": "rolando",
+    "name": "Level 3: An Ancient Bridge",
+    "path": "/maps/Rolando/5-3%20-%20Secret%20Levels%20-%20An%20Ancient%20Bridge.png"
+  },
+  "rolando-5-4": {
+    "game": "rolando",
+    "name": "Level 4: Creepy Chasm",
+    "path": "/maps/Rolando/5-4%20-%20Secret%20Levels%20-%20Creepy%20Chasm.png"
+  },
+  "rolando-5-5": {
+    "game": "rolando",
+    "name": "Level 5: Trap Doors",
+    "path": "/maps/Rolando/5-5%20-%20Secret%20Levels%20-%20Trap%20Doors.png"
+  },
+  "rolando-5-6": {
+    "game": "rolando",
+    "name": "Level 6: Torrid Twist",
+    "path": "/maps/Rolando/5-6%20-%20Secret%20Levels%20-%20Torrid%20Twist.png"
+  },
+  "rolando-5-7": {
+    "game": "rolando",
+    "name": "Level 7: Excavation",
+    "path": "/maps/Rolando/5-7%20-%20Secret%20Levels%20-%20Excavation.png"
+  },
+  "rolando-5-8": {
+    "game": "rolando",
+    "name": "Level 8: King Convoy",
+    "path": "/maps/Rolando/5-8%20-%20Secret%20Levels%20-%20King%20Convoy.png"
+  },
+  "rolando-5-9": {
+    "game": "rolando",
+    "name": "Level 9: Prince's Journey",
+    "path": "/maps/Rolando/5-9%20-%20Secret%20Levels%20-%20Prince%27s%20Journey.png"
+  },
+  "sfxmm-akuma": {
+    "game": "sfxmm",
+    "name": "Akuma",
+    "path": "/maps/Street%20Fighter%20X%20Mega%20Man/Akuma.png"
+  },
+  "sfxmm-balrog": {
+    "game": "sfxmm",
+    "name": "Balrog",
+    "path": "/maps/Street%20Fighter%20X%20Mega%20Man/Balrog.png"
+  },
+  "sfxmm-bison": {
+    "game": "sfxmm",
+    "name": "M. Bison",
+    "path": "/maps/Street%20Fighter%20X%20Mega%20Man/M.%20Bison.png"
+  },
+  "sfxmm-blanka": {
+    "game": "sfxmm",
+    "name": "Blanka",
+    "path": "/maps/Street%20Fighter%20X%20Mega%20Man/Blanka.png"
+  },
+  "sfxmm-chunli": {
+    "game": "sfxmm",
+    "name": "Chun Li",
+    "path": "/maps/Street%20Fighter%20X%20Mega%20Man/Chun%20Li.png"
+  },
+  "sfxmm-dhalsim": {
+    "game": "sfxmm",
+    "name": "Dhalsim",
+    "path": "/maps/Street%20Fighter%20X%20Mega%20Man/Dhalsim.png"
+  },
+  "sfxmm-lab": {
+    "game": "sfxmm",
+    "name": "Seth's Lab",
+    "path": "/maps/Street%20Fighter%20X%20Mega%20Man/Seth%27s%20Lab.png"
+  },
+  "sfxmm-rolento": {
+    "game": "sfxmm",
+    "name": "Rolento",
+    "path": "/maps/Street%20Fighter%20X%20Mega%20Man/Rolento.png"
+  },
+  "sfxmm-rose": {
+    "game": "sfxmm",
+    "name": "Rose",
+    "path": "/maps/Street%20Fighter%20X%20Mega%20Man/Rose.png"
+  },
+  "sfxmm-ryu": {
+    "game": "sfxmm",
+    "name": "Ryu",
+    "path": "/maps/Street%20Fighter%20X%20Mega%20Man/Ryu.png"
+  },
+  "sfxmm-urien": {
+    "game": "sfxmm",
+    "name": "Urien",
+    "path": "/maps/Street%20Fighter%20X%20Mega%20Man/Urien.png"
+  },
+  "sfxmm-vega": {
+    "game": "sfxmm",
+    "name": "Vega",
+    "path": "/maps/Street%20Fighter%20X%20Mega%20Man/Vega.png"
+  },
+  "sfxmm-viper": {
+    "game": "sfxmm",
+    "name": "C. Viper",
+    "path": "/maps/Street%20Fighter%20X%20Mega%20Man/C.%20Viper.png"
+  },
+  "smb3-1-5": {
+    "game": "smb3",
+    "name": "Level 5",
+    "path": "/maps/Super%20Mario%20Bros.%203/World%201%20-%205.png"
+  },
+  "smb3-4-1": {
+    "game": "smb3",
+    "name": "Level 1",
+    "path": "/maps/Super%20Mario%20Bros.%203/World%204%20-%201.png"
+  },
+  "smb3-4-2": {
+    "game": "smb3",
+    "name": "Level 2",
+    "path": "/maps/Super%20Mario%20Bros.%203/World%204%20-%202.png"
+  },
+  "smb3-4-3": {
+    "game": "smb3",
+    "name": "World 4: 3",
+    "path": "/maps/Super%20Mario%20Bros.%203/World%204%20-%203.png"
+  },
+  "smb3-4-4": {
+    "game": "smb3",
+    "name": "Level 4",
+    "path": "/maps/Super%20Mario%20Bros.%203/World%204%20-%204.png"
+  },
+  "smb3-4-5": {
+    "game": "smb3",
+    "name": "Level 5",
+    "path": "/maps/Super%20Mario%20Bros.%203/World%204%20-%205.png"
+  },
+  "smb3-4-6": {
+    "game": "smb3",
+    "name": "Level 6",
+    "path": "/maps/Super%20Mario%20Bros.%203/World%204%20-%206.png"
+  },
+  "smb3-4-airship": {
+    "game": "smb3",
+    "name": "Airship",
+    "path": "/maps/Super%20Mario%20Bros.%203/World%204%20-%20Airship.png"
+  },
+  "smb3-4-f1": {
+    "game": "smb3",
+    "name": "Fortress 1",
+    "path": "/maps/Super%20Mario%20Bros.%203/World%204%20-%20Fortress%201.png"
+  },
+  "smb3-4-f2": {
+    "game": "smb3",
+    "name": "Fortress 2",
+    "path": "/maps/Super%20Mario%20Bros.%203/World%204%20-%20Fortress%202.png"
+  },
+  "tentacle-future": {
+    "game": "tentacle",
+    "name": "Future",
+    "path": "/maps/Day%20of%20the%20Tentacle/Edison%20Mansion%20-%20Future.png"
+  },
+  "tentacle-past": {
+    "game": "tentacle",
+    "name": "Past",
+    "path": "/maps/Day%20of%20the%20Tentacle/Edison%20Mansion%20-%20Past.png"
+  },
+  "tentacle-present": {
+    "game": "tentacle",
+    "name": "Present",
+    "path": "/maps/Day%20of%20the%20Tentacle/Edison%20Mansion%20-%20Present.png"
+  }
+}
