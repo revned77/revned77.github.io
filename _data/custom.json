@@ -18,6 +18,9 @@
     "cv3": {
       "title": "Castlevania III: Dracula's Curse"
     },
+    "gccx2-gqs": {
+      "title": "Game Center CX: Arino no Cho\u0304senjo\u0304 2: Guadia Quest Saga"
+    },
     "kid-dracula": {
       "title": "Akumaj\u014d Special: Boku Dracula-kun"
     },
@@ -421,6 +424,11 @@
       "game": "cv3",
       "name": "Level 9 - The Inner Halls",
       "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%209%20-%20The%20Inner%20Halls.png"
+    },
+    "gccx2-gqs-world": {
+      "game": "gccx2-gqs",
+      "name": "World",
+      "path": "/maps/Game%20Center%20CX%20-%20Arino%20no%20Ch%C5%8Dsenj%C5%8D%202/Guadia%20Quest%20Saga/World.png"
     },
     "kid-dracula-1": {
       "game": "kid-dracula",
