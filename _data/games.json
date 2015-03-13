@@ -1,0 +1,95 @@
+{
+  "cv": {
+    "title": "Castlevania"
+  },
+  "cv-dos": {
+    "title": "Castlevania: Dawn of Sorrow"
+  },
+  "cv-ooe": {
+    "title": "Castlevania: Order of Ecclesia"
+  },
+  "cv-por": {
+    "title": "Castlevania: Portrait of Ruin"
+  },
+  "cv-sotn": {
+    "title": "Castlevania: Symphony of the Night"
+  },
+  "cv3": {
+    "title": "Castlevania III: Dracula's Curse"
+  },
+  "gccx2-gqs": {
+    "title": "Game Center CX: Arino no Cho\u0304senjo\u0304 2: Guadia Quest Saga"
+  },
+  "kid-dracula": {
+    "title": "Akumaj\u014d Special: Boku Dracula-kun"
+  },
+  "lemmings": {
+    "title": "Lemmings"
+  },
+  "loz-la": {
+    "title": "The Legend of Zelda: Link's Awakening"
+  },
+  "loz-ladx": {
+    "title": "The Legend of Zelda: Link's Awakening DX"
+  },
+  "loz-ooa": {
+    "title": "The Legend of Zelda: Oracle of Ages"
+  },
+  "mk64": {
+    "title": "Mario Kart 64"
+  },
+  "mkds": {
+    "title": "Mario Kart DS"
+  },
+  "mm": {
+    "title": "Mega Man"
+  },
+  "mm10": {
+    "title": "Mega Man 10"
+  },
+  "mm2": {
+    "title": "Mega Man II"
+  },
+  "mm3": {
+    "title": "Mega Man III"
+  },
+  "mm3gb": {
+    "title": "Mega Man III (GB)"
+  },
+  "mm4": {
+    "title": "Mega Man IV"
+  },
+  "mm5": {
+    "title": "Mega Man V"
+  },
+  "mm6": {
+    "title": "Mega Man VI"
+  },
+  "mm9": {
+    "title": "Mega Man 9"
+  },
+  "mmx2": {
+    "title": "Mega Man X2"
+  },
+  "mmz2": {
+    "title": "Mega Man Zero 2"
+  },
+  "nes-open": {
+    "title": "NES Open Tournament Golf"
+  },
+  "rgc-gq": {
+    "title": "Retro Game Challenge: Guadia Quest"
+  },
+  "rolando": {
+    "title": "Rolando"
+  },
+  "sfxmm": {
+    "title": "Street Fighter X Mega Man"
+  },
+  "smb3": {
+    "title": "Super Mario Bros. 3"
+  },
+  "tentacle": {
+    "title": "Day of the Tentacle"
+  }
+}
