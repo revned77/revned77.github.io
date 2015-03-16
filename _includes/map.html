@@ -1,7 +1,24 @@
-<div>{% assign map = site.data.maps.[include.map] %}{% assign metadata = site.data.metadata.[include.map] %}
-{{ map.name }}
-<br>
-<a href="{{ map.path }}"><img src="{{ metadata.thumbnail }}" alt="{{ map.name }}"></a>
-<br>
-<br>
+{% capture trim_generated_whitespace %}
+
+{% assign map = site.data.maps.[include.map] %}
+{% assign metadata = site.data.metadata.[include.map] %}
+
+{% endcapture %}<div class="map">
+  <h4>{{ map.name }}</h4>
+  <a href="{{ map.path }}"><img src="{{ metadata.thumbnail }}" alt="{{ map.name }}"></a>
+  <ul>
+    <li>{{ metadata.width }}×{{ metadata.height }}</li>
+{% capture size %}
+
+{% if metadata.size >= 1048576 %}
+{{ metadata.size | divided_by: 1048576 }} MB
+{% elsif metadata.size >= 1024 %}
+{{ metadata.size | divided_by: 1024 }} KB
+{% else %}
+{{ metadata.size }} bytes
+{% endif %}
+
+{% endcapture %}    <li>{{ size | strip_newlines }}</li>
+    <li>{{ metadata.date | date: "%b %d, %Y" }}</li>
+  </ul>
 </div>

@@ -3,9 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
+  <link href="/style.css" rel="stylesheet" type="text/css" />
   {% include analytics.html %}
 </head>
 <body>
-{{ content }}
+<div id="content">
+<div id="sidebar">
+{% include sidebar.html %}
+</div>
+<div id="main-content">
+{{ content }}</div>
+</div>
 </body>
 </html>

@@ -2295,13 +2295,6 @@
     "thumbnail": "/img/thumbs/mm4-wily4.png",
     "width": 1312
   },
-  "mm5-311": {
-    "date": 1229194800,
-    "height": 752,
-    "size": 12412,
-    "thumbnail": "/img/thumbs/mm5-311.png",
-    "width": 560
-  },
   "mm5-charge": {
     "date": 1229194800,
     "height": 528,
@@ -2357,6 +2350,13 @@
     "size": 80225,
     "thumbnail": "/img/thumbs/mm5-proto3.png",
     "width": 5168
+  },
+  "mm5-proto4": {
+    "date": 1229194800,
+    "height": 752,
+    "size": 12412,
+    "thumbnail": "/img/thumbs/mm5-proto4.png",
+    "width": 560
   },
   "mm5-star": {
     "date": 1229194800,
