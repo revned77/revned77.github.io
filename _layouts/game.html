@@ -1,12 +1,23 @@
-<!DOCTYPE HTML>{% assign game = site.data.games.[page.game] %}
+{% capture trim_generated_whitespace %}
+
+{% assign game = site.data.games.[page.game] %}
+
+{% endcapture %}<!DOCTYPE HTML>
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
   <title>{{ game.title }}</title>
+  <link href="/style.css" rel="stylesheet" type="text/css" />
   {% include analytics.html %}
 </head>
 <body>
+<div id="content">
+<div id="sidebar">
+{% include sidebar.html %}
+</div>
+<div id="main-content">
 <h1>{{ game.title }}</h1>
-{{ content }}
+{{ content }}</div>
+</div>
 </body>
 </html>

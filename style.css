@@ -1,0 +1,74 @@
+---
+---
+{% capture trim_generated_whitespace %}/*
+
+{% assign color_bg = "#ffffff" %}
+{% assign color_text_default = "#333333" %}
+{% assign color_text_light = "#888888" %}
+{% assign color_border = "#888888" %}
+
+*/{% endcapture %}body {
+  font-family: arial, sans-serif;
+  color: {{ color_text_default }};
+  background-color: {{ color_bg }};
+}
+
+#content {
+  padding: 15px 30px 0 0;
+}
+
+#sidebar {
+  width: 200px;
+  float: left;
+  padding: 0 0 0 15px;
+  font-size: 11px;
+}
+
+#main-content {
+  margin-left: 230px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.map {
+  margin: 10px;
+  padding: 3px;
+  float: left;
+  text-align: center;
+}
+
+.map h4 {
+  font-weight: normal;
+  margin: 6px;
+}
+
+.map img {
+  border-style: solid;
+  border-width: 1px;
+  border-color: {{ color_border }};
+  padding: 2px;
+}
+
+.map ul {
+  list-style-type: none;
+  margin: 2px;
+  padding: 0;
+
+  font-size: 11px;
+  color: {{ color_text_light }};
+}
+
+.map ul li {
+  display: inline;
+}
+
+.map ul li:after {
+  content: " \00b7";
+  margin: 2px;
+}
+
+.map ul li:last-child:after {
+  content: none;
+}

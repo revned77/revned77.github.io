@@ -13,8 +13,8 @@ from urllib.parse import unquote
 
 def main():
   git = Repo('.')
-  with open('_data/custom.json', 'r') as f:
-    maps = json.loads(f.read())['maps']
+  with open('_data/maps.json', 'r') as f:
+    maps = json.loads(f.read())
   with open('_data/metadata.json', 'r') as f:
     current = json.loads(f.read())
 

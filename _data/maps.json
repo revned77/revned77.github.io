@@ -330,7 +330,7 @@
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%209%20-%20The%20Inner%20Halls.png"
   },
   "gccx2-gqs-world": {
-    "game": "gccx2-gqs",
+    "game": "gccx2",
     "name": "World",
     "path": "/maps/Game%20Center%20CX%20-%20Arino%20no%20Ch%C5%8Dsenj%C5%8D%202/Guadia%20Quest%20Saga/World.png"
   },
@@ -1639,11 +1639,6 @@
     "name": "Wily's Castle - Level 4",
     "path": "/maps/Mega%20Man%20IV/Wily%27s%20Castle%20-%20Level%204.png"
   },
-  "mm5-311": {
-    "game": "mm5",
-    "name": "Proto Man's Fortress: Level 4",
-    "path": "/maps/Mega%20Man%20V/Proto%20Man%27s%20Fortress%20-%20Level%204.png"
-  },
   "mm5-charge": {
     "game": "mm5",
     "name": "Charge Man",
@@ -1683,6 +1678,11 @@
     "game": "mm5",
     "name": "Proto Man's Fortress: Level 3",
     "path": "/maps/Mega%20Man%20V/Proto%20Man%27s%20Fortress%20-%20Level%203.png"
+  },
+  "mm5-proto4": {
+    "game": "mm5",
+    "name": "Proto Man's Fortress: Level 4",
+    "path": "/maps/Mega%20Man%20V/Proto%20Man%27s%20Fortress%20-%20Level%204.png"
   },
   "mm5-star": {
     "game": "mm5",
@@ -1910,7 +1910,7 @@
     "path": "/maps/NES%20Open%20Tournament%20Golf/U.S.%20Course.png"
   },
   "rgc-gq-world": {
-    "game": "rgc-gq",
+    "game": "rgc",
     "name": "World",
     "path": "/maps/Retro%20Game%20Challenge/Guadia%20Quest/World.png"
   },
