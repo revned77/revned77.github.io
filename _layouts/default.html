@@ -1,18 +1,17 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="en-US">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>{{ page.title }}</title>
   <link href="/style.css" rel="stylesheet" type="text/css" />
   {% include analytics.html %}
 </head>
 <body>
-<div id="content">
-<div id="sidebar">
+{% include header.html %}
+<div>
 {% include sidebar.html %}
-</div>
-<div id="main-content">
-{{ content }}</div>
+<article>
+{{ content }}</article>
 </div>
 </body>
 </html>

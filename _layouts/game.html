@@ -2,22 +2,21 @@
 
 {% assign game = site.data.games.[page.game] %}
 
-{% endcapture %}<!DOCTYPE HTML>
+{% endcapture %}<!DOCTYPE html>
 <html lang="en-US">
 <head>
-  <meta charset="UTF-8">
-  <title>{{ game.title }}</title>
+  <meta charset="UTF-8" />
+  <title>Revned's Maps: {{ game.title }}</title>
   <link href="/style.css" rel="stylesheet" type="text/css" />
   {% include analytics.html %}
 </head>
 <body>
-<div id="content">
-<div id="sidebar">
+{% include header.html %}
+<div>
 {% include sidebar.html %}
-</div>
-<div id="main-content">
+<article>
 <h1>{{ game.title }}</h1>
-{{ content }}</div>
+{{ content }}</article>
 </div>
 </body>
 </html>
