@@ -1,95 +1,126 @@
 {
   "cv": {
+    "page": "/games/cv.html",
     "title": "Castlevania"
   },
   "cv-dos": {
+    "page": "/games/cv-dos.html",
     "title": "Castlevania: Dawn of Sorrow"
   },
   "cv-ooe": {
+    "page": "/games/cv-ooe.html",
     "title": "Castlevania: Order of Ecclesia"
   },
   "cv-por": {
+    "page": "/games/cv-por.html",
     "title": "Castlevania: Portrait of Ruin"
   },
   "cv-sotn": {
+    "page": "/games/cv-sotn.html",
     "title": "Castlevania: Symphony of the Night"
   },
   "cv3": {
+    "page": "/games/cv3.html",
     "title": "Castlevania III: Dracula's Curse"
   },
   "gccx2": {
+    "page": "/games/gccx2.html",
     "title": "Game Center CX: Arino no Ch\u014dsenj\u014d 2"
   },
   "kid-dracula": {
+    "page": "/games/kid-dracula.html",
     "title": "Akumaj\u014d Special: Boku Dracula-kun"
   },
   "lemmings": {
+    "page": "/games/lemmings.html",
     "title": "Lemmings"
   },
   "loz-la": {
+    "page": "/games/ZeldaLinksAwakening.html",
     "title": "The Legend of Zelda: Link's Awakening"
   },
   "loz-ladx": {
+    "page": "/games/ZeldaLinksAwakening.html",
     "title": "The Legend of Zelda: Link's Awakening DX"
   },
   "loz-ooa": {
+    "page": "/games/loz-ooa.html",
     "title": "The Legend of Zelda: Oracle of Ages"
   },
   "mk64": {
+    "page": "/games/mk64.html",
     "title": "Mario Kart 64"
   },
   "mkds": {
+    "page": "/games/mkds.html",
     "title": "Mario Kart DS"
   },
   "mm": {
+    "page": "/games/mm.html",
     "title": "Mega Man"
   },
   "mm10": {
+    "page": "/games/mm10.html",
     "title": "Mega Man 10"
   },
   "mm2": {
+    "page": "/games/mm2.html",
     "title": "Mega Man II"
   },
   "mm3": {
+    "page": "/games/MegaManIII.html",
     "title": "Mega Man III"
   },
   "mm3gb": {
+    "page": "/games/mm3gb.html",
     "title": "Mega Man III (GB)"
   },
   "mm4": {
+    "page": "/games/mm4.html",
     "title": "Mega Man IV"
   },
   "mm5": {
+    "page": "/games/mm5.html",
     "title": "Mega Man V"
   },
   "mm6": {
+    "page": "/games/mm6.html",
     "title": "Mega Man VI"
   },
   "mm9": {
+    "page": "/games/mm9.html",
     "title": "Mega Man 9"
   },
   "mmx2": {
+    "page": "/games/mmx2.html",
     "title": "Mega Man X2"
   },
   "mmz2": {
+    "page": "/games/mmz2.html",
     "title": "Mega Man Zero 2"
   },
   "nes-open": {
+    "page": "/games/nes-open.html",
     "title": "NES Open Tournament Golf"
   },
   "rgc": {
+    "page": "/games/rgc.html",
     "title": "Retro Game Challenge"
   },
   "rolando": {
+    "page": "/games/rolando.html",
     "title": "Rolando"
   },
   "sfxmm": {
+    "page": "/games/sfxmm.html",
     "title": "Street Fighter X Mega Man"
   },
   "smb3": {
+    "page": "/games/smb3.html",
     "title": "Super Mario Bros. 3"
   },
   "tentacle": {
+    "page": "/games/tentacle.html",
     "title": "Day of the Tentacle"
   }
 }

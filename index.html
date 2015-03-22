@@ -2,5 +2,8 @@
 layout: default
 title: Revned's Maps
 ---
-Note: this a very rough pre-release of my site. All the content is here, but I have a lot of work
-left before it's presentable.
+<h1>Latest Map Updates</h1>{% assign i = 0 %}{% for commit in site.data.history reversed %}{% assign game_count = commit[1].games | size %}{% assign map_count = commit[1].maps | size %}
+<p>
+  <a href="https://github.com/revned77/revned77.github.io/commit/{{commit[1].commit}}"><img src="/img/github.png" height="12" width="12" /></a>
+  {{ commit[0] | date: "%b %d, %Y" }}: {{ commit[1].maps | size}} map{% if map_count > 1 %}s{% endif %} for {% if game_count == 1 %}{% assign game = commit[1].games[0] %}{% include gamelink.html game=game %}{% else %}multiple games{% endif %}
+</p>{% assign i = i | plus: 1 %}{% if i == 6 %}{% break %}{% endif %}{% endfor %}
