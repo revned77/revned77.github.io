@@ -2,13 +2,13 @@
 
 {% assign map = site.data.maps.[include.map] %}
 {% assign metadata = site.data.metadata.[include.map] %}
+{% assign dq='"' %}
 
 {% endcapture %}<div class="map">
   <h4>{{ map.name }}</h4>
-  <a href="{{ map.path }}"><img src="{{ metadata.thumbnail }}" alt="{{ map.name }}"></a>
+  <a href="{{ map.path }}"><img src="{{ metadata.thumbnail }}" alt="{{ map.name | replace: dq, '' }}" height="{{metadata.thumbnail_height}}" width="{{metadata.thumbnail_width}}" /></a>
   <ul>
-    <li>{{ metadata.width }}×{{ metadata.height }}</li>
-{% capture size %}
+    <li>{{ metadata.width }}×{{ metadata.height }}</li>{% capture size %}
 
 {% if metadata.size >= 1048576 %}
 {{ metadata.size | divided_by: 1048576 }} MB
@@ -18,7 +18,8 @@
 {{ metadata.size }} bytes
 {% endif %}
 
-{% endcapture %}    <li>{{ size | strip_newlines }}</li>
-    <li>{{ metadata.date | date: "%b %d, %Y" }}</li>
+{% endcapture %}
+    <li>{{ size | strip_newlines }}</li>
+    <li>{{ metadata.date | date: "%b %d, %Y" }} <span class="new"></span></li>
   </ul>
 </div>
