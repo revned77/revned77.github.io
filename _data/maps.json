@@ -46,7 +46,7 @@
   },
   "cv-sotn-bloodlines": {
     "game": "cv-sotn",
-    "name": "Final Stage - \"Bloodlines\"",
+    "name": "Final Stage: \"Bloodlines\"",
     "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Final%20Stage%20-%20%22Bloodlines%22.png"
   },
   "cv-sotn-castle": {
@@ -246,87 +246,87 @@
   },
   "cv3-1": {
     "game": "cv3",
-    "name": "Level 1 - Warakiya Village",
+    "name": "Level 1: Warakiya Village",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%201%20-%20Warakiya%20Village.png"
   },
   "cv3-10": {
     "game": "cv3",
-    "name": "Level 10 - The Castle Keep",
+    "name": "Level 10: The Castle Keep",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%2010%20-%20The%20Castle%20Keep.png"
   },
   "cv3-2": {
     "game": "cv3",
-    "name": "Level 2 - The Clock Tower of Untimely Death",
+    "name": "Level 2: The Clock Tower of Untimely Death",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%202%20-%20The%20Clock%20Tower%20of%20Untimely%20Death.png"
   },
   "cv3-3-1": {
     "game": "cv3",
-    "name": "Level 3 - The Mad Forest - Part 1",
+    "name": "Level 3: The Mad Forest (Part 1)",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%203%20-%20The%20Mad%20Forest%20-%20Part%201.png"
   },
   "cv3-3-2": {
     "game": "cv3",
-    "name": "Level 3 - The Mad Forest - Part 2",
+    "name": "Level 3: The Mad Forest (Part 2)",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%203%20-%20The%20Mad%20Forest%20-%20Part%202.png"
   },
   "cv3-4-marsh": {
     "game": "cv3",
-    "name": "Level 4 - The Murky Marsh of Morbid Morons",
+    "name": "Level 4: The Murky Marsh of Morbid Morons",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%204%20-%20The%20Murky%20Marsh%20of%20Morbid%20Morons.png"
   },
   "cv3-4-ship": {
     "game": "cv3",
-    "name": "Level 4 - The Haunted Ship of Fools",
+    "name": "Level 4: The Haunted Ship of Fools",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%204%20-%20The%20Haunted%20Ship%20of%20Fools.png"
   },
   "cv3-5-cave-1": {
     "game": "cv3",
-    "name": "Level 5 - Alucard's Cave - Part 1",
+    "name": "Level 5: Alucard's Cave (Part 1)",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%205%20-%20Alucard%27s%20Cave%20-%20Part%201.png"
   },
   "cv3-5-cave-2": {
     "game": "cv3",
-    "name": "Level 5 - Alucard's Cave - Part 2",
+    "name": "Level 5: Alucard's Cave (Part 2)",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%205%20-%20Alucard%27s%20Cave%20-%20Part%202.png"
   },
   "cv3-5-tower": {
     "game": "cv3",
-    "name": "Level 5 - The Tower of Terror",
+    "name": "Level 5: The Tower of Terror",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%205%20-%20The%20Tower%20of%20Terror.png"
   },
   "cv3-6-catacombs": {
     "game": "cv3",
-    "name": "Level 6 - The Underground Catacombs",
+    "name": "Level 6: The Underground Catacombs",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%206%20-%20The%20Underground%20Catacombs.png"
   },
   "cv3-6-causeway": {
     "game": "cv3",
-    "name": "Level 6 - The Causeway",
+    "name": "Level 6: The Causeway",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%206%20-%20The%20Causeway.png"
   },
   "cv3-6-sunken": {
     "game": "cv3",
-    "name": "Level 6 - The Sunken City of Poltergeists",
+    "name": "Level 6: The Sunken City of Poltergeists",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%206%20-%20The%20Sunken%20City%20of%20Poltergeists.png"
   },
   "cv3-7-cliffside": {
     "game": "cv3",
-    "name": "Level 7 - The Cliffside Entrance",
+    "name": "Level 7: The Cliffside Entrance",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%207%20-%20The%20Cliffside%20Entrance.png"
   },
   "cv3-7-courtyard": {
     "game": "cv3",
-    "name": "Level 7 - The Castle Courtyard",
+    "name": "Level 7: The Castle Courtyard",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%207%20-%20The%20Castle%20Courtyard.png"
   },
   "cv3-8": {
     "game": "cv3",
-    "name": "Level 8 - The Main Hall",
+    "name": "Level 8: The Main Hall",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%208%20-%20The%20Main%20Hall.png"
   },
   "cv3-9": {
     "game": "cv3",
-    "name": "Level 9 - The Inner Halls",
+    "name": "Level 9: The Inner Halls",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%209%20-%20The%20Inner%20Halls.png"
   },
   "gccx2-gqs-world": {
@@ -381,602 +381,602 @@
   },
   "lemmings-fun-01": {
     "game": "lemmings",
-    "name": "Fun - 01",
+    "name": "Level 01",
     "path": "/maps/Lemmings/Fun%20-%2001.png"
   },
   "lemmings-fun-02": {
     "game": "lemmings",
-    "name": "Fun - 02",
+    "name": "Level 02",
     "path": "/maps/Lemmings/Fun%20-%2002.png"
   },
   "lemmings-fun-03": {
     "game": "lemmings",
-    "name": "Fun - 03",
+    "name": "Level 03",
     "path": "/maps/Lemmings/Fun%20-%2003.png"
   },
   "lemmings-fun-04": {
     "game": "lemmings",
-    "name": "Fun - 04",
+    "name": "Level 04",
     "path": "/maps/Lemmings/Fun%20-%2004.png"
   },
   "lemmings-fun-05": {
     "game": "lemmings",
-    "name": "Fun - 05",
+    "name": "Level 05",
     "path": "/maps/Lemmings/Fun%20-%2005.png"
   },
   "lemmings-fun-06": {
     "game": "lemmings",
-    "name": "Fun - 06",
+    "name": "Level 06",
     "path": "/maps/Lemmings/Fun%20-%2006.png"
   },
   "lemmings-fun-07": {
     "game": "lemmings",
-    "name": "Fun - 07",
+    "name": "Level 07",
     "path": "/maps/Lemmings/Fun%20-%2007.png"
   },
   "lemmings-fun-08": {
     "game": "lemmings",
-    "name": "Fun - 08",
+    "name": "Level 08",
     "path": "/maps/Lemmings/Fun%20-%2008.png"
   },
   "lemmings-fun-09": {
     "game": "lemmings",
-    "name": "Fun - 09",
+    "name": "Level 09",
     "path": "/maps/Lemmings/Fun%20-%2009.png"
   },
   "lemmings-fun-10": {
     "game": "lemmings",
-    "name": "Fun - 10",
+    "name": "Level 10",
     "path": "/maps/Lemmings/Fun%20-%2010.png"
   },
   "lemmings-fun-11": {
     "game": "lemmings",
-    "name": "Fun - 11",
+    "name": "Level 11",
     "path": "/maps/Lemmings/Fun%20-%2011.png"
   },
   "lemmings-fun-12": {
     "game": "lemmings",
-    "name": "Fun - 12",
+    "name": "Level 12",
     "path": "/maps/Lemmings/Fun%20-%2012.png"
   },
   "lemmings-fun-13": {
     "game": "lemmings",
-    "name": "Fun - 13",
+    "name": "Level 13",
     "path": "/maps/Lemmings/Fun%20-%2013.png"
   },
   "lemmings-fun-14": {
     "game": "lemmings",
-    "name": "Fun - 14",
+    "name": "Level 14",
     "path": "/maps/Lemmings/Fun%20-%2014.png"
   },
   "lemmings-fun-15": {
     "game": "lemmings",
-    "name": "Fun - 15",
+    "name": "Level 15",
     "path": "/maps/Lemmings/Fun%20-%2015.png"
   },
   "lemmings-fun-16": {
     "game": "lemmings",
-    "name": "Fun - 16",
+    "name": "Level 16",
     "path": "/maps/Lemmings/Fun%20-%2016.png"
   },
   "lemmings-fun-17": {
     "game": "lemmings",
-    "name": "Fun - 17",
+    "name": "Level 17",
     "path": "/maps/Lemmings/Fun%20-%2017.png"
   },
   "lemmings-fun-18": {
     "game": "lemmings",
-    "name": "Fun - 18",
+    "name": "Level 18",
     "path": "/maps/Lemmings/Fun%20-%2018.png"
   },
   "lemmings-fun-19": {
     "game": "lemmings",
-    "name": "Fun - 19",
+    "name": "Level 19",
     "path": "/maps/Lemmings/Fun%20-%2019.png"
   },
   "lemmings-fun-20": {
     "game": "lemmings",
-    "name": "Fun - 20",
+    "name": "Level 20",
     "path": "/maps/Lemmings/Fun%20-%2020.png"
   },
   "lemmings-fun-21": {
     "game": "lemmings",
-    "name": "Fun - 21",
+    "name": "Level 21",
     "path": "/maps/Lemmings/Fun%20-%2021.png"
   },
   "lemmings-fun-22": {
     "game": "lemmings",
-    "name": "Fun - 22",
+    "name": "Level 22",
     "path": "/maps/Lemmings/Fun%20-%2022.png"
   },
   "lemmings-fun-23": {
     "game": "lemmings",
-    "name": "Fun - 23",
+    "name": "Level 23",
     "path": "/maps/Lemmings/Fun%20-%2023.png"
   },
   "lemmings-fun-24": {
     "game": "lemmings",
-    "name": "Fun - 24",
+    "name": "Level 24",
     "path": "/maps/Lemmings/Fun%20-%2024.png"
   },
   "lemmings-fun-25": {
     "game": "lemmings",
-    "name": "Fun - 25",
+    "name": "Level 25",
     "path": "/maps/Lemmings/Fun%20-%2025.png"
   },
   "lemmings-fun-26": {
     "game": "lemmings",
-    "name": "Fun - 26",
+    "name": "Level 26",
     "path": "/maps/Lemmings/Fun%20-%2026.png"
   },
   "lemmings-fun-27": {
     "game": "lemmings",
-    "name": "Fun - 27",
+    "name": "Level 27",
     "path": "/maps/Lemmings/Fun%20-%2027.png"
   },
   "lemmings-fun-28": {
     "game": "lemmings",
-    "name": "Fun - 28",
+    "name": "Level 28",
     "path": "/maps/Lemmings/Fun%20-%2028.png"
   },
   "lemmings-fun-29": {
     "game": "lemmings",
-    "name": "Fun - 29",
+    "name": "Level 29",
     "path": "/maps/Lemmings/Fun%20-%2029.png"
   },
   "lemmings-fun-30": {
     "game": "lemmings",
-    "name": "Fun - 30",
+    "name": "Level 30",
     "path": "/maps/Lemmings/Fun%20-%2030.png"
   },
   "lemmings-mayhem-01": {
     "game": "lemmings",
-    "name": "Mayhem - 01",
+    "name": "Level 01",
     "path": "/maps/Lemmings/Mayhem%20-%2001.png"
   },
   "lemmings-mayhem-02": {
     "game": "lemmings",
-    "name": "Mayhem - 02",
+    "name": "Level 02",
     "path": "/maps/Lemmings/Mayhem%20-%2002.png"
   },
   "lemmings-mayhem-03": {
     "game": "lemmings",
-    "name": "Mayhem - 03",
+    "name": "Level 03",
     "path": "/maps/Lemmings/Mayhem%20-%2003.png"
   },
   "lemmings-mayhem-04": {
     "game": "lemmings",
-    "name": "Mayhem - 04",
+    "name": "Level 04",
     "path": "/maps/Lemmings/Mayhem%20-%2004.png"
   },
   "lemmings-mayhem-05": {
     "game": "lemmings",
-    "name": "Mayhem - 05",
+    "name": "Level 05",
     "path": "/maps/Lemmings/Mayhem%20-%2005.png"
   },
   "lemmings-mayhem-06": {
     "game": "lemmings",
-    "name": "Mayhem - 06",
+    "name": "Level 06",
     "path": "/maps/Lemmings/Mayhem%20-%2006.png"
   },
   "lemmings-mayhem-07": {
     "game": "lemmings",
-    "name": "Mayhem - 07",
+    "name": "Level 07",
     "path": "/maps/Lemmings/Mayhem%20-%2007.png"
   },
   "lemmings-mayhem-08": {
     "game": "lemmings",
-    "name": "Mayhem - 08",
+    "name": "Level 08",
     "path": "/maps/Lemmings/Mayhem%20-%2008.png"
   },
   "lemmings-mayhem-09": {
     "game": "lemmings",
-    "name": "Mayhem - 09",
+    "name": "Level 09",
     "path": "/maps/Lemmings/Mayhem%20-%2009.png"
   },
   "lemmings-mayhem-10": {
     "game": "lemmings",
-    "name": "Mayhem - 10",
+    "name": "Level 10",
     "path": "/maps/Lemmings/Mayhem%20-%2010.png"
   },
   "lemmings-mayhem-11": {
     "game": "lemmings",
-    "name": "Mayhem - 11",
+    "name": "Level 11",
     "path": "/maps/Lemmings/Mayhem%20-%2011.png"
   },
   "lemmings-mayhem-12": {
     "game": "lemmings",
-    "name": "Mayhem - 12",
+    "name": "Level 12",
     "path": "/maps/Lemmings/Mayhem%20-%2012.png"
   },
   "lemmings-mayhem-13": {
     "game": "lemmings",
-    "name": "Mayhem - 13",
+    "name": "Level 13",
     "path": "/maps/Lemmings/Mayhem%20-%2013.png"
   },
   "lemmings-mayhem-14": {
     "game": "lemmings",
-    "name": "Mayhem - 14",
+    "name": "Level 14",
     "path": "/maps/Lemmings/Mayhem%20-%2014.png"
   },
   "lemmings-mayhem-15": {
     "game": "lemmings",
-    "name": "Mayhem - 15",
+    "name": "Level 15",
     "path": "/maps/Lemmings/Mayhem%20-%2015.png"
   },
   "lemmings-mayhem-16": {
     "game": "lemmings",
-    "name": "Mayhem - 16",
+    "name": "Level 16",
     "path": "/maps/Lemmings/Mayhem%20-%2016.png"
   },
   "lemmings-mayhem-17": {
     "game": "lemmings",
-    "name": "Mayhem - 17",
+    "name": "Level 17",
     "path": "/maps/Lemmings/Mayhem%20-%2017.png"
   },
   "lemmings-mayhem-18": {
     "game": "lemmings",
-    "name": "Mayhem - 18",
+    "name": "Level 18",
     "path": "/maps/Lemmings/Mayhem%20-%2018.png"
   },
   "lemmings-mayhem-19": {
     "game": "lemmings",
-    "name": "Mayhem - 19",
+    "name": "Level 19",
     "path": "/maps/Lemmings/Mayhem%20-%2019.png"
   },
   "lemmings-mayhem-20": {
     "game": "lemmings",
-    "name": "Mayhem - 20",
+    "name": "Level 20",
     "path": "/maps/Lemmings/Mayhem%20-%2020.png"
   },
   "lemmings-mayhem-21": {
     "game": "lemmings",
-    "name": "Mayhem - 21",
+    "name": "Level 21",
     "path": "/maps/Lemmings/Mayhem%20-%2021.png"
   },
   "lemmings-mayhem-22": {
     "game": "lemmings",
-    "name": "Mayhem - 22",
+    "name": "Level 22",
     "path": "/maps/Lemmings/Mayhem%20-%2022.png"
   },
   "lemmings-mayhem-23": {
     "game": "lemmings",
-    "name": "Mayhem - 23",
+    "name": "Level 23",
     "path": "/maps/Lemmings/Mayhem%20-%2023.png"
   },
   "lemmings-mayhem-24": {
     "game": "lemmings",
-    "name": "Mayhem - 24",
+    "name": "Level 24",
     "path": "/maps/Lemmings/Mayhem%20-%2024.png"
   },
   "lemmings-mayhem-25": {
     "game": "lemmings",
-    "name": "Mayhem - 25",
+    "name": "Level 25",
     "path": "/maps/Lemmings/Mayhem%20-%2025.png"
   },
   "lemmings-mayhem-26": {
     "game": "lemmings",
-    "name": "Mayhem - 26",
+    "name": "Level 26",
     "path": "/maps/Lemmings/Mayhem%20-%2026.png"
   },
   "lemmings-mayhem-27": {
     "game": "lemmings",
-    "name": "Mayhem - 27",
+    "name": "Level 27",
     "path": "/maps/Lemmings/Mayhem%20-%2027.png"
   },
   "lemmings-mayhem-28": {
     "game": "lemmings",
-    "name": "Mayhem - 28",
+    "name": "Level 28",
     "path": "/maps/Lemmings/Mayhem%20-%2028.png"
   },
   "lemmings-mayhem-29": {
     "game": "lemmings",
-    "name": "Mayhem - 29",
+    "name": "Level 29",
     "path": "/maps/Lemmings/Mayhem%20-%2029.png"
   },
   "lemmings-mayhem-30": {
     "game": "lemmings",
-    "name": "Mayhem - 30",
+    "name": "Level 30",
     "path": "/maps/Lemmings/Mayhem%20-%2030.png"
   },
   "lemmings-taxing-01": {
     "game": "lemmings",
-    "name": "Taxing - 01",
+    "name": "Level 01",
     "path": "/maps/Lemmings/Taxing%20-%2001.png"
   },
   "lemmings-taxing-02": {
     "game": "lemmings",
-    "name": "Taxing - 02",
+    "name": "Level 02",
     "path": "/maps/Lemmings/Taxing%20-%2002.png"
   },
   "lemmings-taxing-03": {
     "game": "lemmings",
-    "name": "Taxing - 03",
+    "name": "Level 03",
     "path": "/maps/Lemmings/Taxing%20-%2003.png"
   },
   "lemmings-taxing-04": {
     "game": "lemmings",
-    "name": "Taxing - 04",
+    "name": "Level 04",
     "path": "/maps/Lemmings/Taxing%20-%2004.png"
   },
   "lemmings-taxing-05": {
     "game": "lemmings",
-    "name": "Taxing - 05",
+    "name": "Level 05",
     "path": "/maps/Lemmings/Taxing%20-%2005.png"
   },
   "lemmings-taxing-06": {
     "game": "lemmings",
-    "name": "Taxing - 06",
+    "name": "Level 06",
     "path": "/maps/Lemmings/Taxing%20-%2006.png"
   },
   "lemmings-taxing-07": {
     "game": "lemmings",
-    "name": "Taxing - 07",
+    "name": "Level 07",
     "path": "/maps/Lemmings/Taxing%20-%2007.png"
   },
   "lemmings-taxing-08": {
     "game": "lemmings",
-    "name": "Taxing - 08",
+    "name": "Level 08",
     "path": "/maps/Lemmings/Taxing%20-%2008.png"
   },
   "lemmings-taxing-09": {
     "game": "lemmings",
-    "name": "Taxing - 09",
+    "name": "Level 09",
     "path": "/maps/Lemmings/Taxing%20-%2009.png"
   },
   "lemmings-taxing-10": {
     "game": "lemmings",
-    "name": "Taxing - 10",
+    "name": "Level 10",
     "path": "/maps/Lemmings/Taxing%20-%2010.png"
   },
   "lemmings-taxing-11": {
     "game": "lemmings",
-    "name": "Taxing - 11",
+    "name": "Level 11",
     "path": "/maps/Lemmings/Taxing%20-%2011.png"
   },
   "lemmings-taxing-12": {
     "game": "lemmings",
-    "name": "Taxing - 12",
+    "name": "Level 12",
     "path": "/maps/Lemmings/Taxing%20-%2012.png"
   },
   "lemmings-taxing-13": {
     "game": "lemmings",
-    "name": "Taxing - 13",
+    "name": "Level 13",
     "path": "/maps/Lemmings/Taxing%20-%2013.png"
   },
   "lemmings-taxing-14": {
     "game": "lemmings",
-    "name": "Taxing - 14",
+    "name": "Level 14",
     "path": "/maps/Lemmings/Taxing%20-%2014.png"
   },
   "lemmings-taxing-15": {
     "game": "lemmings",
-    "name": "Taxing - 15",
+    "name": "Level 15",
     "path": "/maps/Lemmings/Taxing%20-%2015.png"
   },
   "lemmings-taxing-16": {
     "game": "lemmings",
-    "name": "Taxing - 16",
+    "name": "Level 16",
     "path": "/maps/Lemmings/Taxing%20-%2016.png"
   },
   "lemmings-taxing-17": {
     "game": "lemmings",
-    "name": "Taxing - 17",
+    "name": "Level 17",
     "path": "/maps/Lemmings/Taxing%20-%2017.png"
   },
   "lemmings-taxing-18": {
     "game": "lemmings",
-    "name": "Taxing - 18",
+    "name": "Level 18",
     "path": "/maps/Lemmings/Taxing%20-%2018.png"
   },
   "lemmings-taxing-19": {
     "game": "lemmings",
-    "name": "Taxing - 19",
+    "name": "Level 19",
     "path": "/maps/Lemmings/Taxing%20-%2019.png"
   },
   "lemmings-taxing-20": {
     "game": "lemmings",
-    "name": "Taxing - 20",
+    "name": "Level 20",
     "path": "/maps/Lemmings/Taxing%20-%2020.png"
   },
   "lemmings-taxing-21": {
     "game": "lemmings",
-    "name": "Taxing - 21",
+    "name": "Level 21",
     "path": "/maps/Lemmings/Taxing%20-%2021.png"
   },
   "lemmings-taxing-22": {
     "game": "lemmings",
-    "name": "Taxing - 22",
+    "name": "Level 22",
     "path": "/maps/Lemmings/Taxing%20-%2022.png"
   },
   "lemmings-taxing-23": {
     "game": "lemmings",
-    "name": "Taxing - 23",
+    "name": "Level 23",
     "path": "/maps/Lemmings/Taxing%20-%2023.png"
   },
   "lemmings-taxing-24": {
     "game": "lemmings",
-    "name": "Taxing - 24",
+    "name": "Level 24",
     "path": "/maps/Lemmings/Taxing%20-%2024.png"
   },
   "lemmings-taxing-25": {
     "game": "lemmings",
-    "name": "Taxing - 25",
+    "name": "Level 25",
     "path": "/maps/Lemmings/Taxing%20-%2025.png"
   },
   "lemmings-taxing-26": {
     "game": "lemmings",
-    "name": "Taxing - 26",
+    "name": "Level 26",
     "path": "/maps/Lemmings/Taxing%20-%2026.png"
   },
   "lemmings-taxing-27": {
     "game": "lemmings",
-    "name": "Taxing - 27",
+    "name": "Level 27",
     "path": "/maps/Lemmings/Taxing%20-%2027.png"
   },
   "lemmings-taxing-28": {
     "game": "lemmings",
-    "name": "Taxing - 28",
+    "name": "Level 28",
     "path": "/maps/Lemmings/Taxing%20-%2028.png"
   },
   "lemmings-taxing-29": {
     "game": "lemmings",
-    "name": "Taxing - 29",
+    "name": "Level 29",
     "path": "/maps/Lemmings/Taxing%20-%2029.png"
   },
   "lemmings-taxing-30": {
     "game": "lemmings",
-    "name": "Taxing - 30",
+    "name": "Level 30",
     "path": "/maps/Lemmings/Taxing%20-%2030.png"
   },
   "lemmings-tricky-01": {
     "game": "lemmings",
-    "name": "Tricky - 01",
+    "name": "Level 01",
     "path": "/maps/Lemmings/Tricky%20-%2001.png"
   },
   "lemmings-tricky-02": {
     "game": "lemmings",
-    "name": "Tricky - 02",
+    "name": "Level 02",
     "path": "/maps/Lemmings/Tricky%20-%2002.png"
   },
   "lemmings-tricky-03": {
     "game": "lemmings",
-    "name": "Tricky - 03",
+    "name": "Level 03",
     "path": "/maps/Lemmings/Tricky%20-%2003.png"
   },
   "lemmings-tricky-04": {
     "game": "lemmings",
-    "name": "Tricky - 04",
+    "name": "Level 04",
     "path": "/maps/Lemmings/Tricky%20-%2004.png"
   },
   "lemmings-tricky-05": {
     "game": "lemmings",
-    "name": "Tricky - 05",
+    "name": "Level 05",
     "path": "/maps/Lemmings/Tricky%20-%2005.png"
   },
   "lemmings-tricky-06": {
     "game": "lemmings",
-    "name": "Tricky - 06",
+    "name": "Level 06",
     "path": "/maps/Lemmings/Tricky%20-%2006.png"
   },
   "lemmings-tricky-07": {
     "game": "lemmings",
-    "name": "Tricky - 07",
+    "name": "Level 07",
     "path": "/maps/Lemmings/Tricky%20-%2007.png"
   },
   "lemmings-tricky-08": {
     "game": "lemmings",
-    "name": "Tricky - 08",
+    "name": "Level 08",
     "path": "/maps/Lemmings/Tricky%20-%2008.png"
   },
   "lemmings-tricky-09": {
     "game": "lemmings",
-    "name": "Tricky - 09",
+    "name": "Level 09",
     "path": "/maps/Lemmings/Tricky%20-%2009.png"
   },
   "lemmings-tricky-10": {
     "game": "lemmings",
-    "name": "Tricky - 10",
+    "name": "Level 10",
     "path": "/maps/Lemmings/Tricky%20-%2010.png"
   },
   "lemmings-tricky-11": {
     "game": "lemmings",
-    "name": "Tricky - 11",
+    "name": "Level 11",
     "path": "/maps/Lemmings/Tricky%20-%2011.png"
   },
   "lemmings-tricky-12": {
     "game": "lemmings",
-    "name": "Tricky - 12",
+    "name": "Level 12",
     "path": "/maps/Lemmings/Tricky%20-%2012.png"
   },
   "lemmings-tricky-13": {
     "game": "lemmings",
-    "name": "Tricky - 13",
+    "name": "Level 13",
     "path": "/maps/Lemmings/Tricky%20-%2013.png"
   },
   "lemmings-tricky-14": {
     "game": "lemmings",
-    "name": "Tricky - 14",
+    "name": "Level 14",
     "path": "/maps/Lemmings/Tricky%20-%2014.png"
   },
   "lemmings-tricky-15": {
     "game": "lemmings",
-    "name": "Tricky - 15",
+    "name": "Level 15",
     "path": "/maps/Lemmings/Tricky%20-%2015.png"
   },
   "lemmings-tricky-16": {
     "game": "lemmings",
-    "name": "Tricky - 16",
+    "name": "Level 16",
     "path": "/maps/Lemmings/Tricky%20-%2016.png"
   },
   "lemmings-tricky-17": {
     "game": "lemmings",
-    "name": "Tricky - 17",
+    "name": "Level 17",
     "path": "/maps/Lemmings/Tricky%20-%2017.png"
   },
   "lemmings-tricky-18": {
     "game": "lemmings",
-    "name": "Tricky - 18",
+    "name": "Level 18",
     "path": "/maps/Lemmings/Tricky%20-%2018.png"
   },
   "lemmings-tricky-19": {
     "game": "lemmings",
-    "name": "Tricky - 19",
+    "name": "Level 19",
     "path": "/maps/Lemmings/Tricky%20-%2019.png"
   },
   "lemmings-tricky-20": {
     "game": "lemmings",
-    "name": "Tricky - 20",
+    "name": "Level 20",
     "path": "/maps/Lemmings/Tricky%20-%2020.png"
   },
   "lemmings-tricky-21": {
     "game": "lemmings",
-    "name": "Tricky - 21",
+    "name": "Level 21",
     "path": "/maps/Lemmings/Tricky%20-%2021.png"
   },
   "lemmings-tricky-22": {
     "game": "lemmings",
-    "name": "Tricky - 22",
+    "name": "Level 22",
     "path": "/maps/Lemmings/Tricky%20-%2022.png"
   },
   "lemmings-tricky-23": {
     "game": "lemmings",
-    "name": "Tricky - 23",
+    "name": "Level 23",
     "path": "/maps/Lemmings/Tricky%20-%2023.png"
   },
   "lemmings-tricky-24": {
     "game": "lemmings",
-    "name": "Tricky - 24",
+    "name": "Level 24",
     "path": "/maps/Lemmings/Tricky%20-%2024.png"
   },
   "lemmings-tricky-25": {
     "game": "lemmings",
-    "name": "Tricky - 25",
+    "name": "Level 25",
     "path": "/maps/Lemmings/Tricky%20-%2025.png"
   },
   "lemmings-tricky-26": {
     "game": "lemmings",
-    "name": "Tricky - 26",
+    "name": "Level 26",
     "path": "/maps/Lemmings/Tricky%20-%2026.png"
   },
   "lemmings-tricky-27": {
     "game": "lemmings",
-    "name": "Tricky - 27",
+    "name": "Level 27",
     "path": "/maps/Lemmings/Tricky%20-%2027.png"
   },
   "lemmings-tricky-28": {
     "game": "lemmings",
-    "name": "Tricky - 28",
+    "name": "Level 28",
     "path": "/maps/Lemmings/Tricky%20-%2028.png"
   },
   "lemmings-tricky-29": {
     "game": "lemmings",
-    "name": "Tricky - 29",
+    "name": "Level 29",
     "path": "/maps/Lemmings/Tricky%20-%2029.png"
   },
   "lemmings-tricky-30": {
     "game": "lemmings",
-    "name": "Tricky - 30",
+    "name": "Level 30",
     "path": "/maps/Lemmings/Tricky%20-%2030.png"
   },
   "loz-la-angler": {
@@ -1076,7 +1076,7 @@
   },
   "loz-ooa-ancient": {
     "game": "loz-ooa",
-    "name": "Ancient Tomb",
+    "name": "Level 8: Ancient Tomb",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Ancient%20Tomb.png"
   },
   "loz-ooa-animals": {
@@ -1086,7 +1086,7 @@
   },
   "loz-ooa-crown": {
     "game": "loz-ooa",
-    "name": "Crown Dungeon",
+    "name": "Level 5: Crown Dungeon",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Crown%20Dungeon.png"
   },
   "loz-ooa-hero": {
@@ -1096,7 +1096,7 @@
   },
   "loz-ooa-jabu": {
     "game": "loz-ooa",
-    "name": "Jabu-Jabu's Belly",
+    "name": "Level 7: Jabu-Jabu's Belly",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Jabu-Jabu%27s%20Belly.png"
   },
   "loz-ooa-maku-past": {
@@ -1111,42 +1111,42 @@
   },
   "loz-ooa-mermaid-past": {
     "game": "loz-ooa",
-    "name": "Mermaid's Cave (Past)",
+    "name": "Level 6: Mermaid's Cave (Past)",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Mermaid%27s%20Cave%20%28Past%29.png"
   },
   "loz-ooa-mermaid-present": {
     "game": "loz-ooa",
-    "name": "Mermaid's Cave (Present)",
+    "name": "Level 6: Mermaid's Cave (Present)",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Mermaid%27s%20Cave%20%28Present%29.png"
   },
   "loz-ooa-moonlit": {
     "game": "loz-ooa",
-    "name": "Moonlit Grotto",
+    "name": "Level 3: Moonlit Grotto",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Moonlit%20Grotto.png"
   },
   "loz-ooa-past": {
     "game": "loz-ooa",
-    "name": "Labrynna (Past)",
+    "name": "Past",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Labrynna%20%28Past%29.png"
   },
   "loz-ooa-past-in-game": {
     "game": "loz-ooa",
-    "name": "Labrynna (Past) (In-Game Map)",
+    "name": "Past (In-Game Map)",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Labrynna%20%28Past%29%20%28In-Game%20Map%29.png"
   },
   "loz-ooa-present": {
     "game": "loz-ooa",
-    "name": "Labrynna (Present)",
+    "name": "Present",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Labrynna%20%28Present%29.png"
   },
   "loz-ooa-present-in-game": {
     "game": "loz-ooa",
-    "name": "Labrynna (Present) (In-Game Map)",
+    "name": "Present (In-Game Map)",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Labrynna%20%28Present%29%20%28In-Game%20Map%29.png"
   },
   "loz-ooa-rescue": {
     "game": "loz-ooa",
-    "name": "Black Tower - Princess Zelda's Rescue",
+    "name": "Black Tower: Princess Zelda's Rescue",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Black%20Tower%20-%20Princess%20Zelda%27s%20Rescue.png"
   },
   "loz-ooa-rites": {
@@ -1156,12 +1156,12 @@
   },
   "loz-ooa-skull": {
     "game": "loz-ooa",
-    "name": "Skull Dungeon",
+    "name": "Level 4: Skull Dungeon",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Skull%20Dungeon.png"
   },
   "loz-ooa-spirit": {
     "game": "loz-ooa",
-    "name": "Spirit's Grave",
+    "name": "Level 1: Spirit's Grave",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Spirit%27s%20Grave.png"
   },
   "loz-ooa-symmetry": {
@@ -1171,7 +1171,7 @@
   },
   "loz-ooa-turret": {
     "game": "loz-ooa",
-    "name": "Black Tower - Turret",
+    "name": "Black Tower Turret",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Black%20Tower%20-%20Turret.png"
   },
   "loz-ooa-underwater-past": {
@@ -1186,7 +1186,7 @@
   },
   "loz-ooa-wing": {
     "game": "loz-ooa",
-    "name": "Wing Dungeon",
+    "name": "Level 2: Wing Dungeon",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Wing%20Dungeon.png"
   },
   "mk64-battle": {
@@ -1251,22 +1251,22 @@
   },
   "mm-wily1": {
     "game": "mm",
-    "name": "Dr. Wily - Level 1",
+    "name": "Level 1",
     "path": "/maps/Mega%20Man/Dr.%20Wily%20-%20Level%201.png"
   },
   "mm-wily2": {
     "game": "mm",
-    "name": "Dr. Wily - Level 2",
+    "name": "Level 2",
     "path": "/maps/Mega%20Man/Dr.%20Wily%20-%20Level%202.png"
   },
   "mm-wily3": {
     "game": "mm",
-    "name": "Dr. Wily - Level 3",
+    "name": "Level 3",
     "path": "/maps/Mega%20Man/Dr.%20Wily%20-%20Level%203.png"
   },
   "mm-wily4": {
     "game": "mm",
-    "name": "Dr. Wily - Level 4",
+    "name": "Level 4",
     "path": "/maps/Mega%20Man/Dr.%20Wily%20-%20Level%204.png"
   },
   "mm10-blade": {
@@ -1331,27 +1331,27 @@
   },
   "mm10-wily1": {
     "game": "mm10",
-    "name": "Wily Castle 1",
+    "name": "Level 1",
     "path": "/maps/Mega%20Man%2010/Wily%20Castle%201.png"
   },
   "mm10-wily2": {
     "game": "mm10",
-    "name": "Wily Castle 2",
+    "name": "Level 2",
     "path": "/maps/Mega%20Man%2010/Wily%20Castle%202.png"
   },
   "mm10-wily3": {
     "game": "mm10",
-    "name": "Wily Castle 3",
+    "name": "Level 3",
     "path": "/maps/Mega%20Man%2010/Wily%20Castle%203.png"
   },
   "mm10-wily4": {
     "game": "mm10",
-    "name": "Wily Castle 4",
+    "name": "Level 4",
     "path": "/maps/Mega%20Man%2010/Wily%20Castle%204.png"
   },
   "mm10-wily5": {
     "game": "mm10",
-    "name": "Wily Castle 5",
+    "name": "Level 5",
     "path": "/maps/Mega%20Man%2010/Wily%20Castle%205.png"
   },
   "mm2-air": {
@@ -1391,32 +1391,32 @@
   },
   "mm2-wily1": {
     "game": "mm2",
-    "name": "Dr. Wily - Level 1",
+    "name": "Level 1",
     "path": "/maps/Mega%20Man%20II/Dr.%20Wily%20-%20Level%201.png"
   },
   "mm2-wily2": {
     "game": "mm2",
-    "name": "Dr. Wily - Level 2",
+    "name": "Level 2",
     "path": "/maps/Mega%20Man%20II/Dr.%20Wily%20-%20Level%202.png"
   },
   "mm2-wily3": {
     "game": "mm2",
-    "name": "Dr. Wily - Level 3",
+    "name": "Level 3",
     "path": "/maps/Mega%20Man%20II/Dr.%20Wily%20-%20Level%203.png"
   },
   "mm2-wily4": {
     "game": "mm2",
-    "name": "Dr. Wily - Level 4",
+    "name": "Level 4",
     "path": "/maps/Mega%20Man%20II/Dr.%20Wily%20-%20Level%204.png"
   },
   "mm2-wily5": {
     "game": "mm2",
-    "name": "Dr. Wily - Level 5",
+    "name": "Level 5",
     "path": "/maps/Mega%20Man%20II/Dr.%20Wily%20-%20Level%205.png"
   },
   "mm2-wily6": {
     "game": "mm2",
-    "name": "Dr. Wily - Level 6",
+    "name": "Level 6",
     "path": "/maps/Mega%20Man%20II/Dr.%20Wily%20-%20Level%206.png"
   },
   "mm2-wood": {
@@ -1436,7 +1436,7 @@
   },
   "mm3-gemini-revisited": {
     "game": "mm3",
-    "name": "Doc Robot - Gemini Man Revisited",
+    "name": "Gemini Man Revisited",
     "path": "/maps/Mega%20Man%20III/Doc%20Robot%20-%20Gemini%20Man%20Revisited.png"
   },
   "mm3-hard": {
@@ -1456,7 +1456,7 @@
   },
   "mm3-needle-revisited": {
     "game": "mm3",
-    "name": "Doc Robot - Needle Man Revisited",
+    "name": "Needle Man Revisited",
     "path": "/maps/Mega%20Man%20III/Doc%20Robot%20-%20Needle%20Man%20Revisited.png"
   },
   "mm3-shadow": {
@@ -1466,7 +1466,7 @@
   },
   "mm3-shadow-revisited": {
     "game": "mm3",
-    "name": "Doc Robot - Shadow Man Revisited",
+    "name": "Shadow Man Revisited",
     "path": "/maps/Mega%20Man%20III/Doc%20Robot%20-%20Shadow%20Man%20Revisited.png"
   },
   "mm3-snake": {
@@ -1481,7 +1481,7 @@
   },
   "mm3-spark-revisited": {
     "game": "mm3",
-    "name": "Doc Robot - Spark Man Revisited",
+    "name": "Spark Man Revisited",
     "path": "/maps/Mega%20Man%20III/Doc%20Robot%20-%20Spark%20Man%20Revisited.png"
   },
   "mm3-top": {
@@ -1491,32 +1491,32 @@
   },
   "mm3-wily1": {
     "game": "mm3",
-    "name": "Wiley's Castle - Level 1",
+    "name": "Level 1",
     "path": "/maps/Mega%20Man%20III/Wiley%27s%20Castle%20-%20Level%201.png"
   },
   "mm3-wily2": {
     "game": "mm3",
-    "name": "Wiley's Castle - Level 2",
+    "name": "Level 2",
     "path": "/maps/Mega%20Man%20III/Wiley%27s%20Castle%20-%20Level%202.png"
   },
   "mm3-wily3": {
     "game": "mm3",
-    "name": "Wiley's Castle - Level 3",
+    "name": "Level 3",
     "path": "/maps/Mega%20Man%20III/Wiley%27s%20Castle%20-%20Level%203.png"
   },
   "mm3-wily4": {
     "game": "mm3",
-    "name": "Wiley's Castle - Level 4",
+    "name": "Level 4",
     "path": "/maps/Mega%20Man%20III/Wiley%27s%20Castle%20-%20Level%204.png"
   },
   "mm3-wily5": {
     "game": "mm3",
-    "name": "Wiley's Castle - Level 5",
+    "name": "Level 5",
     "path": "/maps/Mega%20Man%20III/Wiley%27s%20Castle%20-%20Level%205.png"
   },
   "mm3-wily6": {
     "game": "mm3",
-    "name": "Wiley's Castle - Level 6",
+    "name": "Level 6",
     "path": "/maps/Mega%20Man%20III/Wiley%27s%20Castle%20-%20Level%206.png"
   },
   "mm3gb-drill": {
@@ -1556,7 +1556,7 @@
   },
   "mm3gb-suzy": {
     "game": "mm3gb",
-    "name": "Dr Wily - Giant Suzy",
+    "name": "Giant Suzy",
     "path": "/maps/Mega%20Man%20III%20%28GB%29/Dr%20Wily%20-%20Giant%20Suzy.png"
   },
   "mm4-bright": {
@@ -1566,22 +1566,22 @@
   },
   "mm4-cossack1": {
     "game": "mm4",
-    "name": "Dr. Cossack's Citadel: Level 1",
+    "name": "Level 1",
     "path": "/maps/Mega%20Man%20IV/Dr.%20Cossack%27s%20Citadel%20-%20Level%201.png"
   },
   "mm4-cossack2": {
     "game": "mm4",
-    "name": "Dr. Cossack's Citadel: Level 2",
+    "name": "Level 2",
     "path": "/maps/Mega%20Man%20IV/Dr.%20Cossack%27s%20Citadel%20-%20Level%202.png"
   },
   "mm4-cossack3": {
     "game": "mm4",
-    "name": "Dr. Cossack's Citadel: Level 3",
+    "name": "Level 3",
     "path": "/maps/Mega%20Man%20IV/Dr.%20Cossack%27s%20Citadel%20-%20Level%203.png"
   },
   "mm4-cossack4": {
     "game": "mm4",
-    "name": "Dr. Cossack's Citadel - Level 4",
+    "name": "Level 4",
     "path": "/maps/Mega%20Man%20IV/Dr.%20Cossack%27s%20Citadel%20-%20Level%204.png"
   },
   "mm4-dive": {
@@ -1621,22 +1621,22 @@
   },
   "mm4-wily1": {
     "game": "mm4",
-    "name": "Wily's Castle - Level 1",
+    "name": "Level 1",
     "path": "/maps/Mega%20Man%20IV/Wily%27s%20Castle%20-%20Level%201.png"
   },
   "mm4-wily2": {
     "game": "mm4",
-    "name": "Wily's Castle - Level 2",
+    "name": "Level 2",
     "path": "/maps/Mega%20Man%20IV/Wily%27s%20Castle%20-%20Level%202.png"
   },
   "mm4-wily3": {
     "game": "mm4",
-    "name": "Wily's Castle - Level 3",
+    "name": "Level 3",
     "path": "/maps/Mega%20Man%20IV/Wily%27s%20Castle%20-%20Level%203.png"
   },
   "mm4-wily4": {
     "game": "mm4",
-    "name": "Wily's Castle - Level 4",
+    "name": "Level 4",
     "path": "/maps/Mega%20Man%20IV/Wily%27s%20Castle%20-%20Level%204.png"
   },
   "mm5-charge": {
@@ -1666,22 +1666,22 @@
   },
   "mm5-proto1": {
     "game": "mm5",
-    "name": "Proto Man's Fortress: Level 1",
+    "name": "Level 1",
     "path": "/maps/Mega%20Man%20V/Proto%20Man%27s%20Fortress%20-%20Level%201.png"
   },
   "mm5-proto2": {
     "game": "mm5",
-    "name": "Proto Man's Fortress: Level 2",
+    "name": "Level 2",
     "path": "/maps/Mega%20Man%20V/Proto%20Man%27s%20Fortress%20-%20Level%202.png"
   },
   "mm5-proto3": {
     "game": "mm5",
-    "name": "Proto Man's Fortress: Level 3",
+    "name": "Level 3",
     "path": "/maps/Mega%20Man%20V/Proto%20Man%27s%20Fortress%20-%20Level%203.png"
   },
   "mm5-proto4": {
     "game": "mm5",
-    "name": "Proto Man's Fortress: Level 4",
+    "name": "Level 4",
     "path": "/maps/Mega%20Man%20V/Proto%20Man%27s%20Fortress%20-%20Level%204.png"
   },
   "mm5-star": {
@@ -1701,22 +1701,22 @@
   },
   "mm5-wily1": {
     "game": "mm5",
-    "name": "Wily's Castle: Level 1",
+    "name": "Level 1",
     "path": "/maps/Mega%20Man%20V/Wily%27s%20Castle%20-%20Level%201.png"
   },
   "mm5-wily2": {
     "game": "mm5",
-    "name": "Wily's Castle: Level 2",
+    "name": "Level 2",
     "path": "/maps/Mega%20Man%20V/Wily%27s%20Castle%20-%20Level%202.png"
   },
   "mm5-wily3": {
     "game": "mm5",
-    "name": "Wily's Castle: Level 3",
+    "name": "Level 3",
     "path": "/maps/Mega%20Man%20V/Wily%27s%20Castle%20-%20Level%203.png"
   },
   "mm5-wily4": {
     "game": "mm5",
-    "name": "Wily's Castle: Level 4",
+    "name": "Level 4",
     "path": "/maps/Mega%20Man%20V/Wily%27s%20Castle%20-%20Level%204.png"
   },
   "mm6-blizzard": {
@@ -1751,22 +1751,22 @@
   },
   "mm6-wily1": {
     "game": "mm6",
-    "name": "Wily's Castle - Level 1",
+    "name": "Level 1",
     "path": "/maps/Mega%20Man%20VI/Wily%27s%20Castle%20-%20Level%201.png"
   },
   "mm6-wily2": {
     "game": "mm6",
-    "name": "Wily's Castle - Level 2",
+    "name": "Level 2",
     "path": "/maps/Mega%20Man%20VI/Wily%27s%20Castle%20-%20Level%202.png"
   },
   "mm6-wily3": {
     "game": "mm6",
-    "name": "Wily's Castle - Level 3",
+    "name": "Level 3",
     "path": "/maps/Mega%20Man%20VI/Wily%27s%20Castle%20-%20Level%203.png"
   },
   "mm6-wily4": {
     "game": "mm6",
-    "name": "Wily's Castle - Level 4",
+    "name": "Level 4",
     "path": "/maps/Mega%20Man%20VI/Wily%27s%20Castle%20-%20Level%204.png"
   },
   "mm6-wind": {
@@ -1776,22 +1776,22 @@
   },
   "mm6-x1": {
     "game": "mm6",
-    "name": "Mr. X1",
+    "name": "Level 1",
     "path": "/maps/Mega%20Man%20VI/Mr.%20X1.png"
   },
   "mm6-x2": {
     "game": "mm6",
-    "name": "Mr. X2",
+    "name": "Level 2",
     "path": "/maps/Mega%20Man%20VI/Mr.%20X2.png"
   },
   "mm6-x3": {
     "game": "mm6",
-    "name": "Mr. X3",
+    "name": "Level 3",
     "path": "/maps/Mega%20Man%20VI/Mr.%20X3.png"
   },
   "mm6-x4": {
     "game": "mm6",
-    "name": "Mr. X4",
+    "name": "Level 4",
     "path": "/maps/Mega%20Man%20VI/Mr.%20X4.png"
   },
   "mm6-yamato": {
@@ -1851,22 +1851,22 @@
   },
   "mm9-wily1": {
     "game": "mm9",
-    "name": "Wily Castle 1",
+    "name": "Level 1",
     "path": "/maps/Mega%20Man%209/Wily%20Castle%201.png"
   },
   "mm9-wily2": {
     "game": "mm9",
-    "name": "Wily Castle 2",
+    "name": "Level 2",
     "path": "/maps/Mega%20Man%209/Wily%20Castle%202.png"
   },
   "mm9-wily3": {
     "game": "mm9",
-    "name": "Wily Castle 3",
+    "name": "Level 3",
     "path": "/maps/Mega%20Man%209/Wily%20Castle%203.png"
   },
   "mm9-wily4": {
     "game": "mm9",
-    "name": "Wily Castle 4",
+    "name": "Level 4",
     "path": "/maps/Mega%20Man%209/Wily%20Castle%204.png"
   },
   "mmx2-deepsea": {
@@ -1916,182 +1916,182 @@
   },
   "rolando-1-1": {
     "game": "rolando",
-    "name": "1-1 - Honeycup Meadows - Hello Rolando",
+    "name": "Level 1: Hello Rolando",
     "path": "/maps/Rolando/1-1%20-%20Honeycup%20Meadows%20-%20Hello%20Rolando.png"
   },
   "rolando-1-2": {
     "game": "rolando",
-    "name": "1-2 - Honeycup Meadows - A Fistful of Rolandos",
+    "name": "Level 2: A Fistful of Rolandos",
     "path": "/maps/Rolando/1-2%20-%20Honeycup%20Meadows%20-%20A%20Fistful%20of%20Rolandos.png"
   },
   "rolando-1-3": {
     "game": "rolando",
-    "name": "1-3 - Honeycup Meadows - Push and Shove",
+    "name": "Level 3: Push and Shove",
     "path": "/maps/Rolando/1-3%20-%20Honeycup%20Meadows%20-%20Push%20and%20Shove.png"
   },
   "rolando-1-4": {
     "game": "rolando",
-    "name": "1-4 - Honeycup Meadows - Hail to the King",
+    "name": "Level 4: Hail to the King",
     "path": "/maps/Rolando/1-4%20-%20Honeycup%20Meadows%20-%20Hail%20to%20the%20King.png"
   },
   "rolando-1-5": {
     "game": "rolando",
-    "name": "1-5 - Honeycup Meadows - Along came the Prince",
+    "name": "Level 5: Along came the Prince",
     "path": "/maps/Rolando/1-5%20-%20Honeycup%20Meadows%20-%20Along%20came%20the%20Prince.png"
   },
   "rolando-1-6": {
     "game": "rolando",
-    "name": "1-6 - Honeycup Meadows - Twisty Cavern",
+    "name": "Level 6: Twisty Cavern",
     "path": "/maps/Rolando/1-6%20-%20Honeycup%20Meadows%20-%20Twisty%20Cavern.png"
   },
   "rolando-1-7": {
     "game": "rolando",
-    "name": "1-7 - Honeycup Meadows - The Great Forest",
+    "name": "Level 7: The Great Forest",
     "path": "/maps/Rolando/1-7%20-%20Honeycup%20Meadows%20-%20The%20Great%20Forest.png"
   },
   "rolando-1-8": {
     "game": "rolando",
-    "name": "1-8 - Honeycup Meadows - Mount Rollmore",
+    "name": "Level 8: Mount Rollmore",
     "path": "/maps/Rolando/1-8%20-%20Honeycup%20Meadows%20-%20Mount%20Rollmore.png"
   },
   "rolando-1-9": {
     "game": "rolando",
-    "name": "1-9 - Honeycup Meadows - Altitude Adventure",
+    "name": "Level 9: Altitude Adventure",
     "path": "/maps/Rolando/1-9%20-%20Honeycup%20Meadows%20-%20Altitude%20Adventure.png"
   },
   "rolando-2-1": {
     "game": "rolando",
-    "name": "2-1 - Fire Canyon - Fire Canyon",
+    "name": "Level 1: Fire Canyon",
     "path": "/maps/Rolando/2-1%20-%20Fire%20Canyon%20-%20Fire%20Canyon.png"
   },
   "rolando-2-2": {
     "game": "rolando",
-    "name": "2-2 - Fire Canyon - The Lost Plateau",
+    "name": "Level 2: The Lost Plateau",
     "path": "/maps/Rolando/2-2%20-%20Fire%20Canyon%20-%20The%20Lost%20Plateau.png"
   },
   "rolando-2-3": {
     "game": "rolando",
-    "name": "2-3 - Fire Canyon - The Rescue Party",
+    "name": "Level 3: The Rescue Party",
     "path": "/maps/Rolando/2-3%20-%20Fire%20Canyon%20-%20The%20Rescue%20Party.png"
   },
   "rolando-2-4": {
     "game": "rolando",
-    "name": "2-4 - Fire Canyon - Royal Bridge Building",
+    "name": "Level 4: Royal Bridge Building",
     "path": "/maps/Rolando/2-4%20-%20Fire%20Canyon%20-%20Royal%20Bridge%20Building.png"
   },
   "rolando-2-5": {
     "game": "rolando",
-    "name": "2-5 - Fire Canyon - Rock n Revolver",
+    "name": "Level 5: Rock n Revolver",
     "path": "/maps/Rolando/2-5%20-%20Fire%20Canyon%20-%20Rock%20n%20Revolver.png"
   },
   "rolando-2-6": {
     "game": "rolando",
-    "name": "2-6 - Fire Canyon - A Lonely Prince",
+    "name": "Level 6: A Lonely Prince",
     "path": "/maps/Rolando/2-6%20-%20Fire%20Canyon%20-%20A%20Lonely%20Prince.png"
   },
   "rolando-2-7": {
     "game": "rolando",
-    "name": "2-7 - Fire Canyon - Orinoco Mine",
+    "name": "Level 7: Orinoco Mine",
     "path": "/maps/Rolando/2-7%20-%20Fire%20Canyon%20-%20Orinoco%20Mine.png"
   },
   "rolando-2-8": {
     "game": "rolando",
-    "name": "2-8 - Fire Canyon - Pachinko Panic",
+    "name": "Level 8: Pachinko Panic",
     "path": "/maps/Rolando/2-8%20-%20Fire%20Canyon%20-%20Pachinko%20Panic.png"
   },
   "rolando-2-9": {
     "game": "rolando",
-    "name": "2-9 - Fire Canyon - Catapult Chasm",
+    "name": "Level 9: Catapult Chasm",
     "path": "/maps/Rolando/2-9%20-%20Fire%20Canyon%20-%20Catapult%20Chasm.png"
   },
   "rolando-3-1": {
     "game": "rolando",
-    "name": "3-1 - Rolando Central - Rolando Central",
+    "name": "Level 1: Rolando Central",
     "path": "/maps/Rolando/3-1%20-%20Rolando%20Central%20-%20Rolando%20Central.png"
   },
   "rolando-3-2": {
     "game": "rolando",
-    "name": "3-2 - Rolando Central - Central Suburbia",
+    "name": "Level 2: Central Suburbia",
     "path": "/maps/Rolando/3-2%20-%20Rolando%20Central%20-%20Central%20Suburbia.png"
   },
   "rolando-3-3": {
     "game": "rolando",
-    "name": "3-3 - Rolando Central - The Princely Path",
+    "name": "Level 3: The Princely Path",
     "path": "/maps/Rolando/3-3%20-%20Rolando%20Central%20-%20The%20Princely%20Path.png"
   },
   "rolando-3-4": {
     "game": "rolando",
-    "name": "3-4 - Rolando Central - Uptown Top Rolling",
+    "name": "Level 4: Uptown Top Rolling",
     "path": "/maps/Rolando/3-4%20-%20Rolando%20Central%20-%20Uptown%20Top%20Rolling.png"
   },
   "rolando-3-5": {
     "game": "rolando",
-    "name": "3-5 - Rolando Central - Spin City",
+    "name": "Level 5: Spin City",
     "path": "/maps/Rolando/3-5%20-%20Rolando%20Central%20-%20Spin%20City.png"
   },
   "rolando-3-6": {
     "game": "rolando",
-    "name": "3-6 - Rolando Central - Spikey's Quest",
+    "name": "Level 6: Spikey's Quest",
     "path": "/maps/Rolando/3-6%20-%20Rolando%20Central%20-%20Spikey%27s%20Quest.png"
   },
   "rolando-3-7": {
     "game": "rolando",
-    "name": "3-7 - Rolando Central - Under Construction",
+    "name": "Level 7: Under Construction",
     "path": "/maps/Rolando/3-7%20-%20Rolando%20Central%20-%20Under%20Construction.png"
   },
   "rolando-3-8": {
     "game": "rolando",
-    "name": "3-8 - Rolando Central - Fireworks Factory",
+    "name": "Level 8: Fireworks Factory",
     "path": "/maps/Rolando/3-8%20-%20Rolando%20Central%20-%20Fireworks%20Factory.png"
   },
   "rolando-3-9": {
     "game": "rolando",
-    "name": "3-9 - Rolando Central - Rolando Resistance",
+    "name": "Level 9: Rolando Resistance",
     "path": "/maps/Rolando/3-9%20-%20Rolando%20Central%20-%20Rolando%20Resistance.png"
   },
   "rolando-4-1": {
     "game": "rolando",
-    "name": "4-1 - Shadow Valley - Shadow Valley",
+    "name": "Level 1: Shadow Valley",
     "path": "/maps/Rolando/4-1%20-%20Shadow%20Valley%20-%20Shadow%20Valley.png"
   },
   "rolando-4-2": {
     "game": "rolando",
-    "name": "4-2 - Shadow Valley - Luminous Lock",
+    "name": "Level 2: Luminous Lock",
     "path": "/maps/Rolando/4-2%20-%20Shadow%20Valley%20-%20Luminous%20Lock.png"
   },
   "rolando-4-3": {
     "game": "rolando",
-    "name": "4-3 - Shadow Valley - The Great Escape",
+    "name": "Level 3: The Great Escape",
     "path": "/maps/Rolando/4-3%20-%20Shadow%20Valley%20-%20The%20Great%20Escape.png"
   },
   "rolando-4-4": {
     "game": "rolando",
-    "name": "4-4 - Shadow Valley - The Prince Prisoner",
+    "name": "Level 4: The Prince Prisoner",
     "path": "/maps/Rolando/4-4%20-%20Shadow%20Valley%20-%20The%20Prince%20Prisoner.png"
   },
   "rolando-4-5": {
     "game": "rolando",
-    "name": "4-5 - Shadow Valley - Jail Break",
+    "name": "Level 5: Jail Break",
     "path": "/maps/Rolando/4-5%20-%20Shadow%20Valley%20-%20Jail%20Break.png"
   },
   "rolando-4-6": {
     "game": "rolando",
-    "name": "4-6 - Shadow Valley - Rolling Royalty",
+    "name": "Level 6: Rolling Royalty",
     "path": "/maps/Rolando/4-6%20-%20Shadow%20Valley%20-%20Rolling%20Royalty.png"
   },
   "rolando-4-7": {
     "game": "rolando",
-    "name": "4-7 - Shadow Valley - Twin Keeps",
+    "name": "Level 7: Twin Keeps",
     "path": "/maps/Rolando/4-7%20-%20Shadow%20Valley%20-%20Twin%20Keeps.png"
   },
   "rolando-4-8": {
     "game": "rolando",
-    "name": "4-8 - Shadow Valley - Shadow Fortress",
+    "name": "Level 8: Shadow Fortress",
     "path": "/maps/Rolando/4-8%20-%20Shadow%20Valley%20-%20Shadow%20Fortress.png"
   },
   "rolando-4-9": {
     "game": "rolando",
-    "name": "4-9 - Shadow Valley - The Dark Abyss",
+    "name": "Level 9: The Dark Abyss",
     "path": "/maps/Rolando/4-9%20-%20Shadow%20Valley%20-%20The%20Dark%20Abyss.png"
   },
   "rolando-5-1": {

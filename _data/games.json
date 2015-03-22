@@ -1,70 +1,70 @@
 {
   "cv": {
-    "page": "/games/cv.html",
+    "page": "/games/Castlevania.html",
     "title": "Castlevania"
   },
   "cv-dos": {
-    "page": "/games/cv-dos.html",
+    "page": "/games/DawnOfSorrow.html",
     "title": "Castlevania: Dawn of Sorrow"
   },
   "cv-ooe": {
-    "page": "/games/cv-ooe.html",
+    "page": "/games/OrderOfEcclesia.html",
     "title": "Castlevania: Order of Ecclesia"
   },
   "cv-por": {
-    "page": "/games/cv-por.html",
+    "page": "/games/PortraitOfRuin.html",
     "title": "Castlevania: Portrait of Ruin"
   },
   "cv-sotn": {
-    "page": "/games/cv-sotn.html",
+    "page": "/games/SymphonyOfTheNight.html",
     "title": "Castlevania: Symphony of the Night"
   },
   "cv3": {
-    "page": "/games/cv3.html",
+    "page": "/games/CastlevaniaIII.html",
     "title": "Castlevania III: Dracula's Curse"
   },
   "gccx2": {
-    "page": "/games/gccx2.html",
+    "page": "/games/GameCenterCX2.html",
     "title": "Game Center CX: Arino no Ch\u014dsenj\u014d 2"
   },
   "kid-dracula": {
-    "page": "/games/kid-dracula.html",
+    "page": "/games/AkumajouSpecial.html",
     "title": "Akumaj\u014d Special: Boku Dracula-kun"
   },
   "lemmings": {
-    "page": "/games/lemmings.html",
+    "page": "/games/Lemmings.html",
     "title": "Lemmings"
   },
   "loz-la": {
-    "page": "/games/ZeldaLinksAwakening.html",
+    "page": "/games/Link'sAwakening.html",
     "title": "The Legend of Zelda: Link's Awakening"
   },
   "loz-ladx": {
-    "page": "/games/ZeldaLinksAwakening.html",
+    "page": "/games/Link'sAwakening.html",
     "title": "The Legend of Zelda: Link's Awakening DX"
   },
   "loz-ooa": {
-    "page": "/games/loz-ooa.html",
+    "page": "/games/OracleOfAges.html",
     "title": "The Legend of Zelda: Oracle of Ages"
   },
   "mk64": {
-    "page": "/games/mk64.html",
+    "page": "/games/MarioKart64.html",
     "title": "Mario Kart 64"
   },
   "mkds": {
-    "page": "/games/mkds.html",
+    "page": "/games/MarioKartDS.html",
     "title": "Mario Kart DS"
   },
   "mm": {
-    "page": "/games/mm.html",
+    "page": "/games/MegaMan.html",
     "title": "Mega Man"
   },
   "mm10": {
-    "page": "/games/mm10.html",
+    "page": "/games/MegaMan10.html",
     "title": "Mega Man 10"
   },
   "mm2": {
-    "page": "/games/mm2.html",
+    "page": "/games/MegaManII.html",
     "title": "Mega Man II"
   },
   "mm3": {
@@ -72,55 +72,55 @@
     "title": "Mega Man III"
   },
   "mm3gb": {
-    "page": "/games/mm3gb.html",
+    "page": "/games/MegaManIIIGB.html",
     "title": "Mega Man III (GB)"
   },
   "mm4": {
-    "page": "/games/mm4.html",
+    "page": "/games/MegaManIV.html",
     "title": "Mega Man IV"
   },
   "mm5": {
-    "page": "/games/mm5.html",
+    "page": "/games/MegaManV.html",
     "title": "Mega Man V"
   },
   "mm6": {
-    "page": "/games/mm6.html",
+    "page": "/games/MegaManVI.html",
     "title": "Mega Man VI"
   },
   "mm9": {
-    "page": "/games/mm9.html",
+    "page": "/games/MegaMan9.html",
     "title": "Mega Man 9"
   },
   "mmx2": {
-    "page": "/games/mmx2.html",
+    "page": "/games/MegaManX2.html",
     "title": "Mega Man X2"
   },
   "mmz2": {
-    "page": "/games/mmz2.html",
+    "page": "/games/MegaManZero2.html",
     "title": "Mega Man Zero 2"
   },
   "nes-open": {
-    "page": "/games/nes-open.html",
+    "page": "/games/NESOpen.html",
     "title": "NES Open Tournament Golf"
   },
   "rgc": {
-    "page": "/games/rgc.html",
+    "page": "/games/RetroGameChallenge.html",
     "title": "Retro Game Challenge"
   },
   "rolando": {
-    "page": "/games/rolando.html",
+    "page": "/games/Rolando.html",
     "title": "Rolando"
   },
   "sfxmm": {
-    "page": "/games/sfxmm.html",
+    "page": "/games/StreetFighterXMegaMan.html",
     "title": "Street Fighter X Mega Man"
   },
   "smb3": {
-    "page": "/games/smb3.html",
+    "page": "/games/SuperMarioBros3.html",
     "title": "Super Mario Bros. 3"
   },
   "tentacle": {
-    "page": "/games/tentacle.html",
+    "page": "/games/DayOfTheTentacle.html",
     "title": "Day of the Tentacle"
   }
 }

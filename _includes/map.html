@@ -4,8 +4,8 @@
 {% assign metadata = site.data.metadata.[include.map] %}
 {% assign dq='"' %}
 
-{% endcapture %}<div class="map">
-  <h4>{{ map.name }}</h4>
+{% endcapture %}<div class="map">{% unless include.omit_name %}
+  <h4>{{ map.name }}</h4>{% endunless %}
   <a href="{{ map.path }}"><img src="{{ metadata.thumbnail }}" alt="{{ map.name | replace: dq, '' }}" height="{{metadata.thumbnail_height}}" width="{{metadata.thumbnail_width}}" /></a>
   <ul>
     <li>{{ metadata.width }}×{{ metadata.height }}</li>{% capture size %}
