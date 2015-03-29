@@ -2,9 +2,9 @@ body {
   background-color: #222222;
   font-family: arial, sans-serif;
   margin: auto;
-  min-width: 540px;
-  padding: 20px 0 30px 0;
-  width: 85%;
+  min-width: 320px;
+  padding: 10px 0 30px 0;
+  width: 90%;
 }
 
 #container {
@@ -52,9 +52,46 @@ nav ul ul {
   padding: 0 0 8px 6px;
 }
 
+@media only screen and (max-width: 640px) {
+  nav {
+    float: none;
+    width: inherit;
+  }
+
+  nav > ul {
+    line-height: 32px;
+    margin-top: 0;
+  }
+
+  nav > ul > li span {
+    cursor: pointer;
+    user-select: none;
+  }
+
+  nav > ul > li span:before {
+    content: "\25b8";
+    display: inline-block;
+    vertical-align: middle;
+    width: 12px;
+  }
+
+  nav > ul ul {
+    display: none;
+  }
+
+  .expanded span:before {
+    content: "\25be";
+  }
+
+  .expanded ul {
+    display: block;
+  }
+}
+
 article {
   background-color: #ffffff;
   padding-left: 20px;
+  padding-right: 20px;
 }
 
 h2 {

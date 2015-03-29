@@ -9,9 +9,11 @@
   <meta name=viewport content="width=device-width, initial-scale=1" />
   <title>Revned's Maps: {{ game.title }}</title>
   <link href="/style.css" rel="stylesheet" type="text/css" />
-  <script>{% comment %} Adds stars to maps updated within the last six months. {% endcomment %}
-    window.onload=function(){for(var e=(new Date).getTime(),n=document.querySelectorAll(".new"),
-    t=0;t<n.length;t++)e-Date.parse(n[t].parentNode.textContent)<15768e6&&(n[t].innerHTML="★")};
+  <script>
+    window.onload = function() {
+{% include expand.js %}
+{% include star.js %}
+    };
   </script>
   {% include analytics.html %}
 </head>

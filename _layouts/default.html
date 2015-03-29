@@ -5,6 +5,11 @@
   <meta name=viewport content="width=device-width, initial-scale=1" />
   <title>{{ page.title }}</title>
   <link href="/style.css" rel="stylesheet" type="text/css" />
+  <script>
+    window.onload = function() {
+{% include expand.js %}
+    };
+  </script>
   {% include analytics.html %}
 </head>
 <body>
