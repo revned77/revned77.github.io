@@ -66,7 +66,6 @@ nav ul ul {
   nav > ul > li span {
     cursor: pointer;
     display: inline-block;
-    user-select: none;
     width: 100%;
   }
 
