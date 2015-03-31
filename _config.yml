@@ -1,5 +1,7 @@
 safe: true
 
+timezone: US/Mountain
+
 collections:
   games:
     output: true
