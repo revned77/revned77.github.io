@@ -20,12 +20,12 @@ body {
 
 header {
   border-bottom: 2px solid #999999;
-  padding: 20px 0 20px 40px;
+  padding: 14px 0 20px 40px;
 }
 
 header a {
   color: #ffffff;
-  font-size: 2em;
+  font-size: 28px;
   text-decoration: none;
 }
 
@@ -65,7 +65,9 @@ nav ul ul {
 
   nav > ul > li span {
     cursor: pointer;
+    display: inline-block;
     user-select: none;
+    width: 100%;
   }
 
   nav > ul > li span:before {
@@ -79,6 +81,11 @@ nav ul ul {
     display: none;
   }
 
+  nav a {
+    display: inline-block;
+    width: 100%;
+  }
+
   .expanded span:before {
     content: "\25be";
   }
@@ -90,8 +97,22 @@ nav ul ul {
 
 article {
   background-color: #ffffff;
+  font-size: 13px;
   padding-left: 20px;
   padding-right: 20px;
+}
+
+article a {
+  color: #3a6add;
+  text-decoration: none;
+}
+
+article a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 22px;
 }
 
 h2 {
