@@ -244,6 +244,16 @@
     "name": "Soul Prison (corrected aspect ratio)",
     "path": "/maps/Castlevania%20-%20Symphony%20of%20the%20Night/Soul%20Prison%20%28corrected%20aspect%20ratio%29.png"
   },
+  "cv2-day": {
+    "game": "cv2",
+    "name": "Transylvania (Day)",
+    "path": "/maps/Castlevania%20II%20-%20Simon's%20Quest/Transylvania%20%28Day%29.png"
+  },
+  "cv2-night": {
+    "game": "cv2",
+    "name": "Transylvania (Night)",
+    "path": "/maps/Castlevania%20II%20-%20Simon's%20Quest/Transylvania%20%28Night%29.png"
+  },
   "cv3-1": {
     "game": "cv3",
     "name": "Level 1: Warakiya Village",

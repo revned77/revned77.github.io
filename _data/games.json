@@ -19,6 +19,10 @@
     "page": "/games/SymphonyOfTheNight.html",
     "title": "Castlevania: Symphony of the Night"
   },
+  "cv2": {
+    "page": "/games/CastlevaniaII.html",
+    "title": "Castlevania II: Simon's Quest"
+  },
   "cv3": {
     "page": "/games/CastlevaniaIII.html",
     "title": "Castlevania III: Dracula's Curse"

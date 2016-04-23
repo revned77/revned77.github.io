@@ -1062,5 +1062,15 @@
     "maps": [
       "gccx2-gqs-world"
     ]
+  },
+  "1461369653": {
+    "commit": "8839fec4a0d86a932bb72163f5b0022b127fb557",
+    "games": [
+      "cv2"
+    ],
+    "maps": [
+      "cv2-day",
+      "cv2-night"
+    ]
   }
 }
