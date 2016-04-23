@@ -440,6 +440,24 @@
     "thumbnail_width": 256,
     "width": 3104
   },
+  "cv2-day": {
+    "date": 1461369653,
+    "height": 1376,
+    "size": 496739,
+    "thumbnail": "/img/thumbs/cv2-day.png",
+    "thumbnail_height": 11,
+    "thumbnail_width": 256,
+    "width": 31008
+  },
+  "cv2-night": {
+    "date": 1461369653,
+    "height": 1376,
+    "size": 385326,
+    "thumbnail": "/img/thumbs/cv2-night.png",
+    "thumbnail_height": 11,
+    "thumbnail_width": 256,
+    "width": 31008
+  },
   "cv3-1": {
     "date": 1162944000,
     "height": 864,
