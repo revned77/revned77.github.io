@@ -12,8 +12,8 @@ Also available nearby is a set of miscellaneous
 <a href="https://github.com/revned77/mapping-tools">tools</a> I've created over the years to assist
 in my mapping process.</p>
 
-<h2>Latest Map Updates</h2>{% assign i = 0 %}{% for commit in site.data.history reversed %}{% assign game_count = commit[1].games | size %}{% assign map_count = commit[1].maps | size %}
+<h2>Latest Map Updates</h2>{% assign i = 0 %}{% for commit in site.data.history reversed %}{% assign game_count = commit[1].games | size %}{% assign new_map_count = commit[1].new_maps | size %}{% assign updated_map_count = commit[1].updated_maps | size %}
 <p>
   <a href="https://github.com/revned77/revned77.github.io/commit/{{commit[1].commit}}"><img src="/img/github.png" height="12" width="12" alt="GitHub icon" /></a>
-  {{ commit[0] | date: "%b %d, %Y" }}: {{ commit[1].maps | size}} map{% if map_count > 1 %}s{% endif %} for {% if game_count == 1 %}{% assign game = commit[1].games[0] %}{% include gamelink.html game=game %}{% else %}multiple games{% endif %}
+  {{ commit[0] | date: "%b %d, %Y" }}: {% if new_map_count > 0 %}{{ commit[1].new_maps | size}} new{% if updated_map_count == 0 %} map{% if new_map_count > 1 %}s{% endif %}{% endif %}{% if updated_map_count > 0 %} and {% endif %}{% endif %}{% if updated_map_count > 0 %}{{ commit[1].updated_maps | size}} updated map{% if new_map_count + updated_map_count > 1 %}s{% endif %}{% endif %} for {% if game_count == 1 %}{% assign game = commit[1].games[0] %}{% include gamelink.html game=game %}{% else %}multiple games{% endif %}
 </p>{% assign i = i | plus: 1 %}{% if i == 6 %}{% break %}{% endif %}{% endfor %}
