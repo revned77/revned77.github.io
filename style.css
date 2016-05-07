@@ -155,6 +155,7 @@ h4 {
 
 .map li {
   display: inline;
+  position: relative;
 }
 
 .map li:after {
@@ -166,8 +167,11 @@ h4 {
   content: none;
 }
 
-.new {
+.new.map li:last-child:after {
   color: #d0b068;
-  display: inline-block;
-  width: 0;
+  content: "\2605";
+  padding-left: 4px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
 }
