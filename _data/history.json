@@ -4,34 +4,37 @@
     "games": [
       "mm3"
     ],
-    "maps": [
+    "new_maps": [
       "mm3-snake"
-    ]
+    ],
+    "updated_maps": []
   },
   "1072213200": {
     "commit": "eecbc6404bdb3d6c4cddd9587fecfa553a1e61d4",
     "games": [
       "mm3"
     ],
-    "maps": [
+    "new_maps": [
       "mm3-hard"
-    ]
+    ],
+    "updated_maps": []
   },
   "1072292400": {
     "commit": "8ef972bd6669c2d956cd588c027f5485aad5596c",
     "games": [
       "mm3"
     ],
-    "maps": [
+    "new_maps": [
       "mm3-magnet"
-    ]
+    ],
+    "updated_maps": []
   },
   "1079895600": {
     "commit": "33125a88f95cc399375162c77722282b9cb65fef",
     "games": [
       "mm3"
     ],
-    "maps": [
+    "new_maps": [
       "mm3-break",
       "mm3-gemini",
       "mm3-gemini-revisited",
@@ -48,14 +51,15 @@
       "mm3-wily4",
       "mm3-wily5",
       "mm3-wily6"
-    ]
+    ],
+    "updated_maps": []
   },
   "1088535600": {
     "commit": "adee9fba917d8355c13e63ac4508b54591ad4fd7",
     "games": [
       "mm2"
     ],
-    "maps": [
+    "new_maps": [
       "mm2-air",
       "mm2-bubble",
       "mm2-crash",
@@ -70,58 +74,63 @@
       "mm2-wily5",
       "mm2-wily6",
       "mm2-wood"
-    ]
+    ],
+    "updated_maps": []
   },
   "1088536600": {
     "commit": "f53d26b3908ab57d28a58020d37478cda1a4cd5f",
     "games": [
       "mm"
     ],
-    "maps": [
+    "new_maps": [
       "mm-bomb",
       "mm-guts",
       "mm-ice"
-    ]
+    ],
+    "updated_maps": []
   },
   "1090695600": {
     "commit": "0431f7eef82162f2f0adee15cd3d39ef05c57ca5",
     "games": [
       "mm"
     ],
-    "maps": [
+    "new_maps": [
       "mm-fire",
       "mm-wily1",
       "mm-wily2",
       "mm-wily3",
       "mm-wily4"
-    ]
+    ],
+    "updated_maps": []
   },
   "1100314800": {
     "commit": "2c261f40930291a6b3ae1c3d929fba5f48f9483f",
     "games": [
       "cv"
     ],
-    "maps": [
+    "new_maps": [
       "cv"
-    ]
+    ],
+    "updated_maps": []
   },
   "1112209200": {
     "commit": "04e016e93ed7bbbe2579288c7e33d0ec907fab87",
     "games": [
       "tentacle"
     ],
-    "maps": [
+    "new_maps": [
       "tentacle-future",
       "tentacle-past",
       "tentacle-present"
-    ]
+    ],
+    "updated_maps": []
   },
   "1114887600": {
     "commit": "d6382a56ac1f3f3a3b7df305b2441080eb01ddd9",
     "games": [
       "mm4"
     ],
-    "maps": [
+    "new_maps": [
       "mm4-cossack1",
       "mm4-cossack2",
       "mm4-cossack3",
@@ -136,23 +145,25 @@
       "mm4-wily2",
       "mm4-wily3",
       "mm4-wily4"
-    ]
+    ],
+    "updated_maps": []
   },
   "1116050400": {
     "commit": "31064225fbe438c0edeef4d3423fbf65c3000f7d",
     "games": [
       "mmz2"
     ],
-    "maps": [
+    "new_maps": [
       "mmz2-intro"
-    ]
+    ],
+    "updated_maps": []
   },
   "1116637200": {
     "commit": "39f874712af2b84e38afe0a14a5ef2d445b9a497",
     "games": [
       "mm3gb"
     ],
-    "maps": [
+    "new_maps": [
       "mm3gb-drill",
       "mm3gb-dust",
       "mm3gb-gemini",
@@ -161,50 +172,55 @@
       "mm3gb-snake",
       "mm3gb-spark",
       "mm3gb-suzy"
-    ]
+    ],
+    "updated_maps": []
   },
   "1116702000": {
     "commit": "1633b4578d2579e2e17252c832a588db5cfa65db",
     "games": [
       "mmx2"
     ],
-    "maps": [
+    "new_maps": [
       "mmx2-intro"
-    ]
+    ],
+    "updated_maps": []
   },
   "1117173600": {
     "commit": "12ef00aa69782e6c0601456384c4715c049482b4",
     "games": [
       "mmx2"
     ],
-    "maps": [
+    "new_maps": [
       "mmx2-volcanic"
-    ]
+    ],
+    "updated_maps": []
   },
   "1120863600": {
     "commit": "1d11e4619eba7d21c9f5f42b7b07d56469c7a6c0",
     "games": [
       "mmx2"
     ],
-    "maps": [
+    "new_maps": [
       "mmx2-deepsea"
-    ]
+    ],
+    "updated_maps": []
   },
   "1121209200": {
     "commit": "a89ac22e4ced75aed409073774ce898086082737",
     "games": [
       "mmx2"
     ],
-    "maps": [
+    "new_maps": [
       "mmx2-junkyard"
-    ]
+    ],
+    "updated_maps": []
   },
   "1135191600": {
     "commit": "423c177e523b2b3781842f40d4fb731d39aaf8db",
     "games": [
       "loz-ooa"
     ],
-    "maps": [
+    "new_maps": [
       "loz-ooa-animals",
       "loz-ooa-maku-past",
       "loz-ooa-maku-present",
@@ -219,14 +235,15 @@
       "loz-ooa-turret",
       "loz-ooa-underwater-past",
       "loz-ooa-underwater-present"
-    ]
+    ],
+    "updated_maps": []
   },
   "1135969200": {
     "commit": "18d9830fb5b5c9ab507c32a0ce1fc177130087d6",
     "games": [
       "smb3"
     ],
-    "maps": [
+    "new_maps": [
       "smb3-1-5",
       "smb3-4-1",
       "smb3-4-2",
@@ -237,14 +254,16 @@
       "smb3-4-airship",
       "smb3-4-f1",
       "smb3-4-f2"
-    ]
+    ],
+    "updated_maps": []
   },
   "1136145600": {
     "commit": "d1289b90b21d88e2d75730a1a151ed543e35c532",
     "games": [
       "cv"
     ],
-    "maps": [
+    "new_maps": [],
+    "updated_maps": [
       "cv"
     ]
   },
@@ -253,47 +272,51 @@
     "games": [
       "mk64"
     ],
-    "maps": [
+    "new_maps": [
       "mk64-battle",
       "mk64-flower",
       "mk64-mushroom",
       "mk64-special",
       "mk64-star"
-    ]
+    ],
+    "updated_maps": []
   },
   "1145811600": {
     "commit": "707552f6f28ebdec6041ecc0154f30b1111a919f",
     "games": [
       "loz-la"
     ],
-    "maps": [
+    "new_maps": [
       "loz-la-koholint"
-    ]
+    ],
+    "updated_maps": []
   },
   "1160550000": {
     "commit": "de1c0cb7b1c6f7b04866f3125dcbab43eb40fe10",
     "games": [
       "kid-dracula"
     ],
-    "maps": [
+    "new_maps": [
       "kid-dracula-1"
-    ]
+    ],
+    "updated_maps": []
   },
   "1162875600": {
     "commit": "3dfd6884fa887102d06e772384369f33e4ed5b94",
     "games": [
       "cv-dos"
     ],
-    "maps": [
+    "new_maps": [
       "cv-dos-castle"
-    ]
+    ],
+    "updated_maps": []
   },
   "1162944000": {
     "commit": "9f286c081733bd6491261c3646e87d3a27230a56",
     "games": [
       "cv3"
     ],
-    "maps": [
+    "new_maps": [
       "cv3-1",
       "cv3-10",
       "cv3-2",
@@ -311,14 +334,15 @@
       "cv3-7-courtyard",
       "cv3-8",
       "cv3-9"
-    ]
+    ],
+    "updated_maps": []
   },
   "1163480400": {
     "commit": "eb08e0e2cfd946f60de2f426bb7c23774e64b58e",
     "games": [
       "loz-ladx"
     ],
-    "maps": [
+    "new_maps": [
       "loz-ladx-angler",
       "loz-ladx-bottle",
       "loz-ladx-catfish",
@@ -329,14 +353,15 @@
       "loz-ladx-koholint",
       "loz-ladx-tail",
       "loz-ladx-turtle"
-    ]
+    ],
+    "updated_maps": []
   },
   "1190250000": {
     "commit": "7bb0329ca483bfb66d4b934e215b649e8d6484c1",
     "games": [
       "lemmings"
     ],
-    "maps": [
+    "new_maps": [
       "lemmings-fun-01",
       "lemmings-fun-02",
       "lemmings-fun-03",
@@ -457,35 +482,38 @@
       "lemmings-tricky-28",
       "lemmings-tricky-29",
       "lemmings-tricky-30"
-    ]
+    ],
+    "updated_maps": []
   },
   "1192323600": {
     "commit": "896910f1d3fd98360984ac62d682cfaaeeb9e3b4",
     "games": [
       "loz-ooa"
     ],
-    "maps": [
+    "new_maps": [
       "loz-ooa-ancient",
-      "loz-ooa-animals",
       "loz-ooa-crown",
       "loz-ooa-hero",
       "loz-ooa-jabu",
+      "loz-ooa-mermaid-past",
+      "loz-ooa-moonlit",
+      "loz-ooa-skull",
+      "loz-ooa-symmetry",
+      "loz-ooa-wing"
+    ],
+    "updated_maps": [
+      "loz-ooa-animals",
       "loz-ooa-maku-past",
       "loz-ooa-maku-present",
-      "loz-ooa-mermaid-past",
       "loz-ooa-mermaid-present",
-      "loz-ooa-moonlit",
       "loz-ooa-past",
       "loz-ooa-present",
       "loz-ooa-rescue",
       "loz-ooa-rites",
-      "loz-ooa-skull",
       "loz-ooa-spirit",
-      "loz-ooa-symmetry",
       "loz-ooa-turret",
       "loz-ooa-underwater-past",
-      "loz-ooa-underwater-present",
-      "loz-ooa-wing"
+      "loz-ooa-underwater-present"
     ]
   },
   "1224208800": {
@@ -493,7 +521,8 @@
     "games": [
       "mm3"
     ],
-    "maps": [
+    "new_maps": [],
+    "updated_maps": [
       "mm3-break",
       "mm3-gemini",
       "mm3-gemini-revisited",
@@ -520,8 +549,11 @@
     "games": [
       "mm4"
     ],
-    "maps": [
+    "new_maps": [
       "mm4-bright",
+      "mm4-toad"
+    ],
+    "updated_maps": [
       "mm4-cossack1",
       "mm4-cossack2",
       "mm4-cossack3",
@@ -532,7 +564,6 @@
       "mm4-pharaoh",
       "mm4-ring",
       "mm4-skull",
-      "mm4-toad",
       "mm4-wily1",
       "mm4-wily2",
       "mm4-wily3",
@@ -544,10 +575,12 @@
     "games": [
       "mm"
     ],
-    "maps": [
-      "mm-bomb",
+    "new_maps": [
       "mm-cut",
-      "mm-elec",
+      "mm-elec"
+    ],
+    "updated_maps": [
+      "mm-bomb",
       "mm-fire",
       "mm-guts",
       "mm-ice",
@@ -562,16 +595,18 @@
     "games": [
       "mkds"
     ],
-    "maps": [
+    "new_maps": [
       "mkds-maps"
-    ]
+    ],
+    "updated_maps": []
   },
   "1228849200": {
     "commit": "8881b334c9de9661abbc6d54c713bac359c147e1",
     "games": [
       "mm2"
     ],
-    "maps": [
+    "new_maps": [],
+    "updated_maps": [
       "mm2-air",
       "mm2-bubble",
       "mm2-crash",
@@ -593,7 +628,7 @@
     "games": [
       "mm5"
     ],
-    "maps": [
+    "new_maps": [
       "mm5-charge",
       "mm5-crystal",
       "mm5-gravity",
@@ -610,14 +645,15 @@
       "mm5-wily2",
       "mm5-wily3",
       "mm5-wily4"
-    ]
+    ],
+    "updated_maps": []
   },
   "1229580000": {
     "commit": "8046fdfae5c6f63e5a7a6d859ce88e75e9509856",
     "games": [
       "mm6"
     ],
-    "maps": [
+    "new_maps": [
       "mm6-blizzard",
       "mm6-centaur",
       "mm6-flame",
@@ -634,14 +670,16 @@
       "mm6-x3",
       "mm6-x4",
       "mm6-yamato"
-    ]
+    ],
+    "updated_maps": []
   },
   "1229824800": {
     "commit": "f2232ea8136aaa07c2dc70b14b626846709c5818",
     "games": [
       "mm3"
     ],
-    "maps": [
+    "new_maps": [],
+    "updated_maps": [
       "mm3-gemini",
       "mm3-needle",
       "mm3-wily4"
@@ -652,7 +690,8 @@
     "games": [
       "cv"
     ],
-    "maps": [
+    "new_maps": [],
+    "updated_maps": [
       "cv"
     ]
   },
@@ -661,7 +700,7 @@
     "games": [
       "rolando"
     ],
-    "maps": [
+    "new_maps": [
       "rolando-1-1",
       "rolando-1-2",
       "rolando-1-3",
@@ -707,23 +746,25 @@
       "rolando-5-7",
       "rolando-5-8",
       "rolando-5-9"
-    ]
+    ],
+    "updated_maps": []
   },
   "1252735200": {
     "commit": "02b714c7d30674b24259197015eba0ad9244f5b1",
     "games": [
       "cv-sotn"
     ],
-    "maps": [
+    "new_maps": [
       "cv-sotn-castle"
-    ]
+    ],
+    "updated_maps": []
   },
   "1262307600": {
     "commit": "536089db494c3d788490dab5da7ad19456c6ddc9",
     "games": [
       "mm9"
     ],
-    "maps": [
+    "new_maps": [
       "mm9-concrete",
       "mm9-galaxy",
       "mm9-hornet",
@@ -737,26 +778,27 @@
       "mm9-wily2",
       "mm9-wily3",
       "mm9-wily4"
-    ]
+    ],
+    "updated_maps": []
   },
   "1263754800": {
     "commit": "cea36a5f62d01d9dc3346d25dc80850aaea76f24",
     "games": [
       "mm9"
     ],
-    "maps": [
+    "new_maps": [
       "mm9-endless"
-    ]
+    ],
+    "updated_maps": []
   },
   "1265684400": {
     "commit": "f2014868e997eaf8203e63f5cfc80cc3612a2cac",
     "games": [
       "cv-sotn"
     ],
-    "maps": [
+    "new_maps": [
       "cv-sotn-abandoned",
       "cv-sotn-alchemy",
-      "cv-sotn-castle",
       "cv-sotn-catacombs",
       "cv-sotn-caverns",
       "cv-sotn-clock",
@@ -767,6 +809,9 @@
       "cv-sotn-marble",
       "cv-sotn-olrox",
       "cv-sotn-royal"
+    ],
+    "updated_maps": [
+      "cv-sotn-castle"
     ]
   },
   "1267498800": {
@@ -774,22 +819,22 @@
     "games": [
       "mm10"
     ],
-    "maps": [
+    "new_maps": [
       "mm10-sheep"
-    ]
+    ],
+    "updated_maps": []
   },
   "1269741600": {
     "commit": "c3fd0ccb198babc07571799d5a4298bcdf22760d",
     "games": [
       "mm10"
     ],
-    "maps": [
+    "new_maps": [
       "mm10-blade",
       "mm10-chill",
       "mm10-commando",
       "mm10-nitro",
       "mm10-pump",
-      "mm10-sheep",
       "mm10-solar",
       "mm10-strike",
       "mm10-wily1",
@@ -797,6 +842,9 @@
       "mm10-wily3",
       "mm10-wily4",
       "mm10-wily5"
+    ],
+    "updated_maps": [
+      "mm10-sheep"
     ]
   },
   "1270533600": {
@@ -804,19 +852,21 @@
     "games": [
       "mm10"
     ],
-    "maps": [
+    "new_maps": [
       "mm10-special1"
-    ]
+    ],
+    "updated_maps": []
   },
   "1272837600": {
     "commit": "9ca60e1733dec19c5127e91136d7c65d3663edb9",
     "games": [
       "mm10"
     ],
-    "maps": [
+    "new_maps": [
       "mm10-special2",
       "mm10-special3"
-    ]
+    ],
+    "updated_maps": []
   },
   "1276671600": {
     "commit": "51c6b55c47eb0d81137516444126d2fa64e62b70",
@@ -825,11 +875,13 @@
       "cv-ooe",
       "cv-por"
     ],
-    "maps": [
+    "new_maps": [
       "cv-dos-abyss",
-      "cv-dos-castle",
       "cv-ooe-maps",
       "cv-por-maps"
+    ],
+    "updated_maps": [
+      "cv-dos-castle"
     ]
   },
   "1288504800": {
@@ -837,28 +889,30 @@
     "games": [
       "mm10"
     ],
-    "maps": [
+    "new_maps": [
       "mm10-endless"
-    ]
+    ],
+    "updated_maps": []
   },
   "1330585200": {
     "commit": "14b356e101b53f44b95740fd7fa9e9067f26b38f",
     "games": [
       "cv-sotn"
     ],
-    "maps": [
+    "new_maps": [
       "cv-sotn-cursed",
       "cv-sotn-garden",
       "cv-sotn-hell-garden",
       "cv-sotn-soul"
-    ]
+    ],
+    "updated_maps": []
   },
   "1350194400": {
     "commit": "94395187f94b8cc760c9ce7cf9fc3b545608c551",
     "games": [
       "loz-la"
     ],
-    "maps": [
+    "new_maps": [
       "loz-la-angler",
       "loz-la-bottle",
       "loz-la-catfish",
@@ -867,14 +921,15 @@
       "loz-la-key",
       "loz-la-tail",
       "loz-la-turtle"
-    ]
+    ],
+    "updated_maps": []
   },
   "1359511200": {
     "commit": "056a9fa98cb6275eb9e2f9c533d0c1e186aabcc0",
     "games": [
       "sfxmm"
     ],
-    "maps": [
+    "new_maps": [
       "sfxmm-blanka",
       "sfxmm-chunli",
       "sfxmm-dhalsim",
@@ -883,37 +938,39 @@
       "sfxmm-ryu",
       "sfxmm-urien",
       "sfxmm-viper"
-    ]
+    ],
+    "updated_maps": []
   },
   "1360216800": {
     "commit": "f31fa17f5ba2ed8f48cef282bc6dce367071ac32",
     "games": [
       "sfxmm"
     ],
-    "maps": [
+    "new_maps": [
       "sfxmm-akuma",
       "sfxmm-balrog",
       "sfxmm-bison",
       "sfxmm-lab",
       "sfxmm-vega"
-    ]
+    ],
+    "updated_maps": []
   },
   "1374372000": {
     "commit": "f1190f0ed3dd62c9c4cfb712a08fa60f1d0cf986",
     "games": [
       "rgc"
     ],
-    "maps": [
+    "new_maps": [
       "rgc-gq-world"
-    ]
+    ],
+    "updated_maps": []
   },
   "1377986400": {
     "commit": "8883e37bec726da7745a596a6ea30ef0d8d18498",
     "games": [
       "kid-dracula"
     ],
-    "maps": [
-      "kid-dracula-1",
+    "new_maps": [
       "kid-dracula-2",
       "kid-dracula-3",
       "kid-dracula-4",
@@ -922,6 +979,9 @@
       "kid-dracula-7",
       "kid-dracula-8",
       "kid-dracula-9"
+    ],
+    "updated_maps": [
+      "kid-dracula-1"
     ]
   },
   "1395540000": {
@@ -929,7 +989,13 @@
     "games": [
       "cv-sotn"
     ],
-    "maps": [
+    "new_maps": [
+      "cv-sotn-outer-clear",
+      "cv-sotn-outer-fog",
+      "cv-sotn-outer-heavy",
+      "cv-sotn-outer-light"
+    ],
+    "updated_maps": [
       "cv-sotn-abandoned",
       "cv-sotn-alchemy",
       "cv-sotn-caverns",
@@ -937,11 +1003,7 @@
       "cv-sotn-entrance",
       "cv-sotn-library",
       "cv-sotn-marble",
-      "cv-sotn-olrox",
-      "cv-sotn-outer-clear",
-      "cv-sotn-outer-fog",
-      "cv-sotn-outer-heavy",
-      "cv-sotn-outer-light"
+      "cv-sotn-olrox"
     ]
   },
   "1408312800": {
@@ -949,19 +1011,19 @@
     "games": [
       "nes-open"
     ],
-    "maps": [
+    "new_maps": [
       "nes-open-japan",
       "nes-open-uk",
       "nes-open-us"
-    ]
+    ],
+    "updated_maps": []
   },
   "1409518800": {
     "commit": "8516473155f59ed1a145d3e28d8d41ebacb0027c",
     "games": [
       "rolando"
     ],
-    "maps": [
-      "rolando-2-2",
+    "new_maps": [
       "rolando-5-10",
       "rolando-5-11",
       "rolando-5-12",
@@ -973,6 +1035,9 @@
       "rolando-5-18",
       "rolando-5-19",
       "rolando-5-20"
+    ],
+    "updated_maps": [
+      "rolando-2-2"
     ]
   },
   "1410724800": {
@@ -980,16 +1045,18 @@
     "games": [
       "cv-sotn"
     ],
-    "maps": [
+    "new_maps": [
       "cv-sotn-bloodlines",
+      "cv-sotn-forest",
+      "cv-sotn-nightmare"
+    ],
+    "updated_maps": [
       "cv-sotn-castle",
       "cv-sotn-catacombs",
       "cv-sotn-clock",
-      "cv-sotn-forest",
       "cv-sotn-garden",
       "cv-sotn-hell-garden",
       "cv-sotn-keep",
-      "cv-sotn-nightmare",
       "cv-sotn-royal"
     ]
   },
@@ -998,7 +1065,7 @@
     "games": [
       "cv-sotn"
     ],
-    "maps": [
+    "new_maps": [
       "cv-sotn-anti-chapel",
       "cv-sotn-black-marble",
       "cv-sotn-cave",
@@ -1016,14 +1083,20 @@
       "cv-sotn-reverse-outer-fog",
       "cv-sotn-reverse-outer-heavy",
       "cv-sotn-reverse-outer-light"
-    ]
+    ],
+    "updated_maps": []
   },
   "1416024000": {
     "commit": "23557c06678fe46904765451ab834cea2f71fdb8",
     "games": [
       "cv-sotn"
     ],
-    "maps": [
+    "new_maps": [
+      "cv-sotn-cursed-fixed",
+      "cv-sotn-full",
+      "cv-sotn-soul-fixed"
+    ],
+    "updated_maps": [
       "cv-sotn-abandoned",
       "cv-sotn-alchemy",
       "cv-sotn-black-marble",
@@ -1033,11 +1106,9 @@
       "cv-sotn-caverns",
       "cv-sotn-clock",
       "cv-sotn-colosseum",
-      "cv-sotn-cursed-fixed",
       "cv-sotn-death-wing",
       "cv-sotn-entrance",
       "cv-sotn-forbidden",
-      "cv-sotn-full",
       "cv-sotn-inverted",
       "cv-sotn-keep",
       "cv-sotn-library",
@@ -1050,8 +1121,7 @@
       "cv-sotn-reverse-caverns",
       "cv-sotn-reverse-colosseum",
       "cv-sotn-reverse-entrance",
-      "cv-sotn-royal",
-      "cv-sotn-soul-fixed"
+      "cv-sotn-royal"
     ]
   },
   "1426134791": {
@@ -1059,18 +1129,20 @@
     "games": [
       "gccx2"
     ],
-    "maps": [
+    "new_maps": [
       "gccx2-gqs-world"
-    ]
+    ],
+    "updated_maps": []
   },
   "1461369653": {
     "commit": "8839fec4a0d86a932bb72163f5b0022b127fb557",
     "games": [
       "cv2"
     ],
-    "maps": [
+    "new_maps": [
       "cv2-day",
       "cv2-night"
-    ]
+    ],
+    "updated_maps": []
   }
 }

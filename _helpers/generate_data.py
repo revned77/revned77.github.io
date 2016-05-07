@@ -42,14 +42,18 @@ def main():
         'thumbnail_width': thumbnail_width,
         'date': next(git.iter_commits(paths=path)).committed_date}
 
-    for commit in git.iter_commits(paths=path):
+    commits = list(git.iter_commits(paths=path))
+    for commit in commits:
       if not commit.committed_date in history:
         history[commit.committed_date] = {
             'commit': commit.hexsha,
             'games': set(),
-            'maps': set()}
+            'new_maps': set(),
+            'updated_maps': set()}
       history[commit.committed_date]['games'].add(maps[map]['game'])
-      history[commit.committed_date]['maps'].add(map)
+    history[commits[-1].committed_date]['new_maps'].add(map)
+    for commit in commits[0:-1]:
+      history[commit.committed_date]['updated_maps'].add(map)
 
   with open('_data/metadata.json', 'w') as f:
     f.write(json.dumps(metadata, sort_keys=True, indent=2))
