@@ -51,10 +51,6 @@
     "page": "/games/OracleOfAges.html",
     "title": "The Legend of Zelda: Oracle of Ages"
   },
-  "mk64": {
-    "page": "/games/MarioKart64.html",
-    "title": "Mario Kart 64"
-  },
   "mkds": {
     "page": "/games/MarioKartDS.html",
     "title": "Mario Kart DS"
@@ -98,10 +94,6 @@
   "mmx2": {
     "page": "/games/MegaManX2.html",
     "title": "Mega Man X2"
-  },
-  "mmz2": {
-    "page": "/games/MegaManZero2.html",
-    "title": "Mega Man Zero 2"
   },
   "nes-open": {
     "page": "/games/NESOpen.html",
