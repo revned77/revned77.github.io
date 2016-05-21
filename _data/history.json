@@ -148,16 +148,6 @@
     ],
     "updated_maps": []
   },
-  "1116050400": {
-    "commit": "31064225fbe438c0edeef4d3423fbf65c3000f7d",
-    "games": [
-      "mmz2"
-    ],
-    "new_maps": [
-      "mmz2-intro"
-    ],
-    "updated_maps": []
-  },
   "1116637200": {
     "commit": "39f874712af2b84e38afe0a14a5ef2d445b9a497",
     "games": [
@@ -266,20 +256,6 @@
     "updated_maps": [
       "cv"
     ]
-  },
-  "1136761200": {
-    "commit": "e435094df0e014b7fe7f36ffce0acc91e1e48e02",
-    "games": [
-      "mk64"
-    ],
-    "new_maps": [
-      "mk64-battle",
-      "mk64-flower",
-      "mk64-mushroom",
-      "mk64-special",
-      "mk64-star"
-    ],
-    "updated_maps": []
   },
   "1145811600": {
     "commit": "707552f6f28ebdec6041ecc0154f30b1111a919f",

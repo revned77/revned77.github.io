@@ -1199,31 +1199,6 @@
     "name": "Level 2: Wing Dungeon",
     "path": "/maps/The%20Legend%20of%20Zelda%20-%20Oracle%20of%20Ages/Wing%20Dungeon.png"
   },
-  "mk64-battle": {
-    "game": "mk64",
-    "name": "Battle Mode",
-    "path": "/maps/Mario%20Kart%2064/Battle%20Mode.png"
-  },
-  "mk64-flower": {
-    "game": "mk64",
-    "name": "Flower Cup",
-    "path": "/maps/Mario%20Kart%2064/Flower%20Cup.png"
-  },
-  "mk64-mushroom": {
-    "game": "mk64",
-    "name": "Mushroom Cup",
-    "path": "/maps/Mario%20Kart%2064/Mushroom%20Cup.png"
-  },
-  "mk64-special": {
-    "game": "mk64",
-    "name": "Special Cup",
-    "path": "/maps/Mario%20Kart%2064/Special%20Cup.png"
-  },
-  "mk64-star": {
-    "game": "mk64",
-    "name": "Star Cup",
-    "path": "/maps/Mario%20Kart%2064/Star%20Cup.png"
-  },
   "mkds-maps": {
     "game": "mkds",
     "name": "Grand Prix (In-Game Maps)",
@@ -1898,11 +1873,6 @@
     "game": "mmx2",
     "name": "Volcanic Zone",
     "path": "/maps/Mega%20Man%20X2/Volcanic%20Zone.png"
-  },
-  "mmz2-intro": {
-    "game": "mmz2",
-    "name": "Intro Mission",
-    "path": "/maps/Mega%20Man%20Zero%202/Intro%20Mission.png"
   },
   "nes-open-japan": {
     "game": "nes-open",

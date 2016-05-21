@@ -2159,51 +2159,6 @@
     "thumbnail_width": 256,
     "width": 1920
   },
-  "mk64-battle": {
-    "date": 1136761200,
-    "height": 240,
-    "size": 3541,
-    "thumbnail": "/img/thumbs/mk64-battle.png",
-    "thumbnail_height": 240,
-    "thumbnail_width": 176,
-    "width": 176
-  },
-  "mk64-flower": {
-    "date": 1136761200,
-    "height": 240,
-    "size": 4173,
-    "thumbnail": "/img/thumbs/mk64-flower.png",
-    "thumbnail_height": 240,
-    "thumbnail_width": 208,
-    "width": 208
-  },
-  "mk64-mushroom": {
-    "date": 1136761200,
-    "height": 304,
-    "size": 3953,
-    "thumbnail": "/img/thumbs/mk64-mushroom.png",
-    "thumbnail_height": 256,
-    "thumbnail_width": 148,
-    "width": 176
-  },
-  "mk64-special": {
-    "date": 1136761200,
-    "height": 272,
-    "size": 4409,
-    "thumbnail": "/img/thumbs/mk64-special.png",
-    "thumbnail_height": 256,
-    "thumbnail_width": 165,
-    "width": 176
-  },
-  "mk64-star": {
-    "date": 1136761200,
-    "height": 240,
-    "size": 4083,
-    "thumbnail": "/img/thumbs/mk64-star.png",
-    "thumbnail_height": 240,
-    "thumbnail_width": 176,
-    "width": 176
-  },
   "mkds-maps": {
     "date": 1228467600,
     "height": 1680,
@@ -3418,15 +3373,6 @@
     "thumbnail_height": 213,
     "thumbnail_width": 256,
     "width": 3584
-  },
-  "mmz2-intro": {
-    "date": 1116050400,
-    "height": 217,
-    "size": 165740,
-    "thumbnail": "/img/thumbs/mmz2-intro.png",
-    "thumbnail_height": 7,
-    "thumbnail_width": 256,
-    "width": 7720
   },
   "nes-open-japan": {
     "date": 1408312800,
