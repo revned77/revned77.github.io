@@ -1130,5 +1130,17 @@
     "updated_maps": [
       "cv"
     ]
+  },
+  "1463883786": {
+    "commit": "4e651c765eee3ba3714df2fbd3c3abe2991e87d7",
+    "games": [
+      "cv-ooe",
+      "cv-por"
+    ],
+    "new_maps": [],
+    "updated_maps": [
+      "cv-ooe-maps",
+      "cv-por-maps"
+    ]
   }
 }
