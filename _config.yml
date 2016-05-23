@@ -5,3 +5,5 @@ timezone: US/Mountain
 collections:
   games:
     output: true
+
+exclude: [Gemfile, Gemfile.lock]

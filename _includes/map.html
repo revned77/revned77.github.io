@@ -1,25 +1,27 @@
-{% capture trim_generated_whitespace %}
-
+{% capture result %}
 {% assign map = site.data.maps.[include.map] %}
 {% assign metadata = site.data.metadata.[include.map] %}
+{% capture size %}
+  {% if metadata.size >= 1048576 %}
+    {{ metadata.size | divided_by: 1048576 }} MB
+  {% elsif metadata.size >= 1024 %}
+    {{ metadata.size | divided_by: 1024 }} KB
+  {% else %}
+    {{ metadata.size }} bytes
+  {% endif %}
+{% endcapture %}
 {% assign dq='"' %}
 
-{% endcapture %}<div class="map">{% unless include.omit_name %}
+<div class="map">{% unless include.omit_name %}
   <h4>{{ map.name }}</h4>{% endunless %}
-  <a href="{{ map.path }}"><img src="{{ metadata.thumbnail }}" alt="{{ map.name | replace: dq, '' }}" height="{{metadata.thumbnail_height}}" width="{{metadata.thumbnail_width}}" /></a>
+  <a href="{{ map.path }}">
+    <img src="{{ metadata.thumbnail }}" alt="{{ map.name | replace: dq, '' }}" height="{{metadata.thumbnail_height}}" width="{{metadata.thumbnail_width}}" />
+  </a>
   <ul>
-    <li>{{ metadata.width }}×{{ metadata.height }}</li>{% capture size %}
-
-{% if metadata.size >= 1048576 %}
-{{ metadata.size | divided_by: 1048576 }} MB
-{% elsif metadata.size >= 1024 %}
-{{ metadata.size | divided_by: 1024 }} KB
-{% else %}
-{{ metadata.size }} bytes
-{% endif %}
-
-{% endcapture %}
-    <li>{{ size | strip_newlines }}</li>
+    <li>{{ metadata.width }}×{{ metadata.height }}</li>
+    <li>{{ size | strip }}</li>
     <li>{{ metadata.date | date: "%b %d, %Y" }}</li>
   </ul>
 </div>
+
+{% endcapture %}{{ result | strip }}
