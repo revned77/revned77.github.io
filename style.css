@@ -1,44 +1,75 @@
+html {
+  height: 100%;
+}
+
 body {
-  background-color: #222222;
-  font-family: arial, sans-serif;
-  margin: auto;
-  min-width: 320px;
-  padding: 10px 0 30px 0;
-  width: 90%;
-}
-
-#container {
-  min-height: 660px;
-  overflow: hidden;
-}
-
-#container > * {
-  margin: 0 0 -30000px 0;
-  overflow: auto;
-  padding-bottom: 30000px;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  min-height: calc(100% - 40px);
+  min-width: 558px;
+  padding: 10px 5% 30px 5%;
 }
 
 header {
-  border-bottom: 2px solid #999999;
-  padding: 14px 0 20px 40px;
+  flex: 0 0;
+  padding: 14px 0 20px 30px;
+}
+
+#container {
+  display: flex;
+  flex: 1 auto;
+  flex-direction: row;
+}
+
+nav {
+  flex: 0 0 225px;
+  padding: 12px 0 0 8px;
+}
+
+article {
+  flex: 1 1;
+  padding: 0 20px;
+}
+
+@media only screen and (max-width: 620px) {
+  body {
+    min-width: auto;
+  }
+
+  #container {
+    flex-direction: column;
+  }
+
+  nav {
+    flex-basis: auto;
+  }
+}
+
+/******************************************************************************/
+
+body {
+  background-color: #222;
+  font-family: arial, sans-serif;
+}
+
+header {
+  border-bottom: 2px solid #999;
 }
 
 header a {
-  color: #ffffff;
-  font-size: 28px;
+  color: #fff;
+  font-size: 24px;
   text-decoration: none;
 }
 
 nav {
-  background-color: #555555;
-  color: #ffffff;
-  float: left;
-  padding: 12px 0 0 8px;
-  width: 225px;
+  background-color: #555;
+  color: #fff;
 }
 
 nav a {
-  color: #bbbbbb;
+  color: #bbb;
   font-size: 12px;
   text-decoration: none;
 }
@@ -52,12 +83,7 @@ nav ul ul {
   padding: 0 0 8px 6px;
 }
 
-@media only screen and (max-width: 640px) {
-  nav {
-    float: none;
-    width: inherit;
-  }
-
+@media only screen and (max-width: 620px) {
   nav > ul {
     line-height: 32px;
     margin-top: 0;
@@ -66,6 +92,10 @@ nav ul ul {
   nav > ul > li span {
     cursor: pointer;
     display: inline-block;
+    user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
     width: 100%;
   }
 
@@ -95,10 +125,8 @@ nav ul ul {
 }
 
 article {
-  background-color: #ffffff;
+  background-color: #fff;
   font-size: 13px;
-  padding-left: 20px;
-  padding-right: 20px;
 }
 
 article a {
@@ -132,6 +160,8 @@ h4 {
   margin-bottom: 4px;
 }
 
+/******************************************************************************/
+
 .map {
   display: inline-block;
   margin: 10px;
@@ -141,12 +171,12 @@ h4 {
 }
 
 .map img {
-  border: 1px solid #888888;
+  border: 1px solid #888;
   padding: 2px;
 }
 
 .map ul {
-  color: #888888;
+  color: #888;
   font-size: 11px;
   list-style-type: none;
   margin: 2px;
