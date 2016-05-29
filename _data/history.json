@@ -293,23 +293,9 @@
       "cv3"
     ],
     "new_maps": [
-      "cv3-1",
       "cv3-10",
       "cv3-2",
-      "cv3-3-1",
-      "cv3-3-2",
-      "cv3-4-marsh",
-      "cv3-4-ship",
-      "cv3-5-cave-1",
-      "cv3-5-cave-2",
-      "cv3-5-tower",
-      "cv3-6-catacombs",
-      "cv3-6-causeway",
-      "cv3-6-sunken",
-      "cv3-7-cliffside",
-      "cv3-7-courtyard",
-      "cv3-8",
-      "cv3-9"
+      "cv3-8"
     ],
     "updated_maps": []
   },
@@ -1141,6 +1127,33 @@
     "updated_maps": [
       "cv-ooe-maps",
       "cv-por-maps"
+    ]
+  },
+  "1464501412": {
+    "commit": "a9d237e3c2409582e029ad64d5859fd5702c0bd7",
+    "games": [
+      "cv3"
+    ],
+    "new_maps": [
+      "cv3-1",
+      "cv3-3-1",
+      "cv3-3-2",
+      "cv3-4a",
+      "cv3-4b",
+      "cv3-5a",
+      "cv3-5b-1",
+      "cv3-5b-2",
+      "cv3-6a",
+      "cv3-6b",
+      "cv3-6c",
+      "cv3-7a",
+      "cv3-7b",
+      "cv3-9"
+    ],
+    "updated_maps": [
+      "cv3-10",
+      "cv3-2",
+      "cv3-8"
     ]
   }
 }

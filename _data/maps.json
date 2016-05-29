@@ -256,8 +256,8 @@
   },
   "cv3-1": {
     "game": "cv3",
-    "name": "Level 1: Warakiya Village",
-    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%201%20-%20Warakiya%20Village.png"
+    "name": "Level 1: Warakiya",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%201%20-%20Warakiya.png"
   },
   "cv3-10": {
     "game": "cv3",
@@ -271,63 +271,63 @@
   },
   "cv3-3-1": {
     "game": "cv3",
-    "name": "Level 3: The Mad Forest (Part 1)",
-    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%203%20-%20The%20Mad%20Forest%20-%20Part%201.png"
+    "name": "Level 3 - Part 1: The Forest of Darkness",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%203%20-%20Part%201%20-%20The%20Forest%20of%20Darkness.png"
   },
   "cv3-3-2": {
     "game": "cv3",
-    "name": "Level 3: The Mad Forest (Part 2)",
-    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%203%20-%20The%20Mad%20Forest%20-%20Part%202.png"
+    "name": "Level 3 - Part 2: The Forest of Darkness",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%203%20-%20Part%202%20-%20The%20Forest%20of%20Darkness.png"
   },
-  "cv3-4-marsh": {
+  "cv3-4a": {
     "game": "cv3",
-    "name": "Level 4: The Murky Marsh of Morbid Morons",
-    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%204%20-%20The%20Murky%20Marsh%20of%20Morbid%20Morons.png"
+    "name": "Level 4a: The Haunted Ship of Fools",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%204a%20-%20The%20Haunted%20Ship%20of%20Fools.png"
   },
-  "cv3-4-ship": {
+  "cv3-4b": {
     "game": "cv3",
-    "name": "Level 4: The Haunted Ship of Fools",
-    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%204%20-%20The%20Haunted%20Ship%20of%20Fools.png"
+    "name": "Level 4b: The Murky Marsh of Morbid Morons",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%204b%20-%20The%20Murky%20Marsh%20of%20Morbid%20Morons.png"
   },
-  "cv3-5-cave-1": {
+  "cv3-5a": {
     "game": "cv3",
-    "name": "Level 5: Alucard's Cave (Part 1)",
-    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%205%20-%20Alucard%27s%20Cave%20-%20Part%201.png"
+    "name": "Level 5a: The Tower of Terror",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%205a%20-%20The%20Tower%20of%20Terror.png"
   },
-  "cv3-5-cave-2": {
+  "cv3-5b-1": {
     "game": "cv3",
-    "name": "Level 5: Alucard's Cave (Part 2)",
-    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%205%20-%20Alucard%27s%20Cave%20-%20Part%202.png"
+    "name": "Level 5b - Part 1: The Lost Son of Dracula",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%205b%20-%20Part%201%20-%20The%20Lost%20Son%20of%20Dracula.png"
   },
-  "cv3-5-tower": {
+  "cv3-5b-2": {
     "game": "cv3",
-    "name": "Level 5: The Tower of Terror",
-    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%205%20-%20The%20Tower%20of%20Terror.png"
+    "name": "Level 5b - Part 2: The Hall of the Skull Knight King",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%205b%20-%20Part%202%20-%20The%20Hall%20of%20the%20Skull%20Knight%20King.png"
   },
-  "cv3-6-catacombs": {
+  "cv3-6a": {
     "game": "cv3",
-    "name": "Level 6: The Underground Catacombs",
-    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%206%20-%20The%20Underground%20Catacombs.png"
+    "name": "Level 6a: The Causeway of Chaos",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%206a%20-%20The%20Causeway%20of%20Chaos.png"
   },
-  "cv3-6-causeway": {
+  "cv3-6b": {
     "game": "cv3",
-    "name": "Level 6: The Causeway",
-    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%206%20-%20The%20Causeway.png"
+    "name": "Level 6b: The Cursed Catacombs",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%206b%20-%20The%20Cursed%20Catacombs.png"
   },
-  "cv3-6-sunken": {
+  "cv3-6c": {
     "game": "cv3",
-    "name": "Level 6: The Sunken City of Poltergeists",
-    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%206%20-%20The%20Sunken%20City%20of%20Poltergeists.png"
+    "name": "Level 6c: The Sunken City of Poltergeists",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%206c%20-%20The%20Sunken%20City%20of%20Poltergeists.png"
   },
-  "cv3-7-cliffside": {
+  "cv3-7a": {
     "game": "cv3",
-    "name": "Level 7: The Cliffside Entrance",
-    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%207%20-%20The%20Cliffside%20Entrance.png"
+    "name": "Level 7a: The Castle Courtyard",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%207a%20-%20The%20Castle%20Courtyard.png"
   },
-  "cv3-7-courtyard": {
+  "cv3-7b": {
     "game": "cv3",
-    "name": "Level 7: The Castle Courtyard",
-    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%207%20-%20The%20Castle%20Courtyard.png"
+    "name": "Level 7b: The Cliffside Entrance",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%207b%20-%20The%20Cliffside%20Entrance.png"
   },
   "cv3-8": {
     "game": "cv3",
@@ -336,8 +336,8 @@
   },
   "cv3-9": {
     "game": "cv3",
-    "name": "Level 9: The Inner Halls",
-    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%209%20-%20The%20Inner%20Halls.png"
+    "name": "Level 9: The Outer Wall",
+    "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%209%20-%20The%20Outer%20Wall.png"
   },
   "gccx2-gqs-world": {
     "game": "gccx2",
