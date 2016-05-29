@@ -459,157 +459,157 @@
     "width": 31008
   },
   "cv3-1": {
-    "date": 1162944000,
-    "height": 864,
-    "size": 80749,
+    "date": 1464501412,
+    "height": 896,
+    "size": 84016,
     "thumbnail": "/img/thumbs/cv3-1.png",
-    "thumbnail_height": 54,
+    "thumbnail_height": 55,
     "thumbnail_width": 256,
-    "width": 4096
+    "width": 4112
   },
   "cv3-10": {
-    "date": 1162944000,
-    "height": 1104,
-    "size": 62412,
+    "date": 1464501412,
+    "height": 1136,
+    "size": 65356,
     "thumbnail": "/img/thumbs/cv3-10.png",
-    "thumbnail_height": 122,
+    "thumbnail_height": 125,
     "thumbnail_width": 256,
-    "width": 2304
+    "width": 2320
   },
   "cv3-2": {
-    "date": 1162944000,
-    "height": 2688,
-    "size": 85099,
+    "date": 1464501412,
+    "height": 2720,
+    "size": 91186,
     "thumbnail": "/img/thumbs/cv3-2.png",
     "thumbnail_height": 256,
-    "thumbnail_width": 97,
-    "width": 1024
+    "thumbnail_width": 99,
+    "width": 1056
   },
   "cv3-3-1": {
-    "date": 1162944000,
-    "height": 800,
-    "size": 53042,
+    "date": 1464501412,
+    "height": 848,
+    "size": 57328,
     "thumbnail": "/img/thumbs/cv3-3-1.png",
-    "thumbnail_height": 80,
+    "thumbnail_height": 83,
     "thumbnail_width": 256,
-    "width": 2560
+    "width": 2592
   },
   "cv3-3-2": {
-    "date": 1162944000,
-    "height": 768,
-    "size": 33638,
+    "date": 1464501412,
+    "height": 848,
+    "size": 37475,
     "thumbnail": "/img/thumbs/cv3-3-2.png",
-    "thumbnail_height": 153,
+    "thumbnail_height": 163,
     "thumbnail_width": 256,
-    "width": 1280
+    "width": 1328
   },
-  "cv3-4-marsh": {
-    "date": 1162944000,
-    "height": 768,
-    "size": 69448,
-    "thumbnail": "/img/thumbs/cv3-4-marsh.png",
-    "thumbnail_height": 51,
-    "thumbnail_width": 256,
-    "width": 3840
-  },
-  "cv3-4-ship": {
-    "date": 1162944000,
-    "height": 768,
-    "size": 84127,
-    "thumbnail": "/img/thumbs/cv3-4-ship.png",
-    "thumbnail_height": 69,
-    "thumbnail_width": 256,
-    "width": 2816
-  },
-  "cv3-5-cave-1": {
-    "date": 1162944000,
-    "height": 608,
-    "size": 92059,
-    "thumbnail": "/img/thumbs/cv3-5-cave-1.png",
-    "thumbnail_height": 33,
-    "thumbnail_width": 256,
-    "width": 4608
-  },
-  "cv3-5-cave-2": {
-    "date": 1162944000,
-    "height": 208,
-    "size": 23776,
-    "thumbnail": "/img/thumbs/cv3-5-cave-2.png",
-    "thumbnail_height": 34,
-    "thumbnail_width": 256,
-    "width": 1536
-  },
-  "cv3-5-tower": {
-    "date": 1162944000,
-    "height": 2688,
-    "size": 78164,
-    "thumbnail": "/img/thumbs/cv3-5-tower.png",
-    "thumbnail_height": 256,
-    "thumbnail_width": 73,
-    "width": 768
-  },
-  "cv3-6-catacombs": {
-    "date": 1162944000,
-    "height": 768,
-    "size": 52203,
-    "thumbnail": "/img/thumbs/cv3-6-catacombs.png",
-    "thumbnail_height": 109,
-    "thumbnail_width": 256,
-    "width": 1792
-  },
-  "cv3-6-causeway": {
-    "date": 1162944000,
-    "height": 416,
-    "size": 52359,
-    "thumbnail": "/img/thumbs/cv3-6-causeway.png",
-    "thumbnail_height": 27,
-    "thumbnail_width": 256,
-    "width": 3840
-  },
-  "cv3-6-sunken": {
-    "date": 1162944000,
-    "height": 800,
-    "size": 70933,
-    "thumbnail": "/img/thumbs/cv3-6-sunken.png",
-    "thumbnail_height": 57,
-    "thumbnail_width": 256,
-    "width": 3584
-  },
-  "cv3-7-cliffside": {
-    "date": 1162944000,
-    "height": 2784,
-    "size": 113994,
-    "thumbnail": "/img/thumbs/cv3-7-cliffside.png",
-    "thumbnail_height": 256,
-    "thumbnail_width": 188,
-    "width": 2048
-  },
-  "cv3-7-courtyard": {
-    "date": 1162944000,
-    "height": 864,
-    "size": 63291,
-    "thumbnail": "/img/thumbs/cv3-7-courtyard.png",
-    "thumbnail_height": 78,
-    "thumbnail_width": 256,
-    "width": 2816
-  },
-  "cv3-8": {
-    "date": 1162944000,
-    "height": 768,
-    "size": 58230,
-    "thumbnail": "/img/thumbs/cv3-8.png",
+  "cv3-4a": {
+    "date": 1464501412,
+    "height": 848,
+    "size": 87976,
+    "thumbnail": "/img/thumbs/cv3-4a.png",
     "thumbnail_height": 76,
     "thumbnail_width": 256,
-    "width": 2560
+    "width": 2848
+  },
+  "cv3-4b": {
+    "date": 1464501412,
+    "height": 800,
+    "size": 72875,
+    "thumbnail": "/img/thumbs/cv3-4b.png",
+    "thumbnail_height": 52,
+    "thumbnail_width": 256,
+    "width": 3872
+  },
+  "cv3-5a": {
+    "date": 1464501412,
+    "height": 2720,
+    "size": 81410,
+    "thumbnail": "/img/thumbs/cv3-5a.png",
+    "thumbnail_height": 256,
+    "thumbnail_width": 76,
+    "width": 816
+  },
+  "cv3-5b-1": {
+    "date": 1464501412,
+    "height": 656,
+    "size": 95769,
+    "thumbnail": "/img/thumbs/cv3-5b-1.png",
+    "thumbnail_height": 36,
+    "thumbnail_width": 256,
+    "width": 4640
+  },
+  "cv3-5b-2": {
+    "date": 1464501412,
+    "height": 256,
+    "size": 27024,
+    "thumbnail": "/img/thumbs/cv3-5b-2.png",
+    "thumbnail_height": 35,
+    "thumbnail_width": 256,
+    "width": 1840
+  },
+  "cv3-6a": {
+    "date": 1464501412,
+    "height": 464,
+    "size": 55911,
+    "thumbnail": "/img/thumbs/cv3-6a.png",
+    "thumbnail_height": 30,
+    "thumbnail_width": 256,
+    "width": 3872
+  },
+  "cv3-6b": {
+    "date": 1464501412,
+    "height": 928,
+    "size": 55081,
+    "thumbnail": "/img/thumbs/cv3-6b.png",
+    "thumbnail_height": 151,
+    "thumbnail_width": 256,
+    "width": 1568
+  },
+  "cv3-6c": {
+    "date": 1464501412,
+    "height": 848,
+    "size": 73877,
+    "thumbnail": "/img/thumbs/cv3-6c.png",
+    "thumbnail_height": 60,
+    "thumbnail_width": 256,
+    "width": 3616
+  },
+  "cv3-7a": {
+    "date": 1464501412,
+    "height": 896,
+    "size": 66497,
+    "thumbnail": "/img/thumbs/cv3-7a.png",
+    "thumbnail_height": 80,
+    "thumbnail_width": 256,
+    "width": 2832
+  },
+  "cv3-7b": {
+    "date": 1464501412,
+    "height": 2832,
+    "size": 124666,
+    "thumbnail": "/img/thumbs/cv3-7b.png",
+    "thumbnail_height": 256,
+    "thumbnail_width": 186,
+    "width": 2064
+  },
+  "cv3-8": {
+    "date": 1464501412,
+    "height": 800,
+    "size": 61058,
+    "thumbnail": "/img/thumbs/cv3-8.png",
+    "thumbnail_height": 79,
+    "thumbnail_width": 256,
+    "width": 2592
   },
   "cv3-9": {
-    "date": 1162944000,
-    "height": 2592,
-    "size": 97800,
+    "date": 1464501412,
+    "height": 2624,
+    "size": 100651,
     "thumbnail": "/img/thumbs/cv3-9.png",
     "thumbnail_height": 256,
-    "thumbnail_width": 126,
-    "width": 1280
+    "thumbnail_width": 128,
+    "width": 1312
   },
   "gccx2-gqs-world": {
     "date": 1426134791,
