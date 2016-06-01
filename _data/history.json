@@ -1155,5 +1155,15 @@
       "cv3-2",
       "cv3-8"
     ]
+  },
+  "1464792324": {
+    "commit": "f566491d76f08e60efc47b2f1a22e1b03f1607e2",
+    "games": [
+      "diablo"
+    ],
+    "new_maps": [
+      "diablo-tristram"
+    ],
+    "updated_maps": []
   }
 }
