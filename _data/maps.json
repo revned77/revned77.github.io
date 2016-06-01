@@ -339,6 +339,11 @@
     "name": "Level 9: The Outer Wall",
     "path": "/maps/Castlevania%20III%20-%20Dracula%27s%20Curse/Level%209%20-%20The%20Outer%20Wall.png"
   },
+  "diablo-tristram": {
+    "game": "diablo",
+    "name": "Tristram",
+    "path": "/maps/Diablo/Tristram.png"
+  },
   "gccx2-gqs-world": {
     "game": "gccx2",
     "name": "World",
