@@ -8,7 +8,6 @@ import os
 from copy import deepcopy
 from git import Repo
 from PIL import Image
-from urllib.parse import unquote
 
 
 def main():
@@ -20,7 +19,7 @@ def main():
   history = {}
 
   for map in maps:
-    path = '.' + unquote(maps[map]['path'])
+    path = '.' + maps[map]['path']
     thumb_path = 'img/thumbs/%s.png' % map
 
     with Image.open(path) as im:
