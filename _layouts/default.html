@@ -11,7 +11,7 @@
         {% endif %}
         {% endcapture %}{{ description | strip }}"/>
     <meta name=viewport content="width=device-width, initial-scale=1" />
-    <title>Revned's Video Game Maps{% if game %} - {{ game.title }}{% endif %}</title>
+    <title>{% if game %}{{ game.title }} - {% endif %}Revned's Video Game Maps</title>
     <link href="/style.css" rel="stylesheet" type="text/css" />
     <script>
       window.onload = function() {
