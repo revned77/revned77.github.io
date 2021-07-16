@@ -4,7 +4,7 @@ layout: default
 <h2>Welcome</h2>
 <p>This is a collection of all of the video game maps I have created. Most are also available at <a href="http://vgmaps.com">VGMaps.com</a>.</p>
 
-<p>The raw files and full history can be found in the <a href="https://github.com/revned77/revned77.github.io/tree/master/maps">GitHub repository</a>. Also available nearby is a set of miscellaneous <a href="https://github.com/revned77/mapping-tools">tools</a> I've created over the years to assist in my mapping process.</p>
+<p>The raw files and full history can be found in the <a href="https://github.com/revned77/revned77.github.io/tree/master/maps">GitHub repository</a>.</p>
 
 <h2>Latest Map Updates</h2>{% assign i = 0 %}{% for commit in site.data.history reversed %}{% assign game_count = commit[1].games | size %}{% assign new_map_count = commit[1].new_maps | size %}{% assign updated_map_count = commit[1].updated_maps | size %}
 <p>

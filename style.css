@@ -196,12 +196,3 @@ h4 {
 .map li:last-child:after {
   content: none;
 }
-
-.new.map li:last-child:after {
-  color: #d0b068;
-  content: "\2605";
-  padding-left: 4px;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-}
